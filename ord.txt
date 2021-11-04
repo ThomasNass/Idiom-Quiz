@@ -1,0 +1,1371 @@
+[{"uttryck":"Alla taggar utåt","svar":"Inte vara mottaglig för avvikande åsikter, ge ett aggressivt bemötande."}
+{"uttryck":"Alla tiders","svar":" Utomordentligt."},
+{"uttryck":"Allena saliggörande ","svar":" Om något (det enda) som ska lösa ett problem."},
+{"uttryck":"Ana argan list ","svar":" Ana att något obehagligt är på gång."},
+{"uttryck":"Ana ugglor i mossen ","svar":" Ana något misstänkt, misstänka en dold fälla."},
+{"uttryck":"Andra bullar ","svar":" en strängare ordning är att vänta."},
+{"uttryck":"Anno dazumal ","svar":" Av latinets anno, 'i år', och tyskans dazumal, 'då för tiden'."},
+{"uttryck":"Armbåga sig fram ","svar":" Tränga sig fram, skaffa sig egna fördelar på bekostnad av andra."},
+{"uttryck":"Av det rätta virket ","svar":" Att vara tillräcklig för uppgiften i fråga."},
+{"uttryck":"Av samma korn och skrå ","svar":" Variant av uttrycket 'Av samma skrot och korn', med identisk betydelse."},
+{"uttryck":"Av samma skrot och korn ","svar":" Vara av samma (underförstått dåliga) kvalitet eller sort."},
+{"uttryck":"Avsked på grått papper ","svar":" Få avsked/sparken från en anställning på ett snöpligt sätt."},
+{"uttryck":"Bakom flötet ","svar":" Inte fatta vad saken gäller."},
+{"uttryck":"Bakom lyckta dörrar ","svar":" Utan allmän insyn."},
+{"uttryck":"Bakom lås och bom ","svar":" I fängelse, i säkert förvar."},
+{"uttryck":"Balansera på slak lina ","svar":" Att riskera något och vara osäker på utgången."},
+{"uttryck":"(Som) balsam för själen ","svar":" Något som ger tröst eller lindring."},
+{"uttryck":"Barka åt skogen ","svar":" Det kommer att gå illa."},
+{"uttryck":"Barn av sin tid ","svar":" När någon eller något är präglat av den tid man lever i."},
+{"uttryck":"Basunera ut ","svar":" Högljutt meddela något."},
+{"uttryck":"Be för sin sjuka mor ","svar":" Att be om något för någon annans räkning, när det egentligen är man själv som vill ha det."},
+{"uttryck":"Befinna sig i fritt fall ","svar":" Om något som försämras i rask takt."},
+{"uttryck":"Befinna sig i förskingringen ","svar":" Vara på en plats långt hemifrån."},
+{"uttryck":"Begära någons huvud på ett fat ","svar":" Begära ett strängt straff för någon."},
+{"uttryck":"Behandla/ta i någon med silkesvantar ","svar":" Behandla någon mycket försiktigt."},
+{"uttryck":"Bara toppen av ett isberg/på isberget ","svar":" Man börjar inse att ett problem är betydligt större än det verkar vid en första anblick."},
+{"uttryck":"Beväpnad till tänderna ","svar":" Vara väl förberedd och utrustad."}
+Binda ris för/åt egen rygg ","svar":" Själv oavsiktligt erbjuda underlag för kritik.
+Bita av någon ","svar":" Bryskt avbryta någon.
+Bita huvudet av skammen ","svar":" Visa sig inte skämmas för att ha gjort något mycket skamligt
+(Få/tvingas) bita i det sura äpplet ","svar":" Göra något som man inte vill.
+Bita i gräset ","svar":" Förlora, misslyckas, avlida.
+Bjuda med armbågen ","svar":" Bjuda någon utan att egentligen mena det, även att erbjuda något som egentligen inte är värt särskilt mycket.
+Bjuda till ","svar":" Anstränga sig, göra sitt bästa.
+Black om foten ","svar":" Ett svårt hinder.
+Blek kopia ","svar":" Något som inte är lika bra som originalet.
+Bli blåst/snuvad/lurad på konfekten ","svar":" Känna sig lurad (på något).
+Bli vid sin läst ","svar":" Inte försöka sig på något nytt, hålla sig till en påtagen uppgift. Se även läst.
+Blod på händerna ","svar":" Vara skyldig till våldsbrott (t ex om regim).
+Blommor och bin ","svar":" Vardagligt om frågor som rör fortplantning och sexualitet (när man till exempel talar om dem med barn).
+Blåsa faran över ","svar":" Konstatera att det farliga läget har passerat.
+Bollen är rund ","svar":" Utgången är oviss, allt kan hända. Yttrat av Gunnar Gren, med innebörden att resultatet av fotbollsmatch inte går att förutse.
+Brinna för något ","svar":" Vara mycket engagerad i något.
+Brinner i knutarna ","svar":" Det är mycket bråttom.
+Bränna sina broar ","svar":" Förstöra sina möjligheter till återvändo, återtagande eller reträtt. Fatta beslut, vidta åtgärder, ställa ultimatum eller ge löften på ett sådant sätt att de inte kan återtagas, och att de måste följas till sin slutgiltiga konsekvens oavsett vad som händer. Jämför med 'måla in sig i ett hörn.' SAOB anger under 'Bränna sina skepp' även betydelsen 'rifva alla broar bakom sig'. Att bränna broar över naturliga hinder såsom t ex floder och raviner är mycket vanlig taktik vid militär reträtt, i syfte att försvåra efterföljande för fienden. Det medför dock att den egna möjligheten att återta uppgiven terräng också avsevärt försvåras.
+Bränna sina skepp ","svar":" Göra en återgång till det gamla omöjlig.
+Bränna sitt ljus i båda ändar ","svar":" Oklokt utnyttjande av sina krafter.
+Bröd och skådespel ","svar":" Att köpa sig makt av folket genom materiella ting och ytliga nöjen. Se Bröd och skådespel.
+Bulla upp ","svar":" Duka fram mycket med mat eller dryck.
+Bygger bo i huvudet ","svar":" När man får något att grubbla och tänka på eller oroa sig över.
+Bygga broar ","svar":" Försöka skapa något som förenar.
+Bygga luftslott ","svar":" Drömma ljusa men svagt underbyggda drömmar.
+Byta fot ","svar":" Plötsligt ändra åsikt.
+Både ha och äta kakan / både äta kakan och ha den kvar ","svar":" Göra två saker som inte båda låter sig göras.
+Både hängslen och livrem ","svar":" Vara fullständigt säker.
+Bära hundhuvudet ","svar":" Få bära skulden för något.
+Bära något i sitt sköte ","svar":" Komma att medföra.
+Bära syn för sägen ","svar":" Bevisa något som tidigare påståtts.
+Börja på ny kula ","svar":" Börja om på nytt.
+Cirkeln är sluten ","svar":" Att något eller någon åter är där det började.
+Damma av något ","svar":" Ta något i bruk igen.
+Dansa efter någons pipa ","svar":" Rätta sig efter någons vilja. Uttrycket tros komma från 1500","svar":"talet där björnförare använde en pipa för att dressera björnar och där björnen dansade till pipan.
+Dansa på någons grav ","svar":" Triumfera när någon dött eller trätt tillbaka.
+Dansen kring den gyllene kalven/guldkalven ","svar":" Penningdyrkan, penningbegär (jämför guldkalven.)
+Den breda vägen ","svar":" Syndens väg.
+Den dagen, den sorgen ","svar":" Om något bekymmersamt som man inte behöver oroa sig för i förtid.
+Den fula ankungen ","svar":" om en förbisedd person som så småningom istället blir beundrad. Från H.C. Andersens saga med samma namn.
+Den gubben går/gick inte ","svar":" Vardagligt, när man inte går med på något.
+Det blev pannkaka av alltihop ","svar":" När något blivit helt misslyckat.
+Det bästa är fiende till det goda ","svar":" Försök att förbättra något hindras med motiveringen att resultatet fortfarande kommer ha brister.
+Det fina i kråksången ","svar":" Finessen, poängen i något. Kråkors vårsång innehåller fina läten till skillnad från det normala kraxandet. Tidigast känt från Positivhalaren (1843) av August Blanche.
+Det flyger inga stekta sparvar i munnen på en ","svar":" Man får inget gratis.
+Det går sin gilla gång ","svar":" När inget sker utom det vanliga.
+Det går utför ","svar":" 1. Det är nerförsbacke. 2. Om något som ständigt försämras.
+Det knallar och går ","svar":" Allt är som det ska, ganska bra eller som vanligt.
+Det kan du hoppa upp och sätta dig på ","svar":" Tvärsäker försäkran.
+Det kan du skriva upp ","svar":" Tvärsäker försäkran.
+Det lackar mot jul eller det lider mot jul ","svar":" Julafton närmar sig.
+Det man inte har i huvudet får man ha i benen. ","svar":" Man är glömsk och får gå flera gånger.
+Det står och faller med honom/henne/den/det ","svar":" Nödvändigt villkor för existens.
+Det täcka könet ","svar":" Kvinnan.
+Det vete fåglarna ","svar":" När man inte vet eller är osäker.
+Ditt och datt ","svar":" Lite av varje.
+Don efter person ","svar":" När ett föremål passar en viss person särskilt bra, ofta skämtsamt.
+Dra/skära/ta alla över en/samma kam eller låta alla gå över samma kam ","svar":" att negativt bedöma alla efter samma mall. Även som ordspråk. Ursprungligen felöversatt från tyska: 'Alles über einen Kamm scheren', vilket egentligen betyder: 'Frisören använder samma kam till alla kunder.' 'Scheren' betyder i sammanhanget klippa hår, som tolkats som 'skära'. Uttrycket är känt i Sverige sen 1600","svar":"talet. Även formen 'dra alla över en kant' förekommer, vilket Språkrådet dock avråder från.
+Dra/släpa benen efter sig eller dra på benen ","svar":" Att söla.
+Dra det längsta/kortaste strået ","svar":" Att vinna respektive förlora i en tvistefråga.
+Dra dit pepparn växer ","svar":" Önska att någon försvinner. (Kraftuttryck, men mildare än dra åt helvete.) Känt sedan 1700","svar":"talet. Avsåg något land långt bort där peppar odlas.
+Dra det tyngsta lasset ","svar":" Göra det mesta arbetet.
+Dra en lans för någon/något även bryta en lans … ","svar":" Högt försvara någon/något. Rikta uppmärksamheten på något.
+Dra ett streck över det som varit ","svar":" Att glömma oförrätter.
+Dra/hålla i trådarna ","svar":" Att ha kontrollen över någon viss verksamhet.
+Dra/hålla i tåtarna ","svar":" Att diskret kontrollera och styra.
+Dra igång ","svar":" Börja.
+Dra ihop sig ","svar":" Man tror att något börjar. Ofta på formen 'Det drar ihop sig' eller 'Det börjar dra ihop sig'
+Dra/ta lärdom av något ","svar":" Att lära sig något av ett fel.
+Dra mig baklänges ","svar":" Uttryck för förvåning.
+Dra något gammalt över sig ","svar":" När man vill avfärda någon eller inte ha med någon att göra: 'Du kan dra något gammalt över dig!'
+Dra något i långbänk ","svar":" Att förhala, långdragen process som fördröjer beslut.
+Dra på munnen/smilbanden/smilbandet ","svar":" Le.
+Dra på trissor ","svar":" Uttryck för förvåning eller lättare missnöje.
+Dra sig till minnes ","svar":" Erinra sig.
+Dra sig tillbaka ","svar":" Avlägsna sig. Lämna sin anställning och gå i pension. Etc.
+Dra sina färde ","svar":" Ge sig iväg.
+Dra sin sista suck ","svar":" Att dö.
+Dra sitt strå till stacken ","svar":" Att lämna sitt bidrag. Anspelar på en myras arbetsinsats med myrstacken.
+Dra timmerstockar ","svar":" Snarka kraftigt.
+Dra/rycka undan mattan för någon/något ","svar":" Plötsligt göra förutsättningarna osäkra för någon/något.
+Dra ut på något ","svar":" Förlänga ett skeende.
+Dra ut på tiden ","svar":" Ta längre tid än väntat, dröja.
+Dra växlar på något ","svar":" Utnyttja och dra fördelar av något.
+Dra åt svångremmen ","svar":" Anpassa sig efter knappare ekonomiska förhållanden.
+Dra öronen åt sig ","svar":" Ana oråd.
+Dragen vid näsan ","svar":" Bli lurad.
+Dras med något ","svar":" Att acceptera något/någon mot sin vilja
+Driva något till sin spets ","svar":" Gå så långt det är möjligt i en fråga eller konflikt.
+Droppe i havet ","svar":" En mycket obetydlig mängd.
+Droppen som fick bägaren att rinna över ibland bara droppen ","svar":" När något gör att tålamodet med något slutligen tryter.
+Duka under ","svar":" Ge vika, gå under.
+Dummare än tåget ","svar":" När någon är oerhört dum.
+Därom tvista de lärde ","svar":" När ett problem är svårt eller omöjligt att avgöra. Ofta skämtsamt.
+Döden i grytan ","svar":" Något är det mest olycksbringande som kan hända. Talesätt som kommer från Andra Kungaboken 4:38","svar":"41 i Gamla Testamentet där profeten Elisha gjorde giftig mat ätbar.
+Dödens lammunge ","svar":" Räddningslöst förlorad.
+Efter många om och men ","svar":" Efter mycket krångel.
+Eftertankens kranka blekhet ","svar":" Bitter eftertanke. Från Carl August Hagbergs översättning av William Shakespeares drama Hamlet.
+Ekorrhjulet, sitta fast i ekorrhjulet, ta sig ur ekorrhjulet ","svar":" Hamna eller vara i en situation med saker som görs om och om igen och som inte leder någonstans, eller en situation där man blir stressad och inte kan uträtta något.
+Eld i baken ","svar":" Väldigt bråttom; 'Han fick eld i baken'.
+Eld och lågor ","svar":" Mycket entusiastisk.
+Elda för kråkorna ","svar":" Slösa med bränsle eller värme.
+Elefant i en porslinsaffär/porslinsbutik ","svar":" Någon som verbalt eller fysiskt uppför sig mycket klumpigt, och ställer till stora problem genom att inte tänka sig för.
+Elefanten i rummet/en elefant i rummet ","svar":" Något, oftast ett problem, som är mycket tydligt, men som ingen vågar prata om.
+En annan femma ","svar":" En annan sak, det förändrar saken. Oftast abstrakt.
+En fågel har viskat/kvittrat (i mitt öra) ","svar":" Ha hört ett rykte, någon har sagt att något. Uttrycket återfinns i Bibeln, Predikaren 10:20.
+En gång för alla ","svar":" Slutgiltigt.
+En vacker dag ","svar":" Någon gång när man minst anar det.
+Enligt/efter konstens alla regler ","svar":" grundligt, ordentligt, iakttagande av vederbörliga ceremonier'
+Ess i rockärmen ","svar":" Något att ta till vid behov som i en given situation garanterat kan ge ett övertag mot andra.
+Ett horn i sidan till någon ","svar":" Tycka illa om någon.
+Ett hår av Hin ","svar":" En mycket elak person. 'Hin' är en kortform av Hin håle, ett noaord för Satan.
+Ett litet korn av sanning ","svar":" En berättelse eller ett rykte kan innehålla delar som är sanna, men det mesta är lögn eller överdrifter.
+Ett ljus i mörkret ","svar":" Något hoppingivande under en svår tid.
+Ett strå vassare ","svar":" En smula bättre.
+Falla i god jord ","svar":" Tas emot med intresse eller uppskattning. Ursprungligen ur Bibelns evangelier, exempelvis Matteusevangeliet: 'Men somt föll i god jord, och gav frukt, dels hundrafalt, dels sextiofalt, dels trettiofalt'; (Matt. 13:8) om att människor tar emot förkunnelse och frälsning på olika vis, utifrån sina respektive förutsättningar.
+Falla/hamna mellan stolarna ","svar":" Ett ärende eller motsvarande hamnar mellan olika ansvarsområden och följden blir att ingen tar tag i det.
+Falla någon på läppen ","svar":" Något som gillas av någon.
+Falla på eget grepp ","svar":" Misslyckas på grund av egna handlingar.
+Fan och hans moster ","svar":" I slutet av uppräkning: Allt möjligt, alla möjliga personer. 'Skafferiet var överfullt av gammalt bröd, mögliga syltburkar och fan och hans moster.'
+Fara med osanning ","svar":" Tala osanning.
+Fara och flyga ","svar":" Be någon att fara och flyga, att uppmana någon att försvinna snabbt.
+Fara å/på färde ","svar":" Något farligt.
+Fel ute ","svar":" Har dragit fel slutsats.
+Fatta galoppen ","svar":" Förstå något, vanligen något mindre uppenbart.
+Femte hjulet under vagnen ","svar":" I vägen eller överflödig.
+Fin i kanten ","svar":" Att vara lite fånigt förnäm eller kräsen.
+Finns det hjärterum så finns det stjärterum ","svar":" Om man bara vill så får det ofta plats en till
+Fina fisken ","svar":" Utmärkt.
+Fiska i grumligt/grumliga vatten ","svar":" Skaffa sig fördelar i en förvirrad situation, ofta på ett tvivelaktigt sätt.
+Fjärilar i magen ","svar":" Känna sig nervös.
+Fjäder i hatten ","svar":" Fin merit.
+Flyga i luften ","svar":" Explodera, få ett raseriutbrott.
+Flyta ovanpå ","svar":" Göra sig gällande genom att spela överlägsen.
+Flåsa någon i nacken ","svar":" Att vara nära att hinna i kapp någon.
+Frid och fröjd ","svar":" Allmänt positivt. 'Allt är frid och fröjd.'
+Fritt fram ","svar":" Alla är fria att träda fram eller ta för sig.
+Från ax till limpa ","svar":" Från första idé till färdig produkt i en (tillverknings)process.
+Från vettet ","svar":" Har tillfälligt tappat förståndet.
+Ful fisk ","svar":" Skurkaktig person.
+Full i fan eller full i sjutton ","svar":" Pigg på att skämta och luras (vardagligt).
+Full rulle ","svar":" I hög fart, eller när det råder hög stämning.
+Full som en alika ","svar":" vara mycket berusad.
+Få betalt under bordet, få pengar under bordet ","svar":" Ta betalt för något i hemlighet, att ta emot mutor.
+Få blodad tand ","svar":" Bli inspirerad att göra mer av något.
+Få det hett om öronen ","svar":" Hamna i ett svårt och utsatt läge.
+Få en släng av sleven ","svar":" Få sin beskärda del.
+Få en syl i vädret ","svar":" Få yttra sig i ett samtal. Ofta på formen 'Inte få en syl i vädret'.
+Få ett kok stryk ","svar":" Få ordentligt med stryk.
+Få frispel ","svar":" Bli väldigt upphetsad.
+Få för gammal ost, få igen för gammal ost, få betalt för gammal ost, ge igen för gammal ost ","svar":" En hämnd för en gammal oförrätt.
+Få fötter ","svar":" blivit stulet
+Få kalla fötter ","svar":" Plötsligt få starka betänkligheter.
+Få kalla handen eller mötas av kalla handen ","svar":" Bli avvisad.
+Få kalla kårar ","svar":" Rysa.
+Få nys om något ","svar":" Höra talas om något
+Få något om bakfoten ","svar":" Att missuppfatta något.
+Få någon/något på halsen ","svar":" Tvingas ta hand om och ägna sig åt någon/något.
+Få någon/något på hjärnan ","svar":" Bli helt uppslukad av någon/något.
+Få silkessnöret ","svar":" Få en uppmaning att säga upp sig. Att få ett uppdrag som man får sparken efter, om man inte klarar av det. Kommer av ett faktiskt bruk i det gamla Osmanska riket, där en misshaglig ämbetsman kunde få ett silkessnöre som uppmaning att ta livet av sig.
+Få sina fiskar varma ","svar":" Få stark kritik.
+Få tji ","svar":" Göra ett förargligt bakslag.
+Få vatten på sin kvarn ","svar":" Någon har hävdat en negativ åsikt och det visar sig att han eller hon får ytterligare argument som styrker det han eller hon hävdat.
+Få veta att man lever ","svar":" Bli hårt ansatt. Exempel 'Hon ska få veta att hon lever när jag får tag i henne!'
+Få ändan ur vagnen ","svar":" Börja handla efter inaktiv period.
+Född i farstun ","svar":" obegåvad, tafatt eller ointelligent person. Ofta som förtydligande om någon person som i en första anblick verkar småkorkad men som tvärtom är mycket begåvad; 'Han/hon är inte född i farstun precis' det vill säga mycket begåvad.
+Född med en silversked i munnen ","svar":" Att vara gynnad sedan födseln.
+Följa/gå i någons fotspår ","svar":" Härma någons levnadsbana.
+För allt smör i Småland ","svar":" 'Inte för allt smör i Småland', inte till något pris som helst.
+För allt vad tygen håller ","svar":" Så mycket eller så fort man orkar.
+För fulla muggar ","svar":" Av alla krafter.
+För handen ","svar":" Föreligga. 'Inte vara för handen' ","svar":" inte föreligga.
+För hela slanten ","svar":" Uteslutande.
+För kung och fosterland ","svar":" Av alla krafter, (ta i) allt vad man orkar.
+Föra någon bakom ljuset ","svar":" Lura någon.
+Förstå hur landet ligger ","svar":" Se, veta hur något ligger till eller hur det förhåller sig med något.
+Försöka ta ner månen ","svar":" försöka göra det omöjliga.
+Förvalta sitt pund ","svar":" Omsorgsfullt sköta sina ekonomiska tillgångar eller sina talanger. Från Bibeln, Matteusevangeliet 25:14. Även på formerna förvalta sina pund, ockra med sitt pund, nyttja sitt pund, använda sitt pund och ta vara på sitt pund.
+Förvrida huvudet på någon ","svar":" Att göra någon tokig av förälskelse.
+Gammal i gården, förr gammal i gårde, att ha varit länge på samma plats (arbetsplats), att vara erfaren, att ha varit med länge. 'Gårde' är en dativform av 'gård'.
+Gammal som gatan ","svar":" Mycket gammal.
+Gamla surdegar ","svar":" Gamla olösta frågor och problemställningar som orsakar konflikter och bitterhet.
+Ge järnet ","svar":" Sätta in alla krafter.
+Ge någon en känga ","svar":" Ge någon en tillrättavisning, ge någon en knäpp på näsan.
+Ge någon fria eller lösa tyglar ","svar":" Att inte bestämma hålla efter någon hårt. Motsats: Strama tyglar.
+Ge svar på tal ","svar":" Avfärda någon med ett svar som får den andre att tystna.
+Ge upp andan ","svar":" Dö.
+Ge vid handen (att) ","svar":" Påvisar, 'ger resultatet (att)'. Exempel: 'En undersökning av statistiken ger vid handen att färre insjuknar i tbc nu än tidigare'.
+Gjuta olja på vågorna ","svar":" Lugna de upprörda känslorna.
+Glida fram/in/omkring på en räkmacka ","svar":" Inte utsättas för motstånd.
+Glad som en lärka ","svar":" Mycket glad.
+Glimten i ögat (med glimten i ögat, ha glimten i ögat) ","svar":" Ha humor, vara rolig, skämtsam eller gäckande.
+Gnugga geniknölarna ","svar":" Att anstränga sig mentalt.
+Gnugga händerna ","svar":" Visa sig tydligt belåten.
+Goddag ","svar":" yxskaft ","svar":" Att ge ett nonsenssvar på en ställd fråga. Ett svar som inte hänger ihop med frågan. Bakgrunden är en saga där en man, som hör väldigt dåligt, sitter och täljer på en träbit som ska bli ett yxskaft. En förbipasserande hälsar 'Goddag', men mannen antar att han frågar vad han tillverkar och svarar; 'Yxskaft', varpå följer en ordväxling där mannen ger helt fel svar på alla tilltal.
+Gripa efter ett halmstrå ","svar":" Att försöka klara en situation i sista stund.
+Gripa/ta något ur luften ","svar":" Hitta på.
+Gripa tillfället i flykten ","svar":" Passa på medan tillfälle bjuds.
+Grov i munnen ","svar":" Svär mycket.
+Gråa hår, att ge någon gråa hår eller att få gråa hår ","svar":" Att bli eller göra någon mycket bekymrad.
+Gråta blod ","svar":" Bli förtvivlad.
+Grädde(n) på moset ","svar":" Något angenämnt som tillkommer, utöver det som redan nämnts.
+Gräva ned stridsyxan ","svar":" Sluta fred.
+Gräva sin egen grav ","svar":" Förstöra för sig själv genom ogenomtänkta handlingar.
+Gräva upp stridsyxan ","svar":" Inleda krig eller strid.
+Gå av stapeln ","svar":" Äga rum. Från sjösättning av fartyg på stapelbädd.
+Gå bakom knuten ","svar":" Att gå och urinera.
+Gå bakom ryggen på någon ","svar":" Göra något utan att någon (viss) får reda på det.
+Gå bet på något ","svar":" Misslyckas med något.
+Gå bort ","svar":" Avlida.
+Gå dit näsan pekar ","svar":" Gå rakt fram.
+Gå/skära genom märg och ben. ","svar":" När något är mycket störande. (Kyla, ljud.)
+Gå i bräschen för något ","svar":" Verka för något, vara föregångare.
+Gå i gamla hjulspår, fastna i gamla hjulspår ","svar":" När förändring uteblir.
+Gå i graven ","svar":" Upphöra att finnas.
+Gå i spinn ","svar":" Uttryck för välbefinnande.
+Gå i stöpet ","svar":" Misslyckas.
+Gå i taket ","svar":" Bli mycket upprörd.
+Gå in i väggen ","svar":" Bli psykiskt eller fysiskt utbränd.
+Gå man ur huse ","svar":" Då många ställer upp för en sak. 'Huse' är en äldre dativform av 'hus', i betydelsen hus, hem, bostad.
+Gå med håven ","svar":" Att försöka få bidrag till något eller att försöka locka fram vänliga omdömen om sig själv på ett för tydligt sätt.
+Gå någon på nerverna ","svar":" Irritera någon kraftigt.
+Gå på en mina ","svar":" Råka illa ut.
+Gå på i ullstrumporna ","svar":" Fortsätta en verksamhet utan att låta sig hejdas eller påverkas.
+Gå på knäna ","svar":" Att vara nästan helt utmattad.
+Gå på pumpen ","svar":" Bli lurad, misslyckas.
+Gå till botten med något ","svar":" Undersöka något grundligt.
+Gå till storms mot något ","svar":" att häftigt angripa någon eller något.
+Gå troll i något ","svar":" När något blir helt omöjligt att komma tillrätta med.
+Gå under ","svar":" förintas.
+Gå under jorden ","svar":" Göra sig omöjlig att efterspana.
+Gå under klubban ","svar":" Säljas på auktion.
+Gå upp ett ljus för någon ","svar":" Någon förstår plötsligt, kommer plötsligt till insikt.
+Gå upp i limningen ","svar":" Inte kunna behärska sig.
+Gå ur tiden ","svar":" Avlida.
+Gå åt pipan ","svar":" Gå helt fel, misslyckas.
+Gå åt skogen ","svar":" Misslyckas.
+Gå över lik ","svar":" Visa stor hänsynslöshet.
+Gå över ån efter vatten ","svar":" Att göra någonting på ett krångligare sätt än det behöver vara.
+Göra en fuga ","svar":" Att sticka hemifrån. 
+Göra en höna av en fjäder ","svar":" Försöka få något obetydligt att verka viktigt.
+Göra någon/något rättvisa ","svar":" Ge berättigad uppmärksamhet och uppskattning eller vara jämbördig med.
+Göra rent hus ","svar":" Fullständigt avlägsna, laga så att ingenting blir kvar. Även 'Göra rent bord'.
+Göra sig själv rättvisa ","svar":" Visa sin verkliga förmåga.
+Göra slag i saken ","svar":" Hastigt avgöra något.
+Göra stora ögon ","svar":" bli mycket förvånad.
+Göra upp räkningen ","svar":" Hämnas, till exempel en oförrätt.
+Göra våld på ","svar":" Handla i strid med. Göra våld på sig själv ","svar":" Handla i strid med sin egen övertygelse.
+Ha det väl förspänt ","svar":" Ha det väl ordnat för sig.
+Ha en bulle i ugnen ","svar":" Vara gravid.
+Ha en oplockad gås med någon ","svar":" Ha något otalt med någon, ett ouppklarat i förhållande med någon.
+Ha en räv bakom örat ","svar":" Rävar är i fablerna mycket listiga och lurar sitt byte genom olika trick. En person med en räv bakom örat är någon som genom olika metoder överlistar andra personer.
+Ha en skruv lös ","svar":" Vara lätt korkad, vansinnig eller dum.
+Ha ett finger med i leken ","svar":" Vara delaktig på något sätt i ett större sammanhang. Även 'Ha ett finger med i spelet'.
+Ha god hand med ","svar":" Vara duktig på att sköta om, hantera, till exempel barn, djur eller maskiner.
+Ha gröna fingrar ","svar":" Ha god hand med växter, vara kunnig om växter.
+Ha huvudet på skaft ","svar":" Vara klipsk..
+Ha ögonen på skaft ","svar":" Vara uppmärksam
+Ha/stoppa huvudet under armen ","svar":" Inte tänka sig för.
+Ha höga tankar om någon ","svar":" Värdera någon högt.
+Ha häcken full ","svar":" Ha mycket att göra. 'Häcken' avser en typ av foderbehållare på en vagn, lånord från tyskans Hek som betyder 'grind', 'galler'. En troligare förklaring är att spiksmeder förr i tiden satte sina färdiga spikar i en 'häck', dvs. ett trästycke med många hål i. När smeden hade mycket att göra kunde häcken snabbt bli full.
+Ha alla ... ","svar":" Metaforer på formen 'inte ha alla ...' för att antyda att någon inte är vid sina sinnens fulla bruk. Om en person som upplevs ointelligent, uppträder förvirrat, eller som säger eller gör ej väl genomtänkta saker. Att lida av bristande förstånd i jämförelse med andra personer inom en grupp.
+Ha alla hästar i stallet eller Ha alla hästar hemma
+Ha alla getter hemma (även vara tankspridd) 
+Ha alla skruvar i behåll
+Ha fått sina törnar ","svar":" Om någon med alla slags erfarenheter.
+Ha is i magen ","svar":" Inte få panik i en besvärlig situation där normalt andra blir nervösa. Jämförbart med 'kallsinnig'.
+Ha kläm på något ","svar":" Ha (relativt) goda kunskaper om något.
+Ha lite på fötterna ","svar":" Att ha lite grundkunskaper om ett ämne innan man yttrar sig. Ha belägg för ett påstående.
+Ha långa fingrar ","svar":" Vara tjuvaktig.
+Ha långa öron ","svar":" Någon som gärna skvallrar. Exempel 'Han/hon har långa öron', det vill säga man bör inte prata för högt om känslig information när han/hon är i närheten. Jämför 'Spetsa öronen'.
+Ha millimetrarna på sin sida ","svar":" Att (över)vinna något med knapp marginal.
+Ha mycket innanför pannbenet ","svar":" Att besitta stor intellektuell begåvning. Inte ha mycket innanför pannbenet ","svar":" Vara ansedd som relativt ointelligent.
+Ha många bollar i luften ","svar":" Förmågan att själv lösa många, ofta mindre, uppgifter samtidigt utan att helt släppa något av pågående arbeten. Jämförelse med att jonglera med flera bollar, utan att tappa någon av dem.
+Ha många järn i elden ","svar":" Att ha många aktiviteter i gång samtidigt. Från smedjans ässja.
+Ha många strängar på sin lyra ","svar":" Att vara mångsidig.
+Ha nio liv ","svar":" Katter sägs i fablerna ha nio liv, det vill säga kunna överleva mycket som skulle ha dödat andra djur. Kan även betyda att någon har osedvanlig tur och klarar sig genom många svåra olyckor i följd.
+Ha något i kikaren ","svar":" Ha en plan eller avsikt, som inte är direkt bekant för andra
+Ha något i ryggmärgen ","svar":" För att något är ytterst väl inövat eller inlärt.
+Ha något i släptåg ","svar":" Ha något till en början dolt som framkommer. Från sjömansspråk, tåg (rep), bogserlina.
+Ha något i bagaget ","svar":" Även på formen 'Ha något med sig i bagaget'
+Ha något på tungan ","svar":" Att vilja säga något, men att just för stunden inte komma på det rätta ordet i sammanhanget.
+Ha något/någon som i en liten ask ","svar":" Ha full kontroll över något eller någon, ofta person.
+Ha några år på nacken ","svar":" Ett uttryck för någons, eller någots, (höga) ålder.
+Ha näsan i vädret ","svar":" Att vara högfärdig.
+Ha pippi på något ","svar":" Envisas med att hålla på med något oväsentligt eller irritera andra.
+Ha på fötterna ","svar":" Vara säker på sin sak i en kontroversiell fråga. Finns i olika varianter, ha ordentligt/mycket/bra/varmt/torrt på fötterna. Oftast som en fråga till någon: 'Har du verkligen torrt på fötterna i den här frågan?'
+Ha rent mjöl i påsen ","svar":" Att vara ärlig och att inte ha något att dölja.
+Ha råg i ryggen ","svar":" Att våga stå för sina handlingar och åsikter även om det riskerar orsaka svårigheter för vederbörande.
+Ha satt sin sista potatis ","svar":" Att ha förött sin sista chans.
+Ha sett sina bästa dagar ","svar":" Något gammalt.
+Ha sitt på det torra ","svar":" Ha en säker ekonomisk ställning.
+Ha skinn på näsan ","svar":" Att ha bestämda åsikter och inte vara rädd för mothugg.
+Ha spenderbyxorna på sig ","svar":" Att vara generös och göra av med (osedvanligt) mycket pengar.
+Ha sålt smöret och tappat pengarna ","svar":" Att se väldigt olycklig ut, till synes helt utan anledning.
+Ha siktet inställt på något ","svar":" Att ha något som mål.
+Ha tomtar på loftet ","svar":" Att vara avvikande eller tokig.
+Ha torrt på fötterna ","svar":" ha starka bevis för någonting, eller att med säkerhet klara av något.
+Ha (alla, många) trumf på hand ","svar":" Att ha fördel eller övertag.
+Ha tumme med någon ","svar":" Att åtnjuta någons förtroende.
+Ha tummen i ögat på någon ","svar":" Noggrant övervaka någon.
+Ha tummen mitt i handen ","svar":" Att vara opraktiskt lagd; inte klara av en viss  arbetsuppgift.
+Ha vaknat på fel sida ","svar":" Vara på dåligt humör.
+Ha vassa armbågar ","svar":" Avancera i en hierarki på ett osjyst, hänsynslöst sätt. I vissa företagskulturer är uttrycket mer positivt laddat.
+Ha vind i seglen ","svar":" Att för tillfället vara i en period av framgångar.
+Ha änglavakt ","svar":" Att ha en otrolig tur i en situation som kunnat gå riktigt illa beroende på oförsiktighet.
+Ha ögon i nacken ","svar":" Bevaka allt som händer, ofta som ett negativt omdöme. Exempel: 'Han/hon har visst ögon i nacken.'
+Ha ögonen med sig ","svar":" Att noggrannt observera.
+Ha överlevt sig själv ","svar":" Något som varit bra, men inte längre är det.
+Hack i häl ","svar":" Tätt efter, vid förföljande eller liknande.
+Haj på (något) ","svar":" Har en stor talang för något, vara en hejare på något; jämför 'börshaj', 'pokerhaj' Catharina Grünbaum (6 september 2008). 'Fena på och haj på'. Dagens Nyheter. Läst 12 mars 2011.
+Halka in på ett bananskal ","svar":" Att hamna i något sammanhang av en ren slump.
+Hals över huvud ","svar":" Brådstörtat, akut, oövertänkt. Motsvarar huvudstupa. Till exempel 'Fly hals över huvud'.
+Hamna i blåsväder ","svar":" Att hamna i en utsatt situation.
+Hamna i knipa ","svar":" Försättas i en svår situation.
+Hamna i skymundan ","svar":" Att någon eller något glöms bort/blir mindre viktigt till fördel för något annat.
+Hamna på överblivna kartan ","svar":" Att inte bli gift.
+Han eller hon skulle inte göra en fluga förnär ","svar":" Omdöme om en mycket snäll och hänsynsfull människa.
+Han eller hon spottar inte i glaset ","svar":" Han eller hon dricker mycket alkohol.
+Handen på hjärtat ... ","svar":" Helt ärligt.
+Handla/agera på eget bevåg ","svar":" På eget initiativ, på eget ansvar. Från lågtyskans bewach, 'övertänkande'.
+Handsken är kastad ","svar":" En utmaning är proklamerad.
+Har man sagt A får man säga B ","svar":" Om man börjat berätta något som har en tydlig fortsättning i en avgörande fråga, bör man också slutföra sitt resonemang. Har man påbörjat ett projekt, bör man också se det till slut.
+Har man tagit Fan i båten får man ro honom i land ","svar":" Om man antagit sig en allt för stor uppgift får man också slutföra denna.
+Har varit i säck innan det kom i påse ","svar":" Något som tidigare sagts eller tänkts av någon annan.
+Hatten av för ","svar":" Uttrycka sin aktning för något.
+Hatt på hatt ","svar":" För mycket av det goda, en onödig upprepning, att göra/säga något som leder till en tautologi, tautologi. Uttrycket kommer från engelskan och har blivit populärt på senare tid, mycket för att det anses ge en klarare bild ","svar":" jämför 'Kaka på kaka' och 'Tårta på tårta'.
+Hela baletten ","svar":" Slarvigt från tyskan die ganze Palette. Omfatta allt som något kan inbegripa.
+Hela konkarongen ","svar":" Allesammans.
+Hellre fria än fälla ","svar":" Den svenska rättsprincipen, för att ingen oskyldig skall dömas.
+Helt uppåt väggarna ","svar":" Något är fullständigt felaktigt eller befängt.
+Herre i sitt eget hus ","svar":" Den som bestämmer över sitt. Ursprungligen från Bibeln, om den Persiske kungen Xerxes I påbud till alla provinser att mannen bestämmer över hustrun, och ska vara ledare över sitt hushåll och sin familj.
+Herre på täppan ","svar":" Någon som regerar.
+Het potatis ","svar":" Ett besvärligt, känsligt samtalsämne.
+Het på gröten ","svar":" Ivrig, otålig.
+Hissen går inte hela vägen upp ","svar":" Ett uttryck när någon inte förstår eller klassas som dum, jämför 'att man inte når ända fram'.
+Historien upprepar sig ","svar":" Talesätt att inte förvåna sig när något inträffar på nytt. Även som Allt går igen, Intet nytt under solen.
+Hjulet snurrar men hamstern är död ","svar":" Ett uttryck när någon inte förstår eller klassas som dum, jämför 'hissen går inte hela vägen upp'.
+Hjälpa någon på traven ","svar":" Att ge någon hjälp.
+Hjärtat i halsgropen ","svar":" Att plötsligt bli mycket rädd.
+Hjärtat på rätt ställe ","svar":" Att vara god, medmänsklig.
+Hoppa i galen tunna ","svar":" Göra ett val som ger oönskade konsekvenser.
+Hoppa upp och sätta sig på något ","svar":" Vara säker på något, oftast i formen 'Det kan du hoppa upp och sätta dig på', med betydelsen 'Det är definitivt säkert'.
+Hoppa ur skålen ","svar":" Ta sig ur sitt begränsade sammanhang, lämna tryggheten, som en guldfisk som hoppar ut ur sin skål.
+Hoppa över skaklarna ","svar":" Göra något opassande men roligt. Även vara otrogen, göra snedsprång.
+Hosta upp pengar ","svar":" Bekosta.
+Hugga i sten ","svar":" Grundligt missta sig.
+Hugget i sten ","svar":" Något som är orubbligt beslutat eller fastställt. Uttrycket används ofta negerat.
+Hugget som stucket ","svar":" Två olika sätt att nå samma resultat. Vid t ex vägval där sträcka och tid blir lika. Från översättning av en tysk fäktningsterm; weder gehauen noch gestochen, 'varken huggen eller stucken'. Ofta på formen 'Det är hugget som stucket'
+Hundra på (något) ","svar":" Att vara helt säker. Troligen en förkortning för att vara hundra procent (100%) säker på något.
+Hur man än vänder sig har man rumpan bak ","svar":" Det är svårt hur man än gör.
+Huvuden kommer att rulla ","svar":" Någon eller några personer kommer att straffas hårt för något misstag, till exempel genom avskedande från tjänst. Någon är mycket arg på en grupp.
+Hålla alla trådar i sin hand ","svar":" Ha full kontroll.
+Hålla fanan högt ","svar":" Fortsätta hålla högsta kvalité i någon verksamhet och inte falla för frestelsen att börja småslarva.
+Hålla god min (i elakt spel) ","svar":" Undvika att utåt visa att något är fel eller att något har gått en emot.
+Hålla grytan kokande ","svar":" Hålla igång någon verksamhet, inte riskera att intresset svalnar.
+Hålla hov ","svar":" Vara centrum för omgivningens uppmärksamhet
+Hålla hus ","svar":" Befinna sig (Ofta på formen 'Var håller du/han/hon hus?')
+Hålla i rodret ","svar":" Ha kontroll över något som flera personer är inblandade i, vara ledaren.
+Hålla i schack ","svar":" Ha kontroll över något eller någon.
+Hålla i taktpinnen ","svar":" vara den som bestämmer tempo, sätter agendan för något eller vad som ska göras. Anspelning på arbetet en dirigent utför i en orkester.
+Hålla låda ","svar":" Att tala kontinuerligt, lite improviserat inför publik om något som knappt är värt att lyssna på.
+Hålla någon kort ","svar":" Att behandla någon strängt.
+Hålla masken ","svar":" Att spela eller verka oberörd.
+Hålla någon på halster ","svar":" Att vänta med att säga vad någon otåligt undrar.
+Hålla någon på sträckbänken ","svar":" Jämförbart med Hålla någon på halster.
+Hålla någon stången ","svar":" Att hålla stånd mot någon, att klara sig.
+Hålla någon om ryggen ","svar":" Att skydda någon.
+Hålla någon under armarna ","svar":" Hjälpa någon
+Hålla skenet uppe ","svar":" Låtsas att allt är bra, undvika att utåt visa att något är fel.
+Hålla sig i skinnet ","svar":" Lugna ner sig, inte förivra sig, ofta som en uppmaning: 'Håll dig i skinnet!'
+Hålla sig på mattan ","svar":" Behärska sig. Ursprungligen från 1800","svar":"talet, att hålla sig på hallmattan och inte stiga in för långt i huset.
+Hålla sig på sin kant ","svar":" Vara reserverad och avvaktande. Anses ha sitt ursprung i äldre tiders måltider då alla med var sin sked åt från samma fat och någon trängde sig fram och tog för sig för mycket, uppmanades att hålla sig på sin kant av bordet.
+Hålla ställningarna ","svar":" Att bibehålla ståndpunkt.
+Hålla tand för tunga ","svar":" Att inte avslöja en hemlighet; att bita ihop och inte låta tungan spela fritt.
+Hålla tummarna för någon/något ","svar":" Hoppas på tur för någon, att något ska inträffa. Exempel: Jag håller tummarna för dig.
+Hålla tungan rätt i mun ","svar":" Samtidigt kunna hålla reda på och inte blanda ihop många sakförhållanden. Ibland skämtsamt varierat som 'Hålla tungan i rätt mun'.
+Hålla varandra om ryggen ","svar":" Ge varandra väntjänster utan att det får märkas utåt. Jämför med det engelska talesättet If you scratch my back, I'll scratch yours.
+Hålla ångan uppe ","svar":" Se till att fortsätta tills ett mål är uppnått / vunnet. Jämför 'inte få eldavbrott'.
+Hålla ögonen på något ","svar":" Vaka eller bevaka något eller någon
+Hålla ögonen öppna ","svar":" Vara vaksam
+Hårda bud i Mellerud ","svar":" Jobbig situation.
+Hälla vatten på en gås ","svar":" Försöka övertyga någon som är helt blockerad för ens argument; dessa rinner av personen som vatten på en gås, vars fjäderdräkt är vattenavvisande.
+Hälsa hem ","svar":" Att det kommer att gå vederbörande illa. Exempel: 'Nu kan du allt hälsa hem!'
+Hänga ihop som ler och långhalm ","svar":" Några som alltid hänger ihop, är mycket goda vänner. Uttrycket kommer från att lera blandat med halm användes som byggmaterial.
+Hänga läpp ","svar":" Att sura, vara deprimerad eller nedstämd.
+Hänga på ... ","svar":" Bero på något. En småsak kan avgöra hur något ska sluta.
+Hänga på gärsgårn ","svar":" 'Gärsgårn' = gärdesgården, staketet.
+Här blir inga barn gjorda ","svar":" Att det i omedelbara omgivningen inte sker någon aktivitet som leder till något resultat; oftast uttalat som sortireplik, innan den talande går någon annan stans för att göra nytta.
+Här ligger en hund begraven ","svar":" Något som är misstänkt föreligger.
+Härtill är jag nödd och tvungen ","svar":" Se brasklapp.
+Hög tid ","svar":" I senaste laget.
+Högsta hönset ","svar":" Någon med högst rang. Ofta ironiskt.
+Högt i tak ","svar":" Att det är tillåtet med udda åsikter.
+Höja någon till skyarna ","svar":" Hylla någon.
+Höja på ögonbrynen ","svar":" Att bli förvånad.
+Höjt över allt tvivel ","svar":" Något väldigt trovärdigt.
+Höljt i dunkel ","svar":" Okänt, oklart.
+Höra från hästens mun ","svar":" Gå direkt till källan, höra sanningen.
+Höra gräset gro ","svar":" Ha extremt bra hörsel, alternativt mycket gott tålamod. Så beskrevs Heimdall kunna höra.
+I bara mässingen ","svar":" Alldeles naken. Troligt ursprung från när silvret i försilvrade mässingsföremål nöttes ner, och mässingen åter framträdde.
+I blåsten ","svar":" I knipa, i trångmål, i fara.
+I brådrasket ","svar":" Snart, genast. Oftast som negation: Det blir inte gjort i brådrasket.
+I de lugnaste vatten ","svar":" När man upptäckt något otillbörligt i ett annars otadligt sammanhang. Av ordspråket I de lugnaste vattnen simmar de största fiskarna.
+I det blå ","svar":" Verklighetsfrämmande, aningslöst.
+I det närmaste ","svar":" Nästan.
+I en annan värld ","svar":" Frånvarande, tänker på något helt annat än vad som talas om.
+I ett nötskal ","svar":" Konkretisera något komplext med enstaka ord och avsluta med, 'Det är det hela i ett nötskal'.
+I faggorna ","svar":" Nära förestående, komma snart. Exempel: 'Gästerna är i faggorna', förmodas dyka upp snart. Uttrycket har använts med olika betydelser sedan 1600","svar":"talet. Faggor anses vara en gammal benämning på bylten, paltor etc. och uttrycket kan ha en ursprunglig betydelse att den som kommer har med sig något som är dolt i kläderna. Jämför 'Stå för dörren'.
+I godan ro ","svar":" Utan brådska.
+I grevens tid ","svar":" I absolut sista stund innan det är för sent. Exempel: 'Det var allt i grevens tid du kom!'. Jämför I elfte timmen, i sista minuten.
+I hatten ","svar":" Berusad.
+I hetluften ","svar":" Delaktig i livliga (ofta offentliga) diskussioner, där argumenten haglar.
+I krokarna ","svar":" Befinna sig i geografisk närhet, ofta dock när den exakta positionen är okänd. Exempel: 'Hunden är nånstans här i krokarna, jag såg den nyss.'
+I kölvattnet ","svar":" Företeelser av mindre vikt som sker som ett resultat av en dem föregående och viktigare händelse. Exempel: 'I kölvattnet av detta uppträder förmodligen ...'
+I laga ordning ","svar":" Enligt reglementet.
+I mångt och mycket ","svar":" Är i huvudsak, är till stor del men inte helt och hållet, till lejonparten. Exempel: 'Valet mellan dessa produkter är i mångt och mycket en smaksak, men priset kanske blir det som fäller avgörandet.'
+I någons kläder ","svar":" Ofta i formen om jag var i hans/hennes kläder; om jag befann mig i hans/hennes situation.
+I någons tankar ","svar":" Till exempel du är i mina tankar; jag tänker på dig.
+I rasande fart ","svar":" Väldigt fort.
+I ropet ","svar":" Efterfrågad, populär, ofta av övergående karaktär.
+I rätta händer ","svar":" När något tas om hand av någon med rätt kompetens.
+I rödaste rappet ","svar":" Utan dröjsmål.
+I sakta mak ","svar":" Långsamt.
+I senaste laget ","svar":" Strax innan något är för sent.
+I sin glans dagar ","svar":" Under höjdpunkten i livet.
+I sin krafts dagar ","svar":" Oftast när man var ung och driven.
+I sin linda ","svar":" nyss påbörjat, nyfött. En linda är en lång tygremsa avsedd att lindas om någon kroppsdel. Förr i tiden var det vanligt att linda in spädbarn i en sammanhängande remsa som täckte hela kroppen, vilket man antar ligger till grund för talesättet.
+I sina bästa år ","svar":" När man är vid höjdpunkten i livet.
+I sinom tid ","svar":" Så småningom, när den rätta tiden är inne. Svagt löfte. Exempel 'Jag ska ta itu med detta i sinom tid', utan att ange exakt när. Ursprungligen av ordet sin. Jämför Tids nog.
+I sista minuten/i sista ögonblicket ","svar":" Med knapp marginal.
+I sitt anletes svett ","svar":" Jobba på med stor ansträngning så att svetten lackar, oftast kroppsligt arbete men bildligt även annat arbete. Ursprungligen från Bibeln.
+I sitt esse ","svar":" I högform. Direkt från tyskans in seinem Esse sein, där Esse betyder 'tillstånd'.
+I sitt rätta element ","svar":" Att trivas och känna sig hemmastadd.
+I sjunde himlen ","svar":" Ett tillstånd av högsta lycka. Från flera teologiska läror om att himlen är uppbyggd av sju himlavåningar med paradiset överst.
+I stort sett ","svar":" I det närmaste.
+I stridens hetta ","svar":" Mitt i en situation handlar en person instinktivt utan att tänka efter. Ofta med mindre lyckat resultat som följd.
+I säkert förvar ","svar":" I fängelse.
+I tid och otid ","svar":" Jämt och ständigt, utan att reflektera över om det är nödvändigt.
+I ur och skur ","svar":" Oavsett förhinder.
+Icke sa Nicke ","svar":" Nej.
+Id och strid ","svar":" Oförtrutet.
+Illa kvickt ","svar":" Omedelbart.
+In genom ena örat och ut genom andra ","svar":" En uppmaning eller ett besked som någon inte förstått eller nonchalerat. Exempel 'Det gick tydligen in genom det ena örat och ut genom det andra' (utan att stanna i hjärnan).
+Ingen dans på rosor ","svar":" Ingen lätt uppgift, inte ha det lätt. Exempel 'Det är minsann ingen dans på rosor!'
+Ingen fara på taket ","svar":" Lugnande svar när någon oroar sig mycket över något nära förestående.
+Inte gå av för hackor ","svar":" Ovanligt bra, av bra beskaffenhet.
+Ingen ko på isen ","svar":" Ingen fara. Från ordspråket Ingen ko på isen (så länge rumpan är i/på land).
+Inget man snyter ur näsan ","svar":" Påpekande om något som är väldigt svårt att åstadkomma. Variant: Inte gjort på en kafferast.
+Inget övrigt att önska ","svar":" Komplett.
+Inom lagens råmärken ","svar":" Lagligt.
+Inte en levande själ ","svar":" Ingen alls. Slangartad motsvarighet, inte en kotte. Exempel 'Här finns ju inte en kotte, inte en levande själ!'. Ursprungligen från Bibeln.
+Inte ett jota ","svar":" Absolut ingenting.
+Inte ett öga torrt ","svar":" När något varit rörande, ibland ironiskt.
+Inte ligga sömnlös ","svar":" att inte oroas det minsta över något som har hänt eller hypotetiskt kan komma att hände.T ex: 'Jag kommer inte att ligga sömnlös över N.N:s avgång.'
+Inte mycket att hänga i julgranen ","svar":" Något uppfyller (inte) med nöd och näppe kraven. Sarkastiskt uttryck.
+Inte vara född i farstun ","svar":" Att inte vara bortkommen eller dum.
+Intet (är) nytt under solen ","svar":" Talesätt att inte förvåna sig när något inträffar en andra (tredje, osv.) gång. Även som Allt går igen, Historien upprepar sig. Uttrycket återfinns i Bibeln, i Predikaren 1:9.
+Intresseklubben antecknar ","svar":" Ironisk anmärkning, då någon uttrycker sig onödigt detaljerat kring ett visst ämne som mottagaren inte är intresserad av.
+I rödaste rappet ","svar":" Uppmaning att göra något omgående utan dröjsmål.
+I sus och dus ","svar":" Under ständigt festande.
+Jag mötte Lassie ","svar":" att ha en avlägsen relation till en känd person. Var länge ett stående inslag i kvällstidningen Expressen där läsare fick skriva in och beskriva sin relation till en känd person. 
+Jaga någon med blåslampa ","svar":" Sätta press på någon.
+Joxa med trasan ","svar":" Spela fotboll. Slanguttryck från Stockholm, som gjordes känt för en vidare allmänhet av fotbollspelaren Lennart 'Nacka' Skoglund.
+Jämföra äpplen och päron ","svar":" Att jämföra storheter som inte kan jämföras.
+Kacka i eget bo ","svar":" Att tala illa om sina egna eller sitt eget.
+Kaka på kaka, även tårta på tårta ","svar":" För mycket av det goda, en onödig upprepning, att göra/säga något som leder till en tautologi.
+Kalv på grönbete ","svar":" Någon utsläppt i ett sammanhang där han/hon okontrollerat kan ta för sig av det goda.
+Kamma noll ","svar":" Att inte få något.
+Kamma hem något ","svar":" Vinna något.
+Kapitalt misslyckande/Att misslyckas kapitalt ","svar":" Massivt misslyckande.
+Karl för sin hatt ","svar":" Kapabel.
+Kasta ett getöga på någon/något ","svar":" Försöka hålla uppsikt över någon/något, men inte vakta kontinuerligt.
+Kasta ett öga på någon/något ","svar":" Hålla viss uppsikt över någon/något utan noggrannare kontroll; Se på någon/något utan närmare eftertanke, till viss del intresserad, beundra någon/något, och liknande. Även 'Hålla ett öga på något'
+Kasta goda pengar efter dåliga ","svar":" Att genom upprepade försök med i och för sig ärliga ansträngningar försöka rädda en hopplös situation.
+Kasta in handduken ","svar":" Att ge upp. När en boxningstränare under en match anser att den egna boxare inte tål mer stryk kastar tränaren in en handduk i ringen, som en signal till domaren att avbryta matchen.
+Kasta (nytt) ljus över något ","svar":" Tillföra ny information som ökar möjligheterna att lösa ett problem.
+Kasta loss ","svar":" Ursprungligen från att lossa tilläggstamparna för en båt från kaj och kasta över dem till båten.
+Kasta paj, även Pajkastning ","svar":" När två eller flera personer i en argumentation övergår till att angripa varandras person i stället för åsikter, ofta på ett för utomstående löjeväckande sätt. Härrör troligen från slapstickkomedi där skådespelarna på olika sätt placerar tårtor eller pajer i varandras ansikten. Jämför med termen tårtning.
+Kasta pengar i sjön ","svar":" Slösar pengar på onödiga saker.
+I Nederländska ordspråk från 1559 illustreras en man med rosor och ordspråket 'Rozen (parels) voor de zwijnen werpen'
+Kasta pärlor för svin ","svar":" Det är inte värt att ge eller satsa medel på den som inte förstår värdet av det. Oftast uttryckt som; Det vore som att kasta pärlor för svin. Starkt negativt omdöme om någons mentala kapacitet. Ursprungligen från Bibeln, Matteus 7:6: '... och kasta inte pärlor åt svinen, de trampar på dem, vänder sig om och sliter sönder er'. Svin avser här förmodligen vildsvin, i överförd betydelse opportunister och icke kristna.
+Kasta sten i glashus ","svar":" Att komma med kritik eller klander när man själv inte har rent samvete. En variant förekommer i serien Hagbard Handfaste, vars hustru efter en ordväxling poängterar för honom att 'man bör inte kasta glas i stenhus'.
+Kasta ut barnet med badvattnet ","svar":" Att förlora det som är bra när man gör sig av med det man anser vara värdelöst.
+Kasta veven ","svar":" Att dö.
+Kasta vatten ","svar":" Att urinera.
+Kasta yxan i sjön ","svar":" Ge upp.
+Katt bland hermelinerna ","svar":" En person som inte passar in i en 'finare' samling personer och sticker ut från omgivningen.
+Katt på hett plåttak ","svar":" Nervöst beteende. Se även pjäsen Katt på hett plåttak av Tennessee Williams.
+Katten på råttan, råttan på repet ... ","svar":" En serie av händelser där varje händelse utlöses av föregående händelse. Frasen förekommer redan i Don Quijote (1605) av Cervantes, kapitel XVI: 'el gato al rato, el rato a la cuerda, la cuerda al palo'.
+Kattens lek med råttan ","svar":" Agera mot någon på ett elakt sätt och förlänga ett lidande.
+Kavla upp ärmarna ","svar":" Att ta i, jobba hårt.
+Kejsarens nya kläder ","svar":" Något nytt och märkvärdigt som i själva verket är en bluff, vilket dessutom går att se, men ingen vågar säga. Från H.C. Andersens saga med samma namn.
+Kila runt hörnet ","svar":" Att dö.
+Kila vidare ","svar":" Att dö.
+Klammeri med rättvisan ","svar":" Att ha åkt fast efter att ha begått ett brott.
+Klapp på axeln ","svar":" Svagt beröm.
+Klappat och klart ","svar":" Något är färdigt, något är utfört, någon/något är redo för nästa steg.
+Klara strupen ","svar":" Harkla sig.
+Klart och betalt ","svar":" När något är åtgärdat.
+Klart som korvspad ","svar":" Något som är mycket tydligt och som alla borde inse.
+Klen i anden ","svar":" Utan övertygelse.
+Klen tröst ","svar":" Ordagrant 'inte mycket till tröst'.
+Klockrent ","svar":" Sentida uttryck. Medhåll, något som stämmer precis, 'mitt i prick'. Från en klockas rena klang.
+Klok som en pudel ","svar":" Mycket klok.
+Klä sig i säck och aska ","svar":" Göra bot.
+Klä skott ","svar":" Få stå till svars för något utan att egentligen ha det direkta ansvaret. Oftast uttryckt som Få klä skott.
+Knaka i fogarna ","svar":" Vara nära att brista. Till exempel att en relation tar snart slut.
+Knalla och gå ","svar":" Välbefinnandet är varken bättre eller sämre, som svar på fråga: 'Hur är det?'. Ofta på formen 'Det knallar och går'
+Knappt om utrymme ","svar":" Trångt.
+Kniven mot strupen ","svar":" Att jobba under (extrem) press
+Knyta Hymens band ","svar":" Att gifta sig. Efter Hymenaios i grekisk mytologi.
+Knyta näven i fickan/byxfickan ","svar":" Att bli upprörd eller arg, utan att visa det.
+Knyta sig ","svar":" Att gå och lägga sig att sova.
+Knyta till/ihop säcken ","svar":" Göra klart det sista i exempelvis ett projekt eller en arbetsuppgift som består av många steg.
+Knäpp på näsan ","svar":" Skarp tillrättavisning; 'Få en/ge en, knäpp på näsan'.
+Koka soppa på en spik ","svar":" Från en folksaga som handlar om en luffare som ber en snål gumma att bjuda honom på soppa. I överförd bemärkelse att överdriva för","svar":" eller nackdelar genom att i en argumentation föra fram en stor mängd argument som vart och ett inte är relevanta eller håller för granskning, men som den argumenterande anser tillsammans utgör bevis för att han eller hon har rätt. Jämför Göra en höna av en fjäder.
+Kokar ner till ","svar":" Själva essensen/kärnan av något. Från det engelska (amerikanska) talesättet boils down to.
+Kola vippen ","svar":" Avlida.
+Koloss på lerfötter ","svar":" Något stort och imponerande, men som står på svag grund och därför lätt kan falla omkull och krossas. Ursprungligen från Bibeln.
+Komma från hjärtat ","svar":" Att påstå någonting spontant, och/eller ärligt och uppriktigt.
+Komma i bakvattnet ","svar":" En fråga som prioriterats ner i angelägenhetsgrad.
+Komma på efterkälken ","svar":" Komma efter, inte hinna med i en utveckling, även i tävling. Känt sedan 1600","svar":"talet. Efterkälken motsvarar det dialektala bakkälke, den bakre delen på en släde.
+Komma på grön kvist ","svar":" Få det bra ställt ekonomiskt.
+Komma på kant med någon ","svar":" Att bli ovän med någon i mindre grad men där trätan inte kan lösas på kort sikt.
+Komma till skott med något ","svar":" Komma igång med något som länge förberetts eller talats om. Jämförbart med Skrida till verket.
+Komma till vägs ände ","svar":" Att nå sin brytpunkt, jämför med 'Det var droppen'.
+Komma undan helskinnad ","svar":" Då ett allvarligt problem har löst sig för en person, kan denna person sägas ha 'kommit undan helskinnad'.
+Komma undan med blotta förskräckelsen ","svar":" Komma ur en situation utan att lida skada.
+Komma under lupp ","svar":" Att granskas ingående, antingen som person eller ett arbete som gjorts.
+Komma ur askan i elden ","svar":" Hamna i en sämre situation.
+Kors i taket ","svar":" Utrop då något mycket oväntat inträffar.
+Kosta skjortan ","svar":" Att en viss vara är mycket dyr.
+Kratta manegen ","svar":" Ge någon de bästa förutsättningarna.
+Krossa någons hjärta ","svar":" Att göra någon djupt olycklig.
+Krypa till korset ","svar":" Att acceptera någons åsikt, trots att man tidigare opponerat sig mot den.
+Kryssa mellan Skylla och Karybdis ","svar":" Att balansera mellan två mycket negativa, men troliga, händelseutfall. Jämför 'Pest och kolera'.
+Kräla i stoftet ","svar":" Att (behöva) be om ursäkt på ett förnedrande sätt.
+Krösus ","svar":" Mycket rik person. Efter den lydiske kungen Krösus (500","svar":"talet f. Kr.) som var känd för sina stora egendomar, och som anses vara en av de första som lät prägla guldmynt.
+Kunna försätta berg ","svar":" Att kunna utföra en till synes omöjlig uppgift.
+Kusten är klar ","svar":" Det är fritt fram för någon eller något.
+Kyss Karlsson! ","svar":" Utrop då något ","svar":" oftast negativt och ","svar":" mycket oväntat inträffar.
+Kyss mig i arslet! ","svar":" Försök inte!
+Kyssa sin faster/som att kyssa sin faster ","svar":" Menlöst, utan smak, ointressant
+Känna hur vinden blåser ","svar":" Att inte stå för vad man tycker utan rätta sin uppfattning efter vad andra anser. Jämför 'Vända kappan efter vinden'.
+Känna lössen på gången ","svar":" Att känna igen någons oftast tvivelaktiga avsikter på sättet hur det framställs. Ofta uttryckt som; 'Jag känner allt lusa på gången'.
+Känna någon på pulsen ","svar":" Att undersöka någons karaktär.
+Känna sina pappenheimare ","svar":" Att känna sitt folk, ofta med antydan om att de har vissa betänkliga egenskaper. Ursprungligen från Friedrich Schillers drama Wallensteins död om trettioåriga kriget.
+En människa simmar motströms i Nederländska ordspråk från 1559
+Käringen mot strömmen ","svar":" Någon som ofta säger emot andra eller har en annan uppfattning i många frågor än sin omgivning. Ursprungligen från en anekdot från 1200","svar":"talet där en kvinna drunknade i en å. Under sin livstid var hon känd för att alltid motsätta sig andras åsikter, varför hon då skulle eftersökas i ån antogs flyta i motsatt riktning mot det strömmande vattnet. Motsvarar Motvalls käring.
+Köpa grisen i säcken ","svar":" Att ge sig in i något utan att ha alla eventuella konsekvenser klara för sig. Även i form av ordspråk; Köp inte grisen i säcken.
+Kör i vind! ","svar":" Bekräftelse på att man går med på en överenskommelse om att göra något.
+Kör så det ryker! ","svar":" Bekräftelse för någon att den är på rätt väg, och att han eller hon bör forcera arbetet så att det blir klart å det snaraste.
+Köra huvudet i väggen ","svar":" Envist fortsätta i en omöjlig situation.
+Köra någon på porten ","svar":" Att tvinga någon att lämna byggnaden.
+Körd i grus ","svar":" Att vara dum i huvudet. se Född i farstun
+Kött på benen ","svar":" Att vara väl förberedd för något, att ha goda argument. Exempel: 'Ska du överklaga till Hovrätten bör du ha ordentligt med kött på benen.'
+Lacka ur ","svar":" bli arg på, bli irriterad på. Ursprungligen från månsingspråket, med stavningen Lakk, i betydelsen arg, ilsken. 
+Lag och ordning ","svar":" Välordnat och rättssäkert.
+Lagens (långa) arm, lagens väktare ","svar":" Polisväsendet.
+Lagvrängare ","svar":" Person som medvetet (fel)tolkar lagen till sin egen fördel, utan att direkt bryta mot den. Även nedsättande om advokat.
+Lapp på luckan ","svar":" utsålt, till teaterföreställning och liknande (man sätter upp en 'slutsålt'","svar":"lapp på biljettluckan)
+Larva sig ","svar":" Vara löjlig.
+Le i mjugg ","svar":" Le för sig själv och/eller i hemlighet.
+Leka med elden ","svar":" Att göra något som är farligt eller kan få negativa konsekvenser.
+Leka rommen av sig ","svar":" Att skaffa sig utlopp för sin sexualdrift.
+Lengräddad ","svar":" (Att vara) lindrigt begåvad.
+Leta efter en nål i en höstack ","svar":" Söka efter något med mycket små utsikter att hitta det inom rimlig tid.
+Leta efter något med ljus och lykta ","svar":" Leta ivrigt efter något.
+Leva loppan ","svar":" Föra ett utsvävande liv eller också väsnas och bråka.
+Leva på hoppet ","svar":" Att förlita sig på att hoppet kommer att återställa ett tidigare och/eller bättre tillstånd.
+Leva som man lär ","svar":" Agera eller bete sig som man predikar att andra ska agera eller bete sig.
+Leva ur hand i mun ","svar":" Leva så man klarar sig för tillfället, men utan långsiktig planering. Ursprungligen från talesättet: Ur hand i mun är fattigmans lott.
+Lida mot sitt slut ","svar":" Snart vara slut.
+Ligga bakom ","svar":" Vara upphov till något.
+Ligga för fäfot ","svar":" Om någon eller något som ligger vilande, improduktivt, ej i bruk i avvaktan på att sättas igång. Variant: Något ligger i träda.
+Ligga hästlängder före ","svar":" Att ligga överlägset långt före.
+Ligga i ","svar":" Vara flitig.
+Ligga illa till ","svar":" Vara i en svår situation; sitta i skottgluggen; få problem.
+Ligga i lä ","svar":" Vara underlägsen
+Ligga i selen ","svar":" Vara flitig. Går tillbaka på seldon för en häst.
+Ligga i startgroparna ","svar":" Vara redo att börja.
+Ligga i stöpsleven ","svar":" Någon som är föremål för omprövning och diskussion. 'Stöpslev' är en slev som man smälter bly eller tenn i. Anspelning på gamla tiders spådomar med hjälp av smält bly som hälldes i vatten.
+Ligga lågt ","svar":" Vara tills vidare försiktig.
+Ligga någon i fatet ","svar":" Ursprungligen att ha något, till exempel en arbetsuppgift framför sig. Numera att ha något som pekar emot sig, exempelvis vid tillsättning av en anställning och liknande.
+Ligga någon till last ","svar":" Vara till besvär för någon.
+Ligga någon varmt om hjärtat ","svar":" Ofta på formen 'Det ligger mig varmt om hjärtat' eller 'Det låg honom/henne varmt om hjärtat'
+Ligga på ","svar":" Försöka påskynda något.
+Ligga på sofflocket ","svar":" Inte rösta i ett val. Har gett upphov till uttrycket 'soffliggare' om personer som inte röstar.
+Lika goda kålsupare. ","svar":" Jämförelse; några är lika goda kålsupare, den ena är inte bättre än den andra. Ordet 'kålsupare' har ingenting med alkoholintag att göra, utan är en äldre benämning på någon som äter kålsoppa, det vill säga billig mat.
+Lika som bär ","svar":" Identiskt lika.
+Lite här och var ","svar":" På diverse mer eller mindre slumpartade ställen.
+Liv i luckan ","svar":" Oväntad festlig eller bråkig stämning. Exempel 'Här var det liv i luckan!'
+Livet på en pinne ","svar":" Lyckligt liv.
+Ljuga sig blå ","svar":" Att ljuga mycket i syfte att ta sig ur en svår situation.
+Ljuga som hästar travar ","svar":" Att ljuga mycket och med detaljer som mestadels är osanna.
+Ljuger så han/hon tror sig själv ","svar":" Ljuger mycket om något. Besk kommentar om någon; 'Han/hon ljuger så att han/hon tror sig själv'.
+Ljus(et) i slutet av tunneln ","svar":" En svår tid är på väg att ta slut.
+Lova guld och gröna skogar ","svar":" Lova mer än man kan hålla.
+Lova runt och hålla tunt ","svar":" Storvulna löften som i slutänden visar sig inte är mycket värda.
+Lova vitt och brett ","svar":" Lova mer än man kan hålla.
+Lugn i stormen ","svar":" Uppmaning till någon att hålla sig lugn i ett intensivt läge.
+Lugna puckar ","svar":" Något är under kontroll, utan risk. Allt är bra, t.ex. som svar på frågan hur man mår.
+Luktar/smakar pyton ","svar":" Luktar/smakar illa.
+Lusläsa ","svar":" Läsa extremt petigt.
+Luspank ","svar":" Utfattig.
+Luspudel ","svar":" Lymmel, skurk. Från August Blanches novell Flickan i stadsgården.
+Lyckans ost ","svar":" En person som har tur i något.
+Lyfta på förlåten ","svar":" Avslöja något till viss del. Uttrycket har inte sitt ursprung i det svenska verbet 'förlåta', utan från substantivet 'förlåt' (uttalas för","svar":"låt), alltså ett förhänge som döljer något.
+Lyfta på hatten för ","svar":" Att berömma någon för något oväntat mycket bra han/hon gjort.
+Lyfta sig själv i håret ","svar":" Anstränga sig själv över sin förmåga. Klara det till synes omöjliga. Från en berättelse om Baron von Münchhausen.
+Lysa med sin frånvaro ","svar":" Att uppmärksammas genom att inte delta. Exempel: 'Han/hon/de lyste med sin frånvaro'. Från den romerske historieskrivaren Tacitus i skriften Annales.
+Lyset är på men det är ingen hemma ","svar":" Slangartat uttryck för att beskriva någon med stirrande ögon inte verkar vara vid full mental hälsa eller närvarande, utan exempelvis istället är starkt drogpåverkad. Från engelskans 'lights are on but there's no one home'.
+Långt från ära och redlighet ","svar":" Långt från civilisation och kultur.
+Låta barn vara barn ","svar":" truistisk uppmaning att behandla barn som de barn de är.
+Låta bilan falla ","svar":" Slutligen fälla någon.
+Låta maten tysta mun ","svar":" Vara tyst medan man äter
+Låta målvakten stå i mål ","svar":" Att låta någonting skötas av den som kan det bäst.
+Låta nåd gå före rätt ","svar":" Med överseende.
+Låta rättvisan ha sin gång ","svar":" Överlåta till rättsväsendet att avgöra en fråga.
+Låta udda vara jämnt ","svar":" Att se genom fingrarna.
+Låtsas som det regnar ","svar":" Låtsas som om något inte sker fast det är uppenbart att det gör det.
+Lägg ägg! ","svar":" Lägg ner det du håller på med, du är hopplöst fel ute.
+Lägga alla ägg i samma korg ","svar":" Riskera att förlora allt genom att inte sprida riskerna. Ibland använt av ekonomiska rådgivare: Man ska inte ha alla ägg i samma korg.
+Lägga benen på ryggen ","svar":" Att fly undan en fara så fort man bara kan.
+Lägga hämsko på något ","svar":" Bromsa, hindra något. En hämsko är en typ av bromsplatta på en hästdragen vagn.
+Lägga fingrarna emellan ","svar":" Visa överseende.
+Lägga i malpåse ","svar":" Förvara för senare användning.
+Lägga korten på bordet ","svar":" Att berätta (hela) sanningen; att vara ärlig.
+Lägga kraft bakom orden ","svar":" Tala övertygande, med auktoritet.
+Lägga lök på laxen ","svar":" Att göra ont värre. Det ursprungliga uttrycket var bara 'lägga lök på', och syftade främst på klandrande yttranden. Uttrycket missuppfattas dock ibland och ges motsatt betydelse.
+Lägga locket på ","svar":" Se till att det hålls tyst om något.
+Lägga manken till ","svar":" Att anstränga sig hårt för att lösa en viss uppgift. Ofta som en uppmaning: 'Du får väl lägga manken till!'. Manken är den främre kraftigare delen på fyrfota däggdjurs rygg, nedanför halsen; används om exempelvis hästar och hundar. Jämför mankhöjd.
+Lägga något på hyllan ","svar":" Att tills vidare skjuta upp ett projekt eller en verksamhet.
+Lägga något på is ","svar":" Tillsvidare skjuta upp en fråga, projekt och dylikt på obestämd tid, men med möjlighet att aktualisera ärendet vid ett mer lämpligt tillfälle.
+Lägga något på minnet ","svar":" Minnas något
+Lägga näsan i blöt ","svar":" Att lägga sig i sådant man inte har att göra med.
+Lägga orden i munnen på någon ","svar":" Grundlöst hävda att någon sagt något, eller avsiktligt feltolka ett uttalande. Exempel: 'Nu lägger du orden i mun på mig, det där har jag aldrig sagt'.
+Lägga på en rem ","svar":" Springa mycket fort eller att skynda sig.
+Lägga på ett kol ","svar":" Att skynda sig, öka takten. Ursprungligen liknelse med koleldad ångpanna till vilken man tillför extra kol, så att ångtrycket ökar och maskinen arbetar snabbare.
+Lägga rabarber på något ","svar":" Passa på att lägga beslag på något värdefullt på ett listigt, helt lagligt, men oftast omoraliskt sätt. Felöversatt från spanska embargo, 'beslag', ursprungligen embargar, 'att arrestera'.
+Lägga sig ner och dö ","svar":" Att ge upp och sluta kämpa. Uttrycket används oftast negerat: 'Man vill ju inte bara lägga sig ner och dö.'
+Lägga sig under kniven ","svar":" Att genomgå en planerad kirurgisk operation, till exempel en plastik","svar":" eller höftledsoperation.
+Lägga sig vinn om något ","svar":" Under en längre tid agera på ett sätt som kan leda till något fördelaktigt; även 'vinnlägga sig om något'.
+Lägga sista handen vid något ","svar":" Att fullborda någonting, till exempel ett arbetsprojekt eller ett konstverk.
+Lägga skorna på hyllan ","svar":" Att sluta att utöva en sport (som utövas i någon form av idrottsskor).
+Lägga sordin på stämningen ","svar":" Att dämpa stämningen.
+Lägga sten på börda ","svar":" Att göra ett problem större eller redan stor arbetsuppgift större.
+Lägga två strån i kors ","svar":" Ofta på formen 'Inte lägga två strån i kors', inte anstränga sig det minsta för att bidra till att något blir åtgärdat.
+Lägga ut en snara för någon ","svar":" Att gillra en fälla för någon.
+Lägga ut texten ","svar":" Att vidlyftigt framställa, förklara, lägga till, breda på, överdriva, utsmycka, skönmåla, parafrasera, utbrodera
+Lägga vantarna på något ","svar":" Att lägga beslag på något; att, oftast oärligt, ta något. Jämför 'Lägga rabarber på.'
+Lämna någon i sticket ","svar":" Överge någon som är i fara. Från tyskans jemanden im Stich lassen. Stick avser stickvapen i strid. Även på formen 'Bli lämnad i sticket'
+Lära någon mores ","svar":" Att lära någon veta hut, att inte uppträda oförsynt.
+Lära någon veta hut ","svar":" Att lära någon mores, att inte uppträda oförsynt.
+Läsa lagen för någon ","svar":" Läxa upp någon, läsa lusen av någon.
+Läsa lusen av någon ","svar":" Ge någon en rejäl utskällning.
+Läsa mellan raderna ","svar":" Förstå vad som egentligen avses fast den som framför budskapet av olika anledningar inte uttryckt det i klartext.
+Lögn och förbannad dikt ","svar":" Grov osanning.
+Löpa linan ut ","svar":" Göra något fullt ut, fortsätta ända till slutet.
+Mala på ","svar":" Att enformigt tala oavbrutet.
+Man mot man ","svar":" Att tala ut med någon i enrum eller att slåss mot någon på lika villkor.
+Man måste lära sig krypa innan man kan gå ","svar":" Man bör lära sig grunderna inom ett verksamhetsområde innan man tar sig an mer komplicerade uppgifter inom det.
+Man skall köpa till sillen och sälja till kräftorna ","svar":" Gammalt osäkert talesätt bland aktiehandlare att köpa aktier till midsommar och sälja till kräftsäsongen i augusti.
+Man skall leva för varandra ","svar":" Att ta vara på sina vänner och kära.
+Man skall så med handen, inte med fulla säcken ","svar":" Påpekande att inte gå till överdrift. Ursprungligen från den grekiska skalden Korinna på 600","svar":"talet f. Kr.
+Man tager vad man haver ","svar":" Ramsa som en kommentar att man får ordna något så bra som möjligt utifrån de förutsättningar som för tillfället står till buds. Vanligen attribuerat till Cajsa Warg, som dock veterligen aldrig skrev detta.
+Mannaminne ","svar":" Så långt tillbaka i tiden som nu levande människor kan minnas. 'Man' betydde i äldre tider både man och människa i största allmänhet. Vanligen använt för att uttrycka något som inte inträffat på väldigt länge: Så kallt som nu i vinter har det inte varit i mannaminne
+Man vet vad man har men inte vad man får ","svar":" Uttryck för att värna om det man har och inte chansa på något ovisst. Jämför 'Bättre en fågel i handen än tio i skogen.'
+Matjord i fickorna ","svar":" Att ha matjord i fickorna står för något bra, att man har tur, men också förmåga att kunna göra något bra av det som kommer i ens väg.
+Med buller och bång ","svar":" Ändra/införa/avisera något nytt under uppseendeväckande former. Bång förmodligen i betydelsen skrämmas.
+Med byxorna nere ","svar":" Ertappad/avslöjad i en självförvållad situation som man får skämmas för inför andra. Vanligen Stå med byxorna nere.
+Med fingrarna i kakburken/syltburken ","svar":" Bli påkommen på bar gärning.
+Med flaggan i topp ","svar":" Inte visa utåt att det garanterat 'barkar åt skogen'.
+Med flinka fingrar ","svar":" Att göra något raskt och flitigt.
+Med hull och hår ","svar":" Ofta på formen 'Svälja något med hull och hår'.
+Med mössa/","svar":"n i hand ","svar":" Att vara ödmjuk, respektfull mot en överhet eller vara skuldmedveten.
+Med någons goda minne ","svar":" (Något som sker eller görs) med tyst samtycke av någon annan.
+Med/Ha näsan ovanför vattenbrynet ","svar":" Befinna sig i en ekonomisk situation där man nätt och jämnt klarar sig.
+Med nöd och näppe ","svar":" På gränsen; nätt och jämnt. Från fornsvenskans näppe, i betydelse 'knapp', 'trång'. Exempel: 'De klarade provet med nöd och näppe'.
+Med på ett hörn ","svar":" deltar.
+Med på noterna ","svar":" Att förstå det som uttrycks.
+Med sanningen överensstämmande ","svar":" Något garanterat sant.
+Med varm hand ","svar":" Ta emot någon hjärtligt och välkomnande. Ursprunglig betydelse: förtida arv ","svar":" att ge bort något medan givaren fortfarande är i livet.
+Med öppna armar ","svar":" Välkomnande bemötande
+Medaljens baksida ","svar":" Nackdelarna som inte syns vid en första anblick. Präglingen på medaljens baksida är normalt betydligt mindre påkostad än dess framsida eller helt slät.
+Mellan fyra ögon ","svar":" Att tala med varandra i enrum, utan att andra personer får reda vad som sagts; förtroligt.
+Mellan hägg och syren ","svar":" En kort tid på försommaren, mellan häggens och syrenens blomningar.
+Mellan skål och vägg ","svar":" Att tala med varandra i enrum utan att andra personer får reda på vad som sagts; förtroligt. Exempel: 'Lisa hade offentligt alltid kritiserat Olof, men sade mellan skål och vägg att hon hyste stor respekt för honom.'
+Mellan varven ","svar":" När det är lugnare.
+Min tillkommande ","svar":" Blivande make eller maka.
+Missa tåget ","svar":" Vara för sent ute, missa chansen. Ofta som ett konstaterande 'Tåget har gått' eller som en upplysning 'Nu går tåget'.
+Mittåt! ","svar":" Ett uttryck för att man rättar sig själv efter att ha kommit på att det man sagt är felaktigt. Ursprungligen från militär exercis. Jfr 'Rätta in sig i ledet'.
+Moment 22 ","svar":" Ett olösligt dilemma. Från Joseph Hellers roman med samma namn.
+Mota Olle i grind ","svar":" Att ta itu med problem innan de växt sig alltför stora.
+Mumla i skägget ","svar":" Att tala otydligt, även att formulera sig otydligt, kanske för att man inte vågar säga i klarspråk vad man vill säga.
+Mycket ska man höra innan öronen faller av ","svar":" Konstaterande att det som sagts verkar förvånande eller tokigt.
+Mycket snack och lite verkstad ","svar":" Omdöme om någon som pratar mer än han eller hon får gjort. Också om någon som tycks 'Lova runt och hålla tunt'; se detta uttryck.
+Mycket vatten har flutit under broarna sedan dess ","svar":" Det har gått väldigt lång tid, ofta som talesätt för minst ett årtionde.
+Mycket väsen för ingenting ","svar":" Från Carl August Hagbergs översättning av William Shakespeares Much Ado About Nothing.
+Myror i byxorna ","svar":" Nervös, kan inte sitta still, otålig och rastlös utan synbar anledning. Förekommer även som Myror i brallorna.
+Må det bära eller brista ","svar":" Ta en risk i ett avgörande skede då något måste ske, där utfallet antingen kan bli bra eller mycket dåligt. Har formen av en böneramsa. Liknar uttrycket Går det så går det, som dock mera uttrycker att det kan vara värt att chansa, det kan ju lyckas.
+Måla fan på väggen ","svar":" Att i förväg utgå ifrån att en svårighet kommer att uppstå, eller att väsentligt överdriva en komplikation. Även: att överdriva konsekvenserna av en komplikation.
+Måla in sig i ett hörn ","svar":" Att genom självförvållande, tanklöshet och/eller onödigt risktagande försätta sig i en hopplös och potentiellt ödesdiger situation utan någon uppenbar väg ut.
+Många hövdingar, men få indianer ","svar":" Många har åsikter och förslag hur något ska göras, men ingen gör något.
+Möta sitt Waterloo ","svar":" Att lida ett stort nederlag som innebär stora konsekvenser. Från det så kallade slaget vid Waterloo år 1815, då Napoleons armé besegrades.
+Mötas på halva vägen ","svar":" Kompromissa lika mycket var.
+Nagel i ögat ","svar":" Något som är till förtret för någon. Ursprungligen från Bibeln omskrivet som 'tagg', senare överfört till 'nagel', alltså en äldre benämning på spik.
+Nagelfara något ","svar":" Granska något in i minsta detalj. Den ursprungliga betydelsen var att kontrollera att naglarna satt som de skulle ","svar":" med nagel i den äldre betydelsen spik eller plugg, som i tyska Nagel och engelska nail. Ej att förväxla med skeppet Nagelfar i den nordiska mytologin.
+Nu får du guldstjärna ","svar":" När något gjort något riktigt bra. Hänvisar till när lärare gav ett guldklistermärke i form av en stjärna till elev som fått alla rätt.
+Nu gick det upp ett ljus ","svar":" Långsamt förstå poängen eller ett samband, liknande 'Nu trillade polletten ner'.
+Nu går skam på torra land ","svar":" Någon har gjort något som han/hon borde skämmas för.
+Nu trillade polletten ner ","svar":" Uttryck som betecknar att någon (plötsligt) kommit till insikt om innebörden av en argumentation eller en problematik. Ursprungligen från automater och maskiner, exempelvis en tvätt","svar":" eller kaffeautomat, där man erlägger en betalning i form av en pollett i ett myntinkast.
+Nu är det klippt ","svar":" När något misslyckas.
+Nu är det kokta fläsket stekt ","svar":" När något är riktigt illa, nu får det vara nog.
+Nu är det kört ","svar":" När något misslyckats.
+Nu är goda råd dyra ","svar":" Det är mycket brådskande att hitta en lösning på ett problem.
+Nu är jag ute på okänt vatten ","svar":" Jag medverkar i ett för mig okänt ämne eller område.
+Nu är måttet rågat ","svar":" Jämför med Droppen som fick bägaren att rinna över.
+Någonting är ruttet (i danska staten) ","svar":" Egentligen I danska staten någonting är ruttet; ett korrumperat tillstånd. Från Carl August Hagbergs översättning av William Shakespeares drama Hamlet.
+Något har sett/ser dagens ljus ","svar":" Något nytt/nyskapat som presenterats.
+Något i hästväg ","svar":" Något överraskande stort, omfattande eller överdrivet, spektakulärt, fantastiskt, sensationellt. Vulgärt språkbruk i brist på andra uttryckssätt. Djuret häst använt enbart för att kraftigt förstärka det som avses; 'väldigt stor' eller 'väldigt överdriven' etc. Exempel: 'Utställningshallen var något i hästväg', det vill säga enormt stor. 'Buffén var något i hästväg', det vill säga dignande av (överdrivet mycket) mat. 'Öppningsceremonin var något i hästväg', alltså otroligt spektakulär, över förväntan.
+Något som katten släpat in ","svar":" Någon har tagit hem något fult, onödigt eller värdelöst, utan att själv inse det. Ofta ett uttryck för besvikelse, man hade förväntat sig något bättre. Exempel: Den ser ju ut som något som katten släpat in.
+När andan faller på ","svar":" När någon får lust att göra något.
+När det kommer till kritan ","svar":" När något ska avgöras; när allt kommer omkring. Ursprungligen när det är dags att betala det som skrivits upp med krita på svarta tavlan, det som köpts på kredit, köpts på 'krita'.
+När krubban är tom bits hästarna
+När skoputsarna frågar om aktietips är det dags att sälja ","svar":" Gammalt talesätt att när gemene man börjar intressera sig för att investera i aktier står aktiekurserna som högst. Ursprungligen från New York på 1920","svar":"1930","svar":"talet.
+När Adam var länsman ","svar":" För mycket länge sedan.
+När man talar om trollen så står de i farstun ","svar":" När man pratar om någon och dem dyker upp precis när man pratar om dem.
+Nära en orm vid sin barm ","svar":" Någon som man trott vara ens vän, visar sig vara ens fiende.
+Nära och kära ","svar":" Den närmaste familjekretsen.
+Nära ögat ","svar":" Det höll på att gå riktigt illa. Ofta på formen 'Det var nära ögat'
+Närma sig med stormsteg ","svar":" Någon som tar sig fram fort, inte minst bildligt.
+Nästa år i Jerusalem ","svar":" Att uttrycka ett framtida hopp. Ursprungligen från den babyloniska fångenskapen, men har också sagts av judar i diasporan (förskingringen).
+Nöt att knäcka ","svar":" Något problematiskt som måste lösas. Exempel: Det kan bli en nöt att knäcka, eller Det är en svår nöt att knäcka.
+Och hör sen ","svar":" Så är det, punkt slut
+Odla sin kål ","svar":" Att ägna sig åt sina privata intressen, från Diocletianus som drog sig tillbaka från posten som kejsare för att bland annat ägna sig åt sin trädgård.
+Om inte om hade funnits ","svar":" Uttryck för att påpeka att det kan finnas omständigheter man inte tänkt på.
+Om sig och kring sig ","svar":" Urpsrungligen om någon som alltid ser efter sina ekonomiska intressen; alternativt att vara fladdrig, omständlig eller flamboyant.
+Ond cirkel ","svar":" Ogynnsam situation som riskerar att förvärra sig själv.
+Ord står mot ord ","svar":" Motsägelsefulla utsagor där båda kan ha rätt.
+Ord och inga visor ","svar":" Ofta som en kommentar av motparten eller tredje part efter en skarp tillrättavisning i en längre utläggning; 'Det var minsann ord och inga visor!'
+Ordning och reda, pengar på freda' ","svar":" Ordramsa för att påpeka att ordning lönar sig. Förr i tiden fick arbetare löneutbetalning på fredagen varje vecka.
+Ormens väg på hälleberget ","svar":" Något märkligt, oförståeligt. Ur Ordspråksboken 30:18","svar":"19, 1703 års version.
+Osa katt ","svar":" Någon känner att den håller på att bli grundlurad. Något otrevligt är på gång. Ofta på formen 'Det osar katt'.
+Osa svavel ","svar":" Ofta på formen 'Det osar svavel', det skälls eller svärs mycket.
+Oskrivet blad ","svar":" Person som ännu inte visat några framträdande egenskaper.
+Osvuret är bäst ","svar":" Används för att poängtera att det som utlovas helt eller delvis beror på omständigheter som står utanför löftesgivarens kontroll och att det därför inte finns några fullständiga garantier, en variant på 'jag ska se vad jag kan göra' eller 'Jag ska göra vad jag kan'. Används även för att understryka att angivna fakta kan vara svåra att få bekräftade i vissa situationer och snarare ska betraktas som antaganden eller hypoteser. Jämför med brasklapp.
+Pang på rödbetan ","svar":" Rakt på sak, utan omsvep.
+Peka med hela handen ","svar":" Extra tydligt påpekande att något ska göras omgående, oberoende vad mottagaren anser. Härrör från officerers sätt att peka med hela handen vid viss ordergivning.
+Pengar luktar inte ","svar":" Latin: Pecunia non olet. Om att ta emot pengar utan att bekymra sig om dess ursprung. Tillskrivs den romerske kejsaren Vespasianus.
+Peppar, peppar, ta i trä ","svar":" Skrock","svar":"ramsa för att förhindra att något otrevligt man råkat säga ska drabba en själv.
+Pest eller kolera ","svar":" Att välja mellan två onda ting. Exempel: 'Det är ju som att välja mellan pest och kolera'.
+Pigg som en mört ","svar":" Vara mycket alert, kvick och vaken.
+Plattan i mattan ","svar":" Med högsta fart.
+Plocka russinen ur kakan ","svar":" Ta ut godbitarna, det trevliga ur något och lämna resten. Kan gälla lite olika sammanhang, till exempel politik.
+Polsk riksdag ","svar":" Kaotiskt, stormigt och resultatlöst sammanträde. Efter det polska parlamentet på 1600","svar":" och 1700","svar":"talen där varje adelsman hade rätt att lägga in polskt veto; för att ett beslut skulle vinna laga kraft krävdes alltså enhällighet, något som endast med svårighet kunde uppnås. Systemet avskaffades den 3 maj 1791.
+Pompa och ståt ","svar":" Högtidlig inramning.
+Praktiskt taget ","svar":" Så gott som.
+Prata bredvid mun ","svar":" Avslöja hemlighet, skvallra.
+Prata goja ","svar":" Prata strunt.
+Prata i nattmössan ","svar":" Att prata som i sömnen. Kommentar till någon som kommer med helt felaktiga påståenden, drar felaktiga slutsatser. Exempel: 'Nu pratar du allt i nattmössan'.
+Prata i vädret ","svar":" Att prata smörja, strunt, dumheter.
+Prata i munnen på varandra ","svar":" De som deltar i en konversation pratar samtidigt.
+Prata smörja ","svar":" Att komma med dumheter.
+Pricken över i:et. ","svar":" Ett sista tillägg som tydligt framhäver eller gör något extra bra/vackert. Från den prick över bokstaven 'i' som förvandlar det enkla strecket till en bokstav.
+Pudelns kärna ","svar":" Den dolda inre innebörden av något. Från Johann Wolfgang von Goethes drama Faust.
+På alla fyra ","svar":" Att stå framåtlutad och stödja sig på knän och händer.
+På allas läppar ","svar":" Det som 'alla' pratar om.
+På bar backe ","svar":" Utblottad, utan tak över huvudet, förlorat alla sina ägodelar.
+På den säkra sidan ","svar":" Helt säker eller helgarderad.
+På det hela taget ","svar":" I stort sett.
+På efterkälken ","svar":" att hamna efter i något avseende.
+På en höft ","svar":" På måfå, på ett ungefär. Även som höfta, uppskatta utan att göra en noggrannare beräkning.
+På ett bräde (t ex betala på ett bräde) ","svar":" Allt på samma gång.
+På fallrepet ","svar":" Någon eller något som försämras.
+På fem röda ","svar":" Blixtsnabbt.
+På fri fot ","svar":" Frisläppt från ett häkte eller fängelse.
+På G ","svar":" Något är på väg att/skall hända. Förkortning av det är på gång.
+På glid ","svar":" omdöme att det är på väg att gå eller går dåligt för någon och beskriver ett osund livsituation, såsom t ex kriminalitet eller missbruk.
+På gräsrotsnivå ","svar":" Längst ner i organisationen, hierarkin. 'Gräsrötter' är de människor som utgör den stora massan, 'fotfolket'.
+På hugget ","svar":" Mycket aktiv, vara beredd på något. Även På bettet
+På håret ","svar":" Ytterst nära att ske. Finns även som 'en hårsmån'. Exempel: 'Någon var en hårsmån från att skadas'. Känt från 1600","svar":"talet.
+På kanelen ","svar":" påtagligt berusad.
+På kornet ","svar":" Fullständigt lik eller träffande.
+På krigsstigen ","svar":" Förbereda anfall, vanligen bildligt.
+På löpande band ","svar":" I stor mängd och i snabb följd.
+På lösa boliner ","svar":" Göra något vårdslöst och slarvigt. En bolin är en lina som används för att sträcka ett råsegel på ett segelfartyg. Med lösa boliner riskerar man att vinden kommer in på fel sida av seglet, vilket får till följd att man tappar fart och/eller kan skada seglet. Samtidigt är det frestande att låta dem hänga löst under förliga vindar för att dels spara tid, dels skjuta in mer buk (och därmed större drivkraft) i seglet.
+På måfå ","svar":" Planlöst.
+På papperet ","svar":" Som uppslag, i teorin. 'En bra idé på papperet, men inte i praktiken.'
+På pin kiv ","svar":" Att säga eller göra något med det enda syftet att retas. Från förstärkningsordet pin (jämför 'pinfärsk', 'pinfull') och kiv, med betydelsen 'gräl som inte är allvarligt', 'smågräl'.
+På pricken ","svar":" Något som är helt rätt, något som uppfattats på helt rätt sätt.
+På rak arm ","svar":" Ofta i formen 'det vet jag inte på rak arm', i betydelsen; personen kan gissa, men inte med säkerhet ge ett korrekt svar förrän han eller hon först kontrollerat fakta.
+På resande fot ","svar":" På resa.
+På rätt köl, på rät köl ","svar":" Återställt till ordnade förhållanden.
+På samma våglängd ","svar":" Överens i stora drag. Tänka på samma sätt. Från radiokommunikationens sändarvåglängd.
+På sandlådenivå ","svar":" Gräl mellan vuxna om mindre väsentliga saker där ingen vill ge sig och det förekommer personangrepp och liknande.
+På sin mammas gata ","svar":" Vara hemmastadd, väl förtrogen med de förhållanden som råder.
+På sin höjd ","svar":" En ungefärlig maxgräns. Ofta i beskrivande sammanhang av ett värde och/eller enhet av något. 'Resan tar 1 timme, på sin höjd'
+På sin vakt ","svar":" Beredd på att något, oftast negativt, kan inträffa. Som varning: 'Var på din vakt!', med betydelsen 'Se upp'.
+På smällen ","svar":" gravid.
+På språng ","svar":" aktiv, i rörelse.
+På stående fot ","svar":" Genast.
+På tapeten ","svar":" aktuell.
+På tu man hand ","svar":" Då man gör någonting i par, två och två, Ofta förtroligt. Jämför 'Mellan fyra ögon'.
+På upphällningen ","svar":" Håller på att ta slut.
+På vid gavel ","svar":" fullt öppen, vidöppen. 
+På vift ","svar":" Driva omkring.
+På vippen ","svar":" Nära att inträffa. Jämför med betydelsen på norska där uttrycket betyder att vara tungan på vågen inom politiken.
+Rak i ryggen/rakryggad ","svar":" Med civilkurage.
+Rammelbuljong ","svar":" Stryk.
+Raska gossar ","svar":" Duktiga pojkar/män.
+Regnet står som spön i backen ","svar":" Det regnar väldigt mycket. Regnet ser ut som metspön eller ridspön som står upp ur marken.
+Rena rama ... ","svar":" Omskrivning för ordet ram i betydelsen fullständig, helt och hållet. Exempel: 'Rena rama kaoset' ","svar":" fullständigt kaos; 'rena rama galenskapen' ","svar":" fullständigt galet tänkesätt, 'rena rama rappakaljan' ","svar":" fullständigt struntprat. Används som ett förstärkningsuttryck, främst i talspråk.
+Rent ryskt ","svar":" Något uppseendeväckande stökigt.
+Resa ragg/borst ","svar":" Att börja bli arg.
+Resa sig som fågel Fenix ur askan ","svar":" Att komma igen efter svåra misslyckanden.
+Resa sig som på ett givet tecken ","svar":" När alla på en plats/i ett rum ställer sig upp samtidigt.
+Reta gallfeber på någon ","svar":" Att irritera/retas.
+Rida ut en storm ","svar":" Att klara en svår situation. Ofta i bestämd form 'Rida ut stormen'.
+Rim och reson ","svar":" Förnuftigt, resonabelt. Exempel: 'Någon rim och reson får det vara'.
+Rimmar illa ","svar":" Något uttalande som inte låter så bra i sammanhanget, eller stämmer dåligt. Exempel: 'Ditt agerande rimmar illa med företagets policy'.
+Rinna ut i sanden ","svar":" Något som inte blir av, på grund av en alltför utdragen process där förutsättningarna ändrats på ett avgörande sätt. Ursprungligen från Bibeln
+Ris och ros ","svar":" Kritik och beröm. Exempel: 'Idén fick både ris och ros'.
+Ruska tupp ","svar":" Onani av manligt kön.
+Rubb och stubb ","svar":" Allt, även det som tycks värdelöst i sammanhanget. 'Rubb' är den vissna grässtubben som finns kvar från föregående år. 'Stubb' är det som återstår på åkern av säden sen den skördats, jämför 'stubbåker'. Motsvarar rubbet.
+Rulla hatt ","svar":" Att festa vilt, ofta på restaurang.
+Rulla på ","svar":" Saker går enligt planerna. Ofta i formen: 'Det rullar på'.
+Rulla tummarna ","svar":" Att göra ingenting, inte ta sig för något.
+Rund under fötterna ","svar":" Berusad.
+Rycka upp sig ","svar":" Att skärpa sig, bättra sig.
+Rymma fältet ","svar":" Att ge upp motståndet.
+Råda bot på något ","svar":" Att avhjälpa något.
+Råka i luven på varandra ","svar":" Att råka i bråk.
+Råttorna lämnar ett sjunkande skepp ","svar":" Man vet att något är på väg mot undergång när även snyltarna lämnar 'skutan'.
+Räfst och rättarting ","svar":" Uttryck för att gå till botten med ett missförhållande med möjligheten att utdöma ett straff. Äldre form av överdomstol under medeltiden där kungen utövade sin rätt.
+Ränderna går aldrig ur ","svar":" Något där gamla egenskaper finns kvar till viss del. Liknelse från zebrans ränder, som inte bara syns i dess päls, utan också i huden.
+Rätt skall vara rätt ","svar":" Rättvisa åt någon som inte tagit för sig själv.
+Rätt och riktigt ","svar":" Om det skall vara rätt riktigt, göra något enligt reglementet.
+Rätta mun(nen) efter matsäcken ","svar":" Anpassa utgifter eller ambitioner till resurserna.
+Röd tråd ","svar":" Det genomgående, sammanhållande temat i något större sammanhang. Ofta på formen 'Den röda tråden'
+Röra runt/om i grytan ","svar":" Handla på sådant sätt att man ifrågasätter rådande tillstånd.
+Röra upp himmel och jord ","svar":" Uppbjuda alla krafter, ställa till mycket väsen. Känt sen 1791.
+Rösta med fötterna ","svar":" Att gå sin väg (till exempel byta leverantör av något) i stället för att bara klaga. Lenins kommentar om massdeserteringarna från den ryska armén mot slutet av första världskriget. En vanlig variant är 'Rösta med plånboken', alltså att byta leverantör eller produkt till en annan av bättre kvalitet.
+Rött skynke. ","svar":" Något som väcker stark irritation. Från matadorens röda skynke som avser att reta upp tjuren i tjurfäktning.
+Rött öre ","svar":" försumbar summa. Ofta 'Inte ha ett rött öre': vara fullkomligt pank; sakna pengar; luspank. De minsta valörerna förr i tiden var oftast i kopparlegeringar, därav uttrycket.
+Sagt och gjort ","svar":" Att sluta diskutera och i stället sätta igång att arbeta med det som diskussionen berörde.
+Saken är biff ","svar":" Motsvarar: 'Saken är Oskar'. Sägs om något som är avgjort, problemet är nu löst, eller att man enats om hur man skall lösa det.
+Sakta i backarna ","svar":" Att inte förhasta sig med något: 'Ta det lugnt'.
+Sakta men säkert ","svar":" Något går framåt och kommer att bli klart, även om det går långsamt.
+Salig röra ","svar":" Stor förvirring.
+Samla i ladorna ","svar":" Samla på sig tillgångar för eventuella framtida behov vid osäkra framtidsutsikter.
+Sanningens minut ","svar":" Det avgörande ögonblicket. Ursprungligen från spanskans el momento de la verdad, bokstavligen 'sanningens ögonblick': tjurfäktningsterm om den slutliga värjstöten som dödar tjuren.
+Sans och balans ","svar":" Måttfullt.
+Satsa på fel häst ","svar":" Att förlora pengar eller annat genom att välja fel handlingsalternativ.
+Se färg torka ","svar":" Något mycket tråkigt, till exempel en arbetsuppgift eller en spelstil eller ett spelsystem inom idrott som av åskådarna anses långtråkig.
+Se ljuset i tunneln ","svar":" Skönja lösningen på ett ytterligt svårt och komplext problem som man arbetat väldigt länge på.
+Se längre än näsan räcker ","svar":" Ofta på formen 'ser inte längre än näsan räcker', om någon som inte är eftertänksam, utan istället drar alltför snabba slutsatser.
+Se med blida ögon på ","svar":" Ofta på formen 'Inte se med blida ögon på', att tycka illa om något.
+Se mellan fingrarna ","svar":" Bortse från något som egentligen är felaktigt.
+Se om sitt hus ","svar":" Göra en noggrann översyn av sina egna tillgångar.
+Se spöken mitt på ljusa dagen ","svar":" Vara rädd i onödan.
+Se röken av ","svar":" Oftast på formen 'Inte se röken av'
+Se rött ","svar":" Bli rasande arg. Från sägnen att tjurar sägs bli arga av att se röd färg, jämför Ett rött skynke.
+Se sanningen i vitögat ","svar":" Inte blunda för faktum, det verkliga förhållandet.
+Se sig i månen efter något ","svar":" Inte få sina förväntningar infriade.
+Se skogen för alla träd ","svar":" Ofta på formen 'Inte se skogen för alla träd' Att inte se de stora sammanhangen eftersom man koncentrerar sig alltför hårt på detaljer.
+Se ut som sju svåra år ","svar":" Se lidande ut.
+Sedan dess har det flutit mycket vatten under broarna ","svar":" Det har hänt väldigt mycket sen dess.
+Sedan Eldkvarn brann ","svar":" Ofta på formen 'Inte sedan Eldkvarn brann', för mycket länge sedan. Ofta som besk kommentar; exempel 'Har väl inte hänt sen Eldkvarn brann'. Uttrycket är lokalt. Ett liknande uttryck av samma betydelse i Malmöregionen är 'sen Doffeln brann'. En industri som totalförstördes i brand 1888.
+Sent omsider ","svar":" Efter lång väntan, slutligen.
+Sent ska syndarna vakna ","svar":" att alltför sent ta sitt förnuft till fånga / göras det rätta. Uttrycket kommer från Psalm 165 i 1819 års svenska psalmbok. Psalmen är skriven av Franz Michael Franzén.   I 1986 års psalmbok har psalmen nummer 535, och andra versen inleds med: 'För sent skall syndarn vakna'. 
+Serverat som på silverfat ","svar":" Något mycket bra som någon erbjuds utan krav på motprestation. Exempel: 'Du får det ju serverat som på silverfat!').
+Sig själv närmast ","svar":" Se till sina egna intressen i första hand.
+Sila mygg och svälja kameler ","svar":" Hänga upp sig på oväsentligheter och strunta i de verkliga problemen. Ursprungligen från Bibeln, Matteus 23:23","svar":"24: 'Det gäller att göra det ena utan att försumma det andra. Ni blinda ledare, som silar mygg men sväljer kameler!'.
+Simma med/mot strömmen ","svar":" Att anpassa sig/göra motstånd.
+Sin beskärda del ","svar":" Den del som tillkommer en, den del man förtjänat, på gott eller ont.
+Sin egen lyckas smed ","svar":" Ansvarar själv för sin egen framgång. Även 'var och en sin egen lyckas smed'.
+Sin glans dagar ","svar":" Någon som befinner sig på höjdpunkten i sin karriär.
+Sist men inte minst ","svar":" Att inte förringa den/det som omnämns sist i en uppräkning.
+Sista spiken i kistan ","svar":" Den sista åtgärd eller händelse som slutligen resulterar i att något definitivt är förlorat.
+Siste man på skansen ","svar":" Den siste kvarvarande försvararen på fästningsvallen.
+Sitta hemma och uggla ","svar":" Inte ta sig för något.
+Sitta hårt åt ","svar":" Vara svårt. Används ofta i tempuset imperfekt: 'det satt hårt åt'
+Sitta i klistret ","svar":" Att ha hamnat i stora svårigheter.
+Sitta i knät på någon ","svar":" Vara beroende av någon.
+Sitta i orubbat bo ","svar":" äldre juridisk term, ofta återfunna i testamenten, med betydelsen behålla och disponera boet (arvet) utan arvskifte (efter makens resp. makans död).  Används även idag om person som får sitta kvar i en position efter händelse som vissa kan tycka borde föranleda förändrad status, t ex 'Själv hade Mussolini kunnat sitta kvar i orubbat bo, och antagligen gått till historien som...'
+Sitta i samma båt ","svar":" Att vara i samma (ofta svåra) situation som någon annan.
+Sitta i väggarna ","svar":" Förhållanden som är svåra att ändra på.
+Sitta inne ","svar":" Avtjäna fängelsestraff
+Sitta och häcka ","svar":" Att inte göra något.
+Sitta och mögla ","svar":" Att inte göra något.
+Sitta/vara (uppe) i smöret ","svar":" Ha det gott ställt; att ha det bra; att ha tur. Jämför Komma upp i smöret.
+Sitta på pottkanten ","svar":" Att ha otur; att vara fattig; att inte ha något val.
+Sitta på sina höga hästar ","svar":" En överlägsen attityd hos någon som står över en annan person i rang eller annan hierarki, och utnyttjar detta medvetet utan att den drabbade kan protestera.
+Sitta på två stolar samtidigt, även Sitta på dubbla stolar ","svar":" Att ha flera olika roller/uppdrag med motstridiga intressen.
+Sitta still i båten ","svar":" Att ta det lugnt (då man hamnat i svårigheter)
+Sitta säkert i sadeln ","svar":" Ha en trygg och ohotad position, exempelvis en befattning. Liknelse med sitta säkert i sadeln då man är till häst.
+Sju sorger och åtta bedrövelser ","svar":" Ett flertal problem.
+Sju svåra år ","svar":" Från Bibeln Första Mosebok, 41 Kapitlet. Överfört att någon ser mycket sliten eller olycklig ut: 'Du ser ut som sju svåra år'.
+Sjunga på sista versen ","svar":" Något är på väg att ta slut, något nedslitet.
+Skaka galler ","svar":" Sitta i fängelse
+Skaka något ur ärmen ","svar":" Göra något med till synes stor lätthet. Uttrycket kommer från att ärmar tidigare var mycket rymliga och fyllde samma funktion som fickor och där man förvarade saker som kunde skakas fram vid behov.
+Skam till sägandes ","svar":" När man erkänner ett tillkortakommande, även när man beskriver någon annans tillkortakommande.
+Skapelsens krona ","svar":" Människan, mänskligheten.
+Skarp penna/vass penna ","svar":" Skicklig skribent.
+Skarpaste/vassaste kniven i lådan ","svar":" Ofta på formen 'Inte vara skarpaste/vassaste kniven i lådan' Att lida av bristande förstånd i jämförelse med andra personer inom en grupp.
+Skarpt läge ","svar":" Något går från teori till verklighet. Från militärspråk, att ladda vapnen med skarp (riktig) ammunition. Uttryck för att göra berörda uppmärksamma på att nu är det allvar.
+Ske med någons goda minne
+Skelett i garderoben ","svar":" Variant: Ha lik i garderoben ","svar":" Något som medvetet eller omedvetet undanhållits som kan ställa någon i dålig dager om det kommer till allmän kännedom.
+Skepp utan roder ","svar":" Något i ett större sammanhang hanteras utan ordentlig styrning av verksamheten.
+Skilja agnarna från vetet ","svar":" Rensa bort det som inte har något värde.
+Skinn på näsan ","svar":" Bestämd, med civilkurage.
+Skita i det blå skåpet ","svar":" Göra bort sig, gå för långt. Den moderna användningen kommer från Janne 'Loffe' Carlsson, som han utom manus sa vid ett tillfälle vid inspelningen av filmen Göta Kanal (1981). Uttrycket 'Nu har ni skitit i det blå skåpet!' användes av Janne Carlssons pappa när barnen gjort något otillåtet.
+Skitprat, Pratar skit ","svar":" Vulgärt uttryck motsvarande påpekandet att någon pratar strunt, gör ett felaktigt påstående och liknande.
+Skjuta mygg med kanoner ","svar":" Använda en onödigt komplicerad eller otymplig metod för att lösa ett problem som kan lösas på ett mycket enklare sätt.
+Skjuta sig själv i foten ","svar":" Göra ett dumt misstag som ger problem för en själv.
+Sko sig (på någon) ","svar":" Vinna fördelar (på någon annans bekostnad).
+Skratta hela vägen till banken ","svar":" Tjäna mycket pengar på andras bekostnad och öppet glädja sig över det. Se även 'Gråta hela vägen till banken.'
+Skrida till verket ","svar":" Sätta igång med något.
+Skrika/sjunga för full hals ","svar":" Skrika eller sjunga så mycket man orkar, luftstrupen helt öppen.
+Skrika i högan sky ","svar":" Protestera demonstrativt.
+Skriva någon på näsan ","svar":" Försöka påtvinga någon annan ens egna tankar och åsikter på ett mindre respekt","svar":" och taktfullt manér.
+Skriva under på något ","svar":" Att hålla med i en sakfråga.
+Skrivet i stjärnorna ","svar":" Ett förutbestämt öde som kan vara svårtolkat.
+Skräckblandad förtjusning ","svar":" Att både glädja sig och oroa sig för något.
+Skräda orden ","svar":" Skickligt välja sina ord. Används ofta i formen att inte skräda orden.
+Skynda långsamt ","svar":" Tänka sig för utan att för den skull dra ut på något i tiden.
+Skänk från ovan ","svar":" Någonting man verkligen har behov av och som kommer oväntat.
+Skära pipor i vassen ","svar":" att utnyttja ett lägligt tillfälle. Bakgrunden är att man ska passa på att skära pipor när man sitter i vassen. Används ofta då det är fråga om att skaffa sig fördelar på ett otillbörligt eller hänsynslöst sätt. Uttrycket är troligen lånat från tyskan.
+Skåda inte en given häst i munnen ","svar":" Inte kritiskt granska en gåva. Kommer från att en hästs ålder kan avgöras på tänderna.
+Skämmas ögonen ur sig ","svar":" Skämmas mycket.
+Skörda sina frukter ","svar":" Få lida för de (ofta dåliga) konsekvenserna av sitt eget handlande.
+Skörda offer ","svar":" Att kräva människoliv.
+Slag i luften ","svar":" Verkningslöst försök.
+Slag under bältet ","svar":" Osjyst påhopp, anklagelse som är svår att värja sig mot. Osjyst ändring av givna förutsättningar som allvarligt försvårar något planerat. Ursprungligen från 1838 års London Prize Ring","svar":"regler för boxning, vars regelverk för första gången i den moderna boxningen klart anger att en deltagare inte får slå sin motståndare under det bälte (skärp) som ingår i en boxares standardutrustning. (I de idag mer kända Queensberryreglerna utgivna 1867 anges på denna punkt endast att London Prize Ring","svar":"reglerna skall gälla.)
+Slaven på triumfvagnen ","svar":" Den som kan säga obekväma sanningar.
+Slicka någon i arslet/röven ","svar":" Fjäska.
+Slira på sanningen ","svar":" Halvljuga.
+Slit den med hälsan! ","svar":" Kommentar av givare när något begärts att få behållas som givaren inte ser något värde i.
+Slita hund ","svar":" Att arbeta mycket hårt.
+Slita ont ","svar":" Att kämpa hårt, även inom sport.
+Sluta leden ","svar":" Att hålla samman, enas, sluta upp bakom någon.
+Slå blå dunster i ögonen på någon ","svar":" Försöka få någon att tro på osanning genom övertygande argumentation.
+Slå dank ","svar":" Att gå sysslolös.
+Slå dig/er i backen på ","svar":" Kraftuttryck för att konfirmera ett sakförhållande. Exempel 'Det kan du slå dig i backen på (att så är fallet)'. Ordet backe ibland ersatt med svordomen 'fan'; 'Det kan du/ni ge dig/er fan på.' Motsvarar 'Det kan du/ni skriva under på.'
+Slå dövörat till ","svar":" Inte bry sig om något man delges. Inte lyssna.
+Slå en sjua ","svar":" Urinera. Oftast endast använt i futurum, och företrädesvis endast om män som urinerar. Exempel: 'Jag ska slå en sjua'.
+Slå en parabel ","svar":" Att urinera. Avser endast män och anspelar på formen på fysikens kastparabel.
+Slå ett slag för något ","svar":" Förespråka något.
+Slå huvudet på spiken ","svar":" Träffa helt rätt med sina argument i en diskussion.
+Slå i taket ","svar":" Något når sitt högsta möjliga eller tillåtna värde.
+Slå in öppna dörrar ","svar":" Vara överdrivet dramatisk om problem som inte finns, eller som alla är överens om. Jämför engelska 'preaching to the choir'.
+Slå klackarna i taket ","svar":" Roa sig friskt, festa.
+Slå knut på sig själv ","svar":" Göra det till synes omöjliga.
+Slå lock för öronen ","svar":" Orsaka tillfällig lomhördhet.
+Slå mynt av något ","svar":" Dra fördel av något som kan ge en inkomst i reda pengar.
+Slå ner sina bopålar ","svar":" Bosätta sig på en viss plats, slå ner huvudpålarna för huset i marken. Ursprungligen om de fyra pålarna i hörnen på (äldre) bostadshus. På tyska som die (vier) Pfähle, 'hus och hem'.
+Slå någon gul och blå ","svar":" Utsätta någon för kraftigt fysiskt våld, så att blåmärken uppstår.
+Slå någon/något sönder och samman ","svar":" Utsätta någon eller något för kraftigt fysiskt våld. I överförd betydelse också att med kraft eller pregnans överbevisa en motståndares ståndpunkt med egna, starkare argument.
+Slå näven i bordet ","svar":" Att säga ifrån på ett burdust, plötsligt och övertydligt sätt. Motsvarar Säga ifrån på skarpen.
+Slå på stora trumman ","svar":" Att alltför tydligt utannonsera eller skryta över något man tänker göra. Även basunera ut.
+Slå på stort ","svar":" Att bjuda överdådigt eller slösa.
+Slå sig för bröstet ","svar":" Att tala om hur bra man är, stolt över sig själv, självskryt.
+Slå sig i slang med ","svar":" Att inleda ett samtal med någon okänd.
+Slå (något) sönder och samman ","svar":" Skada svårt.
+Slå sina påsar ihop ","svar":" Att föreslå att börja samarbeta. 'Ska vi slå ihop våra påsar?'; påsar då i betydelsen 'tillgångar'.
+Slå två flugor i en smäll ","svar":" Att vara mycket effektiv genom att lösa två (eller flera) problem med en och samma åtgärd.
+Slå vakt om något ","svar":" Värna om något.
+Slå vantarna i bordet ","svar":" Att gå i konkurs.
+Slås av något ","svar":" Plötsligt se dolda samband.
+Släkten är värst ","svar":" Släktband kan innebära beteenden som aldrig skulle accepteras i andra relationssammanhang.
+Släta över något ","svar":" Förringa ett missöde.
+Smaka stövelklacken ","svar":" Utsättas för starkt övervåld.
+Smakar det så kostar det ","svar":" Inte förvånas över att det blev dyrt med hänsyn till den kvalitet som valdes.
+Smida medan järnet är varmt ","svar":" Behandla saken omgående medan det finns tid som annars kan omintetgöras.
+Sminka grisen ","svar":" Att försöka få något att se bättre ut än vad det är, men utan att lyckas med det. Uttrycket är troligen en försvenskning av engelskans 'that would be like putting lipstick on a pig', belagt första gången med exakt de orden i Washington Post, 1985.
+Smockan hänger i luften ","svar":" En diskussion börjar urarta, det kan bli bråk. 'Smocka' är ett vardagligt uttryck för knytnävslag.
+Smolk i glädjebägaren ","svar":" Något litet som hindrar någots gilla gång.
+Smäll på fingrarna ","svar":" Bli tillrättavisad.
+Smörja kråset ","svar":" Vräka i sig god mat, smörja sina egna inälvor med god mat. Krås avser egentligen ätliga inälvor samt vingspetsar, hals, ben med mera av fågel.
+Smörklick på het potatis ","svar":" Näst intill omöjligt att balansera, oftast om fysisk aktivitet.
+Sol ute, sol inne. Sol i hjärta, sol i sinne ","svar":" Ursprung okänt. Vanligt rim på broderade väggbonader. Syftet med ramsan är oklar.
+Som ett torrt skinn ","svar":" Utan syfte och mål.
+Som fan läser Bibeln ","svar":" Avsiktligt vantolka.
+Som klippt och skuren för något ","svar":" Passa väldigt bra.
+Sopa golvet med någon ","svar":" Att vinna mycket överlägset. Finns också som 'sopa golvet med motståndaren' eller 'sopa gräsmattan med någon'.
+Sopa problemet under mattan ","svar":" Inte låtsas om ett problem utan skjuta det framför sig.
+Sopa rent framför/för sin egen dörr ","svar":" Ta itu med sina egna problem innan man säger åt andra hur de ska agera.
+Sova på saken ","svar":" Fundera på något till nästa dag.
+Spara på krutet/spara inte på krutet ","svar":" Hålla igen i högljudd diskussion/eller överdriva i en argumentation. Exempel: 'Han blev tillsagd att spara på krutet' (att inte överdriva sin argumentation), 'Hon sparade minsann inte på krutet' (framförde sina åsikter på et aggressivt sätt).
+Sparv i tranedansen ","svar":" Känna sig som en sparv i tranornas dans, liten och betydelselös i ett finare sällskap, med alldeles för korta ben. Jämförbart med En katt bland hermelinerna.
+Spel för galleriet/gallerierna ","svar":" Publikfrieri, 'söka slå an på massorna'. 
+Spel bakom kulisserna ","svar":" Intriger i det fördolda.
+Spela Allan ","svar":" Vara medvetet överlägsen mot andra och njuta av situationen att andra inte kan lika mycket.
+Spela andrafiolen ","svar":" Att komma i andra hand; att visa hänsyn.
+Spela ett högt spel ","svar":" Att göra något riskabelt eller något som kan få svåra konsekvenser 'Han spelar ett högt spel'.
+Spela i samma division ","svar":" Att vara lika duktig eller accepterad utan klasskillnader. Ofta också på formen 'inte spela i samma division'.
+Spela sina kort väl ","svar":" Att vara taktisk.
+Spela under täcket med någon ","svar":" Att agera i hemligt samförstånd.
+Spetsa öronen ","svar":" Positivt: Lyssna uppmärksammat. Negativt: Omdöme om någon som försöker höra vad som sägs fast informationen inte är avsedd för vederbörande.
+Spindeln i nätet ","svar":" Den som drar i trådarna.
+Spotta i nävarna ","svar":" Ta i, ta nya tag.
+Sprids som askan för vinden ","svar":" Om något som skingras och aldrig mer kan samlas ihop igen.
+Springande punkten ","svar":" Det viktigaste argumentet som avgör en diskussion.
+Spritt språngandes naken ","svar":" Helt naken (oftast i en oväntad situation).
+Spänna bågen för högt ","svar":" Att sätta för höga mål.
+Stadd vid kassa ","svar":" Har gott om likvida medel, ha tillgång till mycket kontanta pengar som kan omsättas omgående. Stadd är ett äldre ord som i detta sammanhang har betydelsen 'stå i', 'befinna sig vid', 'vara i en viss belägenhet'.
+Stick i stäv mot ","svar":" Raka motsatsen. Exempel 'Det går stick i stäv mot vad vi kommit överens om'. Ursprungligen en seglarterm som beskriver då man lovar an mot vindögat, alltså seglar med fartygets bogspröt och förstäv riktad rakt mot vindriktningen.
+Sticka huvudet i sanden ","svar":" Blunda för problem som börjar bli uppenbara. Baseras på en felaktig myt om strutsars beteende.
+Sticka i ögonen ","svar":" Om något som väcker anstöt. Exempel: 'Deras beteende sticker i ögonen.' Ursprungligen om luftburna partiklar från eldstad: 'röken sticker i ögonen'.
+Sticka under stol med ","svar":" Ofta på formen 'Inte sticka under stol med', att säga vad man tycker i ett kanske kontroversiellt ämne.
+Sticka ut hakan ","svar":" Komma med ett kontroversiellt påstående.
+Stiga åt huvudet ","svar":" Det steg honom åt huvudet. När någon blir mallig eller högfärdig efter en framgång eller beröm.
+Stirra sig blind på något ","svar":" Inte förstå de större sammanhangen, eftersom man koncentrerar sig alltför mycket på en enstaka detalj, synfältet blir smalare.
+Stolt som en tupp ","svar":" Mallig.
+Storm i ett vattenglas ","svar":" Överdriva kraftigt för att få något att framstå som viktigare än det egentligen är; gräl om något oväsentligt. Jämför med engelska storm in a teacup, 'storm i en tekopp'.
+Strama tyglar ","svar":" Leda någons arbetsuppgifter i detalj och inte tillåta några avvikelser från uppgjord plan. Från sättet att styra en hästdragen vagn och inte tillåta hästen att ta några egna initiativ.
+Streck i räkningen ","svar":" Oväntat hinder.
+Strid på kniven ","svar":" Skarp konflikt.
+Strida om påvens skägg ","svar":" Diskutera om oväsentligheter. (Påven saknar skägg.)
+Stryka med ","svar":" Att dö.
+Stryka någon medhårs ","svar":" Hålla med i syfte att blidka. Används ofta som ett negativt omdöme om en person som hellre 'vänder kappan efter vinden' än att orsaka kontroverser.
+Stryka på foten/fötterna ","svar":" Ge vika.
+Sträcka vapen ","svar":" Kapitulera.
+Strö pärlor för svinen ","svar":" Anstränga sig i onödan.
+Strö salt i såren ","svar":" Förvärra situationen för någon som har det dåligt.
+Styv i korken ","svar":" Vara (alltför) självsäker. Till stor del jämställt med besserwisser.
+Styv i nacken/styvnackad ","svar":" Stolt och självständig eller självgod.
+Stå för fiolerna ","svar":" Svara för kostnaderna. Ursprungligen av franskans payer les violons som avsåg att underhålla en kvinna som också hade andra älskare.
+Stå handfallen ","svar":" Temporärt mist handlingsförmågan genom att något överraskande har hänt. Exempel 'De stod helt handfallna inför förödelsen'.
+Stå i ljusan låga ","svar":" Då elden fått ordentligt fäste, brinner häftigt, oftast om hus som brinner.
+Stå i rampljuset ","svar":" Vara uppmärksammad, högaktuell.
+Stå i skottgluggen ","svar":" Hårt ansatt av kritik utan att vara direkt ansvarig.
+Stå i valet och kvalet ","svar":" Att ha svårt att välja mellan två eller flera alternativ.
+Stå inför skranket ","svar":" Ställas till svars.
+Stå/sitta med armarna i kors ","svar":" Låta bli att ingripa i ett skeende trots att det finns möjligheter till det. Exempel: 'Medlarna satt inte med armarna i kors, utan deltog aktivt'.
+Stå med båda fötterna på jorden ","svar":" Vara realist i positiv bemärkelse, inte ta onödiga risker eller chansa.
+Stå med mössan i näven ","svar":" Skamset eller ödmjukt be om något; att tvingas be om ursäkt för något.
+Stå med skägget i brevlådan/Hamna med skägget i brevlådan ","svar":" Att ha försatt sig själv i en svår situation.
+Stå med två tomma händer/vara tomhänt ","svar":" Sakna rätt resurser.
+Stå med tvättad hals ","svar":" Att bli snopen.
+Stå och väga ","svar":" En småsak kan avgöra hur något ska sluta. Ofta på formen 'Det står och väger'.
+Stå pall för något ","svar":" Orka, uthärda påfrestningar. Exempel: 'Hoppas du står pall för detta?'
+Stå på egna ben ","svar":" Att vara oberoende och kunna reda sig själv.
+Stå på god fot med någon ","svar":" Att ha ett gott förhållande till någon.
+Stå på näsan ","svar":" Att falla, ramla omkull. Också: gör bankrutt.
+Stå på spel ","svar":" Det är inte säkert att något går vägen.
+Stå på sig ","svar":" Inte låta sig övertalas eller övertygas
+Stå på öronen ","svar":" Att ramla okontrollerat, snava eller halka på något och ramla omkull.
+Stå sitt kast ","svar":" Att ta ansvar för problem som uppstår genom eget (oklokt) förvållande.
+Stå som fallen från skyarna ","svar":" Att vara mycket förvånad och kanske handlingsförlamad.
+Stå (någon) upp i halsen ","svar":" Att vara riktigt trött på, ha fått nog av eller vara irriterad över. Exempel: 'Deras fasoner står mig upp i halsen'.
+Stå vid skampålen ","svar":" Att i något officiellt sammanhang få skämmas för något man gjort.
+Stånga hornen av sig ","svar":" Att skaffa sig utlopp för sin sexualdrift.
+Stånga sig blodig ","svar":" Ihärdigt framhärda något men till slut ändå inte kunna övertyga eller genomföra det man önskat.
+Ställa någon mot väggen ","svar":" Att ställa någon inför faktum och begära att vederbörande bekräftar detta självmant.
+Ställa sig i skamvrån ","svar":" Att tvingas att skämmas för något man sagt eller gjort, ofta av mindre vikt.
+Ställa till svars ","svar":" Låta någon ta ansvar för sina gärningar.
+Ställas i dålig dager ","svar":" Beskrivas på ett ofördelaktigt sätt, framstå i dåligt ljus.
+Stämma i bäcken ","svar":" Att ta itu med problem innan de växt sig alltför stora.
+Stöpt i samma form ","svar":" Det att någon eller något är exceptionellt lik någon/något annan. Anspelar på gjutning, där användandet av en gjutform kan ge flera likadana exemplar av det gjutna.
+Störst och värst i hela Bofors ","svar":" Ordramsa ursprungligen från trakten kring Bofors bruk. Någon som skryter och skroderar med överlägsen attityd.
+Stöta och blöta något ","svar":" grundligt gå igenom ett problem, älta en fråga.
+Stöta på patrull ","svar":" Att på något sätt få problem när något ska utföras.
+Stötesten ","svar":" En svårlöst fråga som berör flera, genom vitt skilda åsikter. Exempel 'Det kan bli en stötesten'.
+Stötts och blötts ","svar":" En tvistefråga som diskuterats från alla synvinklar under längre tid. Förmodat ursprung från äldre tiders stortvätt med blötläggning i vattenkar och bearbetning med lång träkäpp som stöttes i tvätten.
+Suga på karamellen ","svar":" Att så länge som möjligt försöka njuta av en vinst eller fördel man erhållit.
+Suga på ramarna ","svar":" Att ha det knappt.
+Summa summarum ","svar":" Sammanfattande kommentar efter en längre utläggning; totalt sett. Latin som betyder 'summornas summa', i överförd bemärkelse 'totalsumma'.
+Surfa på nätet ","svar":" Söka sig fram på World Wide Web ofta i betydelsen slumpmässigt. Lär ursprungligen ha myntats av skribenten och bibliotekarien Jean Armour Polly år 1992 ().
+Surrad vid masten ","svar":" kan omöjligen överge sin post
+Svagaste länken i kedjan ","svar":" Den del som är mest osäker i en process av inbördes beroende delar. Se ordspråket En kedja är inte starkare än sin svagaste länk.
+Svansen mellan benen ","svar":" Att skämmas mycket över något; att efter ett lite nesligt nederlag dra sig undan 'med svansen mellan benen'. Efter hunddjurs sätt att inom flocken visa sig underlägsna inför flockmedlemmar med högre rang.
+Svarta fåret ","svar":" Av engelskans 'black sheep of the family'; en person som avviker på ett negativt sätt, alternativt blir utstött eller får skulden för något på grund av att personen är annorlunda eller excentrisk.
+Svarte Petter ","svar":" Något som gör en till förlorare. Används ofta i formen 'bli sittande med Svarte Petter', vilket betyder att stå som förlorare när spelet är över. Från kortspelet Svarte Petter (i den artikeln förklaras uttrycket närmare).
+Svinhugg går igen ","svar":" en elakhet som slår tillbaka på utföraren, få igen för en begången oförrätt. Uttrycket kommer från hasardkortspelet Kille.
+Svida i skinnet ","svar":" Göra ont eller kosta mycket. 'Detta kommer att svida i skinnet' kan betyda att detta kommer bli dyrt och det blir tomt i plånboken (skinnet)
+Svårfjällad fisk ","svar":" Omdöme om en person som medvetet håller sig undan, som är svår att få utfråga.
+Svälja det beska pillret ","svar":" Tvingas acceptera något obehagligt eller förtretligt.
+Svära i kyrkan ","svar":" Föreslå något som i allmänhet tolkas som upprörande. Exempel Att göra det vore som att svära i kyrkan.
+Sväva i ovisshet ","svar":" Vara osäker.
+Sväva mellan liv och död ","svar":" Dödligt drabbad.
+Sväva på moln ","svar":" Vara lycklig.
+Sväva på målet ","svar":" Uttala sig obestämt eller osäkert
+Sväva på rosa moln ","svar":" Vara kär.
+Syna i sömmarna ","svar":" Noggrant undersöka.
+Synd på så rara ärtor ","svar":" Något dyrbart eller sällsynt går förlorat. Kan också användas till exempel om någon är kär i en person och får reda på att denne redan har en partner.
+Synda på nåden ","svar":" Göra något oförargligt men som man egentligen inte borde göra, men då räkna med Guds nåd. Jämför 'en vit lögn'.
+Så gott som ","svar":" Nästan.
+Så in i Norden ","svar":" I hög grad, väldigt mycket
+Så in i vassen ","svar":" I hög grad, väldigt mycket
+Så nära sanningen man kan komma ","svar":" När något är osäkert men sannolikt.
+Så sant som det är sagt ","svar":" Oftast ironiskt om en truism.
+Så split ","svar":" Att odla eller gynna oenighet som leder till missämja.
+Så sin vildhavre ","svar":" Att skaffa sig utlopp för sin sexualdrift.
+Så ska en slipsten dras ","svar":" att göra något ordentligt.
+Så tyst att man kan höra en knappnål falla ","svar":" Att något är mycket tyst, så tyst att man skulle höra en knappnål om den föll till golvet/marken.
+Sålt smöret och tappat pengarna ","svar":" Vara sur, på dåligt humör eller ledsen.
+Såga någon/något vid fotknölarna ","svar":" Tillintetgörande kritik, fullständigt nedgörande.
+Sånt är livet ","svar":" Svensk variant av franskans c'est la vie, att foga sig i omständigheterna.
+Såsom i en spegel ","svar":" Att se något otydligt eller dunkelt. Från Första Korinthierbrevets 13:e kapitel (1917 års bibelöversättning).
+Säga ifrån/till på skarpen ","svar":" Säga ifrån på ett argt sätt, mena allvar. Motsvarar Slå näven i bordet.
+Säga flaska ","svar":" Ofta på formen 'Inte säga flaska', att vara tyst.
+Säker i sadeln ","svar":" Säker på sin förmåga.
+Säker på sin sak ","svar":" Övertygad.
+Säkert som amen i kyrkan ","svar":" Något, som absolut säkert kommer att inträffa beroende på ett visst handlande. Jämförbart med Som ett brev på posten.
+Sätta bocken till trädgårdsmästare ","svar":" Att utse en olämplig person till ansvarig.
+Sätta en rova ","svar":" Att ramla plötsligt och tungt.
+Sätta fingret på något ","svar":" definiera, fastställa.
+Sätta in nådastöten ","svar":" Efter längre process, sista handling för att omintetgöra något/någon. Ursprungligen att göra slut på lidandet för en dödsdömd. Känt sedan 1795.
+Sätta käppar i hjulet ","svar":" Att förhindra eller försvåra något, ofta avsiktligt.
+Sätta livet till ","svar":" Att omkomma, särskilt i en olycka.
+Sätta munkavle på någon ","svar":" Hindra någon från att yttra sig. Ursprungligen efter träföremål som sattes i mun på kalven för att förhindra att den skulle dia kon, i avsikt att spara mjölk för hushållet.
+Sätta myror i huvudet på någon ","svar":" Att ge någon något besvärligt att tänka på. Även i variant med 'ge' eller 'skaffa'.
+Sätta ner foten ","svar":" Få stopp på något som tenderar att gå över styr.
+Sätta någon på det hala ","svar":" Att bringa någon i en förlägenhet, försöka få någon svarslös. Exempel 'Nu satte jag dig/er allt på det hala!'. Även i varianten 'att hamna på det hala'.
+Sätta någon på piedestal ","svar":" Högakta, beundra.
+Sätta någon på plats ","svar":" Att skarpt tillrättavisa någon.
+Sätta någon på pottan/pottkanten ","svar":" Påtala något som gör det svårt för någon.
+Sätta något på kartan ","svar":" Göra känt.
+Sätta något på spel ","svar":" Att riskera något.
+Sätta något under lupp ","svar":" Att noggrant undersöka något.
+Sätta p för något ","svar":" Att stoppa något.
+Sätta punkt för något ","svar":" Att avsluta eller förhindra något.
+Sätta sig på bakhasorna ","svar":" Bromsa, försöka förhindra något i en uppgjord plan. Bakhasen är häldelen på fyrbenta däggdjur, som om de sätts i marken ger en kraftig bromsverkan och försvårar framåtriktad acceleration.
+Sätta sig på höga hästar ","svar":" Vara övermodigt självsäker.
+Sätta sig på tvären ","svar":" Att säga emot någon; att vägra gå med på något.
+Sätta sitt ljus under skäppan ","svar":" Att vara alltför blygsam om sina egna talanger.
+Sätta sprätt på pengarna ","svar":" Att snabbt slösa bort pengarna.
+Sätta till alla klutar ","svar":" Att uppbjuda alla krafter.
+Sätta värde på något ","svar":" Att uppskatta något.
+Söndra och härska ","svar":" Klassisk härskarteknik.
+Ta bladet från munnen ","svar":" Tala öppet, säga som det är.
+Ta (den) bollen/pucken ","svar":" Företagsslang: ta en arbetsuppgift eller liknande.
+Ta den i tvåan ","svar":" Idka analt samlag, se analsex.
+Ta det kallt ","svar":" Att ta något med fattning.
+Ta det lite pö om pö ","svar":" I mindre steg klara av en större uppgift utan att ange när det kommer att vara färdigt. (Efter franskans peu à peu, 'lite på lite')
+Ta det långa benet före ","svar":" Skynda sig.
+Ta det med en klackspark ","svar":" Ta lättvindigt på något utan eftertanke, ignorera negativa konsekvenser.
+Ta det med ro ","svar":" Att inte oroas sig.
+Ta det piano ","svar":" Ta det lugnt. Piano är en styrkegradsbeteckning inom musiken, och avser att ett stycke skall spelas svagt, med låg ljudvolym. (Ofta används uttrycket felaktigt för att beskriva att ett musikstycke skall spelas i långsamt tempo, vilket heter Adagio.)
+Ta det säkra före det osäkra eller Ta det säkra för det osäkra ","svar":" Att välja något som framstår som säkert istället för något som framstår som osäkert.
+Ta det vackert ","svar":" Försiktigt.
+Ta en i det andra benet också ","svar":" Dricka snaps nummer två.
+Ta en kula för någon ","svar":" Offra sig. T ex 'ta en för laget'.
+Ta en ände med förskräckelse ","svar":" Kan sluta/gå riktigt illa. Oftast som varning: 'Det kan ta en ände med förskräckelse.'
+Ta för sig ","svar":" Att roffa åt sig.
+Ta för stora ord i sin mun ","svar":" Att inte ha täckning för det man säger.
+Ta gift på något ","svar":" Försäkra omgivningen om att något är sant. Finns belagt från 1897 i Göteborgs Handels","svar":" och Sjöfartstidning, nr 266, sid 3.
+Ta hus i helsike/helvete ","svar":" Flera kommer att bli upprörda. 'Ta hus' hade i äldre svenska betydelsen av 'bära hän/barka åt'. 'Ta hus i helvete' betyder egentligen 'Det går åt helvete'. Känt i skrift sen 1836 i boken En ung mans memoirer av Karl Anders af Kullberg.
+Ta höjd för något ","svar":" Ta med något i beräkningen.
+Ta i med hårdhandskarna ","svar":" Att fysiskt eller psykiskt ta itu med något på ett seriöst och hängivet sätt, att attackera ett problem.
+Ta i med silkesvantarna ","svar":" Motsats till uttrycket ovan; Att ta itu med ett problem på ett försiktigt och taktfullt sätt.
+Ta i så man spricker ","svar":" Överdriva.
+Ta igen på gungorna vad man förlorat på karusellen ","svar":" Att i en affärsuppgörelse ta igen för en annan, dålig affär, så att man i slutänden ändå går med vinst.
+Ta korn på ","svar":" Att ta ögonmärke på.
+Ta kål på något ","svar":" Att fullständigt förstöra något.
+Ta musten ur någon/något ","svar":" Bli utmattad.
+Ta ner månen ","svar":" Utföra det omöjliga.
+Ta ner skylten ","svar":" Att avlida.
+Ta någon i hampan ","svar":" Läxa upp någon. 'Hampa' används här i betydelsen 'håret'; ta tag i håret, lugga någon.
+Ta något med en nypa salt ","svar":" Att inte lita alltför mycket på en uppgift eller informationskälla.
+Ta något för givet ","svar":" Att utgå från att något är sant.
+Ta någon på orden ","svar":" Att tolka vad någon säger bokstavligt, utan att försöka gissa in några bibetydelser, ironier, sarkasmer eller liknande.
+Ta på kornet ","svar":" Att skildra naturtroget.
+Ta saken i egna händer ","svar":" Ta tag i något själv när ingen annan tycks (vilja) åtgärda det.
+Ta seden dit man kommer ","svar":" Att anpassa sig till omgivningen, att anpassa sig efter rådande seder och bruk.
+Ta sig en funderare ","svar":" Tänka efter.
+Ta sig en styrketår ","svar":" Dricka (ren) sprit.
+Ta sig för stora friheter ","svar":" Att göra mer än man får. Ofta på formen 'Ta sig friheten'
+Ta sig (själv) i kragen ","svar":" Rycka upp sig och ta tag i sina problem i stället för att låta sig nedtryckas av dem.
+Ta sig vatten över huvudet ","svar":" Att åta sig mer än man klarar av på ett sätt som kan leda till stora problem för en själv.
+Ta sin Mats ur skolan ","svar":" Att dra sig ur en brydsam eller farlig situation utan förlust eller förödmjukelse; göra sig kvitt något, 'lägga i backen'. Tidigare också med formen 'Ta sin mats ur skogen. Känt sedan 1719. Etymologiskt ursprung förmodligen från den tyska kortspelstermen einen Matsch machen, 'att ta hem eller att förlora alla spelen' (bokstavligen översatt dock 'göra gyttja'; jämför 'storslam').
+Ta skeden i vacker hand ","svar":" Hålla sig i skinnet och foga sig efter någons förmaning. 'Nu får du allt ta skeden i vacker hand och rätta dig efter detta!' Ursprungligen från uppmaningar till småbarn att äta mat de inte gillar.
+Ta skruv ","svar":" Få önskad effekt
+Ta steget fullt ut ","svar":" Att fullfölja viss handling och ta konsekvenserna.
+Ta tempen ","svar":" Kolla eller känna av läget
+Ta till storsläggan ","svar":" Ofta ett uttryck för att våldsamt kritisera någon på ett hänsynslöst sätt.
+Ta tjuren vid hornen ","svar":" Att ta tag i en svår/obehaglig uppgift på ett handgripligt sätt.
+Tacka sin lyckliga stjärna ","svar":" Ha en väldig tur.
+Tagen på sängen ","svar":" Överraskad, totalt oförberedd på något som man borde ha insett skulle kunna inträffa.
+Tala ett annat språk ","svar":" Uttrycka något annat än vad som sägs. 'Du säger att du är oskyldig men bevisen talar ett annat språk.
+Tala för döva öron ","svar":" Att säga något ingen bryr sig om, att bli nonchalerad.
+Tala klarspråk ","svar":" Uttrycka sig rakt på sak, utan omskrivningar.
+Tala med bönder på bönders vis och med de lärde på latin ","svar":" Att anpassa sitt budskap efter mottagarens förutsättningar att förstå vad man talar om. Kommer från Karlfeldts dikt Sång efter skördeanden ('Här dansar Fridolin')
+Tala med kluven tunga ","svar":" Att säga en sak men mena eller göra något helt annat; att vara oärlig; att inte stå för vad man har sagt. Från reptilers tvådelade tunga, efter engelska to speak with a forked tongue, ursprungligen från nordamerikanska indianspråk, där en som 'talar med kluven tunga' säger en sak, men menar en annan.
+Tala till punkt ","svar":" Tala tills man sagt allt man vill säga.
+Tala ur skägget ","svar":" Tala tydligt, eller att uppriktigt säga vad man tycker. Även formen 'Prata ur skägget' förekommer.
+Tappa ansiktet ","svar":" Att förlora sin prestige; att förödmjukas. Ursprungligen ett kinesiskt begrepp (en:Face (sociological concept)) som importerades till västerländska språk mot slutet av 1800","svar":"talet. Det motsatta uttrycket är att rädda ansiktet, ofta åt någon annan.
+Tappa greppet ","svar":" Förlora kontrollen.
+Tappa hakan ","svar":" Att se mycket förvånad ut och bli mållös ut utan att kunna dölja det.
+Tappa huvudet ","svar":" Att tillfälligt mista omdömesförmågan.
+Tappa koncepten ","svar":" Bete sig oregerligt eller komma av sig.
+Tappa målföret ","svar":" Tystna.
+Tappad bakom en vagn ","svar":" Att vara ointelligent eller ha långsam uppfattningsförmåga.
+Tiden har runnit ut ","svar":" Utmätt tid är slut.
+Tidens tand ","svar":" Förklaring till att något mycket gammalt förändrats i negativ riktning eller slitits, utan att ange exakt orsak. Exempel: Det är tidens tand.
+Tids nog ","svar":" Något kommer att utföras/lösa sig med tiden, ofta dock trots att det är obestämt hur/vem/vad som ska ombesörja detta. Exempel: 'Tids nog löser det sig'. Jämför I sinom tid.
+Till det yttersta ","svar":" Att anstränga sig med allt som man har.
+Till råga på allt ","svar":" Något som sker/skedde utöver något som redan inträffat, ofta negativt: 'inte nog med det'.
+Till sista andetaget ","svar":" Att anstränga sig till det yttersta.
+Till syvende och sist ","svar":" När allt kommer omkring, när saken ställts på sin spets. Av det danska Til syvende og sidst. På svenska finns finlandismen Sist och slutligen, med samma betydelse.
+Till yttermera visso ","svar":" Något som bekräftas av något, egentligen onödigt, för att extra tydligt påvisa att det är sant.
+Tillbaka på ruta ett ","svar":" Att ha hamnat i en situation som liknar den man en gång började med.
+Timglaset är fullt ","svar":" Tiden är ute.
+Titta för djupt i glaset/titta djupt i flaskan","svar":" Att dricka för mycket alkohol.
+Titta snett på någon ","svar":" förakta eller se med misstänksamhet på någon
+Tomma ord ","svar":" Orden har ingen bärighet eller relevans.
+Topp tunnor rasande ","svar":" extremt arg, rasande.
+Toppa laget ","svar":" Att använda de bästa spelarna i laget samtidigt.
+Torr bakom öronen ","svar":" Erfaren och mogen.
+Trampa i klaveret ","svar":" Att begå ett klumpigt misstag; ofta att säga eller göra något man egentligen inte menar. Även 'ett klavertramp'.
+Trampa på en öm tå ","svar":" Att säga/göra något som någon annan tycker är känsligt/blir irriterad över.
+Trampa spiken i botten ","svar":" Att trampa gaspedalen i botten.
+Trampa vatten ","svar":" Inte komma någon vart, diskussion som inte leder till någon slutsats.
+Tredje gången gillt ","svar":" Skrockfullt, om något som händer för tredje gången och därför ska gälla.
+Tretton på dussinet ","svar":" Någonting mycket vanligt eller överflödigt.
+Trilla av pinn ","svar":" Att avlida. Ursprungligen om (bur)fåglar som vid dödsögonblicket 'faller av sin gren'.
+Trolla med knäna ","svar":" Att försöka åstadkomma det omöjliga på ett enkelt sätt.
+Tror, det gör man i kyrkan ","svar":" Påpekande att det är stor skillnad mellan att tro eller spekulera, och att besitta kunskap grundad på verifierade fakta.
+Trycka ner i skoskaften ","svar":" På ett burdust och hänsynslöst sätt hindra någon från att uttrycka sin åsikt.
+Trångt om saligheten ","svar":" Ont om plats och/eller många som vill ta del av något.
+Träffa den rätta/rätte ","svar":" Att träffa sin stora kärlek.
+Tulipanaros ","svar":" En åtråvärd, men omöjlig kombination. Används ibland i uttrycket 'det är lätt att säga tulipanaros' innebärande att det kan vara lätt att säga men omöjligt att realisera en sak eller en idé, till exempel 'låt oss alla vara överens'. Används även i betydelsen att det blev något som ingen ville ha, d v s varken tulipan eller ros.
+Tummen i ögat ","svar":" Att ha någon under kontroll/uppsikt så att den/de inte ställer till besvär eller skapar problem.
+Tu tal om något ","svar":" Ofta på formen 'Det är inte tu tal om det' om något som det inte råder något tvivel om.
+Tupp i halsen ","svar":" När det stockar sig i halsen.
+Tvätta pengar ","svar":" Att omvandla pengar som intjänats brottsligt i pengar som kan användas.
+Tycka skjortan är trång ","svar":" Att komma i ett trängt läge.
+..., tyckte stämman ","svar":" Understryka det tidigare påståendet, ungefär 'så blir det'. Från sketch av Hasse å Tage.
+Tystnaden talar för sig själv ","svar":" Något uttalat som möts av tystnad kan tolkas som att ingen förstår, alla håller fullständigt med, alla tycker det är pinsamt eller ingen håller med. Vilket, beror på det som uttalats, situationen och den som tolkar.
+Två sidor av samma mynt ","svar":" Två olika synsätt på samma sak. Jämför 'Medaljens baksida'.
+Två sina händer ","svar":" Att avsäga sig ansvaret för något, bokstavligt talat 'att tvätta sina händer'. Bibliskt uttryck tillskrivet Pontius Pilatus när han avsvär sig ansvaret för Jesus död.
+Tår på tand ","svar":" Dricka snaps.
+Tårta på tårta ","svar":" Onödig dubblering, tautologi. Jämför 'Kaka på kaka'.
+Tända på alla fyra eller Tända på alla cylindrar ","svar":" Att bli väldigt entusiastisk
+Tälja guld med pennkniv ","svar":" Att på ett enkelt sätt tjäna mycket pengar. Även: Tälja guld med täljkniv.
+Tända på alla cylindrar ","svar":" Bli mycket uppspelt eller mycket upprörd.
+Tänk först och tala sen ","svar":" Förmaning att tänka efter innan man yttrar sig.
+Tänka på refrängen ","svar":" Förbereda sig för att dra sig tillbaka. Uttrycket kommer från Gluntarna, av Gunnar Wennerberg. I sång nr 8, lyder några textrader: 'Nu tror jag det kan vara tid / Att tänka på refrängen / Och efter dagens strid och frid / Bege sig hem i sängen.' 
+Täppa till munnen på någon ","svar":" Att hindra någon från att yttra sig.
+Tärningen är kastad ","svar":" Beslutet är taget, nu finns ingen återvändo. Ursprungligen av latinets Alea iacta est, bokstavligen 'tärningen är kastad', uttalat av Julius Caesar då han år 49 f. Kr. inleder romerska inbördeskriget genom att anfalla Rom.
+Ulv/varg i fårakläder ","svar":" Någon med onda avsikter förklädd till harmlöshet. 'Ulv' är i svenskan det ursprungliga ordet för varg.
+Undantaget som bekräftar regeln ","svar":" Förmodan att ett exempel på en avvikelse från en tes i verkligheten stöder denna. Uttrycket kommer från Cicero (106 f.Kr. ","svar":" 43 f.Kr.) i dennes försvarstal för Lucius Cornelius Balbus.
+Under isen ","svar":" Tillfälligt dålig på det man ska göra. Speciellt inom sport.
+Under uppsegling ","svar":" i annalkande.
+Underbart är kort ","svar":" När något fint eller bra bara varar en liten tid.
+Upp på koturnen ","svar":" Högtravande. Från att antikens tragediskådespelare bar kothurner.
+Uppe med tuppen ","svar":" Tidigt uppe ur sängen.
+Uppfinna hjulet på nytt ","svar":" Lägga ner möda på något komplicerat som någon annan redan har gjort.
+Ur askan i elden ","svar":" Att ha försökt lösa ett problem, men hamnat i värre belägenhet.
+Ur fas ","svar":" I otakt, osynkroniserad.
+Ur gängorna ","svar":" Vara nedslagen.
+Ur led är tiden ","svar":" Konstatera att något gått fel. Från Carl August Hagbergs översättning av William Shakespeares drama Hamlet.
+Ur spel ","svar":" Vara försatt ur spel, att ha fått sina möjligheter kringskurna
+Utan att darra på manschetten ","svar":" Våga säga eller göra något kontroversiellt utan att vara nervös för eventuella negativa konsekvenser. Exempel: 'Och det vågar du påstå utan att darra på manschetten?'
+Utan en tråd på kroppen ","svar":" Naken.
+Utan mål och mening ","svar":" Riktningslöst och meningslöst.
+Utan ände ","svar":" Något utdraget, ofta långtråkigt; 'det var en utläggning utan ände'.
+Ute efter något ","svar":" ha en (dold) agenda
+Ute i kylan ","svar":" Har fallit i onåd; står utanför någon eller någras gunst; att vara impopulär.
+Ute i ogjort väder ","svar":" Att företa något utan tillräcklig anledning.
+Ute och cykla ","svar":" Ha fel.
+Ute på djupt vatten ","svar":" Ha gett sig in på något som man inte behärskar. Variant: 'Ute på tunn is'.
+Ute på hal is ","svar":" Vara alltför säker på sin sak när man med stor risk kan ha fel.
+Utom sig (av vrede/ilska/sorg/oro) ","svar":" Att inte kunna behärska sig, tappa kontrollen.
+Vacker tass ","svar":" Väluppfostrat.
+Vad gäspar skårpan? ","svar":" Vad är klockan?
+Vad övrigt är, är tystnad ","svar":" Kan sägas när någon slagit fast något som är svårt att säga emot eller när någon gjort något slutgiltigt. Från Carl August Hagbergs översättning av William Shakespeares drama Hamlet.
+Vakta sin tunga ","svar":" Uppmaning att noga tänka över vad man säger eftersom det sagda kan ge allvarliga konsekvenser.
+Var och en blir salig på sin tro ","svar":" Uttryck när någon försöker övertyga någon (och har rätt) men ger upp.
+Vara den som är den ","svar":" Ofta på formen 'Inte vara den som är den'
+Vara du och bror med någon ","svar":" Att stå någon nära. Att ha lagt bort titlarna.
+Vara igång
+Vara grönt ","svar":" Något är klart eller det är fritt fram. Från trafiksignalen grönt ljus. Ofta på formen 'Det är grönt'.
+Vara sig själv nog ","svar":" Bara se till sina egna intressen.
+Varje moln har en silverkant
+Varför är allt en trasa? ","svar":" Varför är tillvaron så besvärlig? Från en dikt av Carl Jonas Love Almquist.
+Varje moln har en silverkant ","svar":" Det finns en ljusning i varje bedrövelse; bakom varje moln tittar solen fram.
+Varken bu eller bä ","svar":" Ofta som svar på en fråga om vad någon anser i ett spörsmål, men där den som svarar ställer sig neutral, och inte vill uttala sig i någon specifik riktning.
+Varken hackat eller malet ","svar":" Något som ska göras hindras av ovidkommande prat eller tafatt handhavande. Alternativt att något görs utifrån en kompromiss och blir sämre än alla de ingående alternativen.
+Varm i kläderna ","svar":" Van vid förhållandena
+Varm om hjärtat ","svar":" Att bli glad eller rörd.
+Vass tunga ","svar":" Säger elakheter
+Verkligheten överträffar (ofta) dikten ","svar":" Konstaterande av att något inträffat som inte setts som möjligt
+Veta hur en slipsten ska dras ","svar":" Veta precis hur man ska gå till väga (för att vinna en fördel). Ofta använt nedvärderande om någon. Exempel 'Han/hon vet hur slipsten ska dras!' eller 'Så ska en slipsten dras!'.
+Veta hut ","svar":" Mycket skarp tillsägelse att någon ska bete sig hövligt, ofta uttryckt kort som vet hut!
+Veta vad klockan är slagen ","svar":" Veta hur något verkligen förhåller sig.
+Veta var skon klämmer ","svar":" Komma på något som är känsligt för någon, oftast som en fråga. Ofta på formen 'Det är där skon klämmer' eller som en fråga 'Är det där som skon klämmer?'
+Vi är alla olika i Herrens hage ","svar":" Att bejaka olikheter.
+Vid sina sinnens fulla bruk ","svar":" Ofta på formen 'Inte vara vid sina sinnens fulla bruk' att vara sinnesförvirrad.
+Vid sunda vätskor ","svar":" Ofta på formen 'Inte vara vid sunda vätskor', att vara sinnessjuk.
+Vila på sina/gamla lagrar ","svar":" Nöja sig med tidigare uppnådda framgångar. Ursprungligen om lagerblad från Apollons heliga lagerträd; lagerkrans som förärats krigiska segerherrar och vinnare i de Pythiska spelen nära Delfi. (Senare omsatt i seden att förära nyligen promoverade doktorer med en lagerkrans på huvudet.)
+Vilja sjunka genom jorden ","svar":" Att vilja bli osynlig, till exempel på grund av blygsel eller skam.
+Vind för våg eller Driva vind för våg ","svar":" Att låta någon/något sköta sig själv utan ledning.
+Visa framfötterna ","svar":" Att ta initiativ, göra något bra.
+Visa sig från sin goda sida ","svar":" Att bjuda till.
+Visa sig på styva linan ","svar":" Att visa sig skicklig på något när andra ser på, att briljera, att skryta.
+Visa tänderna ","svar":" Att vara aggressiv, på hugget.
+Visa var skåpet ska stå ","svar":" Fälla det viktigaste omdömet eller fatta det viktigaste beslutet, som inte kan ifrågasättas.
+Vit lögn ","svar":" En lögn för att undvika onödigt krångel men som garanterat inte kan leda till obehagliga konsekvenser för någon.
+Vit vecka ","svar":" Att under en period vara nykter; att under en period helt avstå från alkohol.
+Vädra morgonluft ","svar":" Se möjligheter, dra nytta av en situation ofta med ett negativt resultat för andra.
+Väga sina ord på guldvåg ","svar":" Vara ytterst försiktig med vad man säger i en kontroversiell situation. Ofta som en uppmaning.
+Väggarna har öron ","svar":" (Misstänka att) någon obehörig lyssnar på en konversation.
+Välsmort munläder ","svar":" ordets gåva, kunna prata mycket.
+Vältra sig i pengar ","svar":" Att vara rik, rik som ett troll.
+Vända andra kinden till ","svar":" Inte bli arg över någon oförrätt utan snällt acceptera den.
+Vända blad ","svar":" Gå vidare; också vända om bladet, ändra beteende eller taktik, kasta om på en annan bog, sadla om
+Vända kappan efter vinden ","svar":" Ja","svar":"sägare, inte stå för sina åsikter, att ändra sig efter vad andra tycker. Oftast som ett negativt omdöme om en persons grundläggande egenskaper att aldrig våga ha en avvikande åsikt.
+Vända på kuttingen ","svar":" Göra något på ett helt annat sätt.
+Vända på slantarna ","svar":" Vara av nöden sparsam. Exempel: 'Man får minsann vända på slantarna om de ska räcka', egentligen försöka använda pengarna två gånger.
+Vända på steken ","svar":" Se något från en annan synvinkel, från en annan angreppspunkt. Exempel 'Om vi vänder på steken, så kanske det är så att ...'
+Vända på varje sten ","svar":" Undersöka något noggrant som inte har berättats hela sanningen om.
+Väntans tider ","svar":" Om tidsperiod av väntan. Särskilt graviditet.
+Värdshus förbi ","svar":" att fara förbi någon eller något utan att stanna och besöka. Uttrycket kommer från hasardkortspelet Kille.
+Värt papperet det är skrivet på ","svar":" Ofta på formen 'Inte vara värt papperet det är skrivet på', ett skriftligt påstående eller intyg som är värdelöst eller saknar relevans.
+Vässa sina knivar ","svar":" Förbereda ett angrepp.
+Växa så det knakar ","svar":" Växa bra eller snabbt.
+Yr i bollen ","svar":" Vara lite tokig, vimsig, förvirrad.
+Yr i mössan ","svar":" Vara lite tokig, vimsig, förvirrad.
+Åka på en blåsning ","svar":" Bli grundlurad.
+Återfå fattningen ","svar":" Komma till sans.
+Återgå/hänvisa till sina rötter ","svar":" Återgå eller hänvisa till sitt ursprung.
+Åt fanders ","svar":" När något har gått fel.
+Åt pipsvängen ","svar":" När något har gått fel. Ursprungligen ur Astrid Lindgrens bok Ronja Rövardotter.
+Äkta hälft ","svar":" Make eller maka. Den man är gift med. Ursprungligen från Platon (300","svar":"talet f. Kr.) om den saknade halvan som man genom giftermål förenas med.
+Ända in i Hälsingland ","svar":" Långt bort.
+Ända in i kaklet ","svar":" Hela vägen fram; ända tills man nått målet. Hämtat från simsporten; tills man slår händerna i simbassängens kakel.  Populariserat av svenska fotbollslandslagets förbundskapten Tommy Söderberg år 2001.
+Ända ut i fingerspetsarna ","svar":" Helt och hållet. Ofta som omdöme vid tvivel; Han/hon är något ut i fingerspetsarna.
+Äpplet faller inte långt från trädet ","svar":" Variant av uttrycket 'Sådan fader, sådan son', det vill säga att man liknar de man har som förebilder och kanske gör samma misstag som de.
+Ära den som äras bör ","svar":" Att ge beröm till rätt person.
+Äta någon ur hus och hem ","svar":" Slösaktig på annans bekostnad. Oftast inom familjen.
+Äta någon ur huset ","svar":" Äta mycket. Äta mer än sin beskärda del. Dyr i drift. Ursprungligen familjärt. Bokstavligen 'äta så mycket att man inte har råd att behålla huset'.
+Äta upp vad man sagt eller gjort ","svar":" Tvingas stå för de negativa följderna av vad man sagt eller gjort. Variant: 'Få äta upp sin egen hatt'.
+Äter allt, tycker mycket om barn ","svar":" Om något som är missriktat passande. Ursprungligen från en hundannons med en engelsk bulldogg till salu, återgiven i Ivan Swedrups Allt om hunden 1959.
+Även du (min) Brutus? ","svar":" Uttryck när man inser att även en god vän finns bland dem som har onda avsikter. Tillskrivet den romerske diktatorn Julius Caesar när han 44 f. Kr. bland sina angripare upptäckte den nära vännen Marcus Brutus med svärdet höjt, och utbrister Et tu, Brute?. Myntat av William Shakespeare i dramat Julius Caesar från 1599.
+Öga för öga, tand för tand ","svar":" Lika för lika: Att straffet ska vara av samma slag som brottet, att en oförrätt ska besvaras med motsvarande handling.
+Öppna korpgluggarna ","svar":" spärra upp ögonen. Kommer från gluggar i kyrktorn som förr öppnades för att kunna se på långt håll, ofta för att spana efter faror. Dessa gluggar var ofta tillhåll för korpar när de inte användes.
+Över min döda kropp ","svar":" Starkt uttryck för att vägra gå med på något eller vägra utföra en viss handling.
+Överlevt sig själv ","svar":" Något som passerat sin glans dagar med råge.
+Över sig given ","svar":" Förtvivlad.
+]

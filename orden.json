@@ -1,0 +1,5387 @@
+[
+    {
+        "uttryck": "Alla taggar utåt",
+        "svar": "Inte vara mottaglig för avvikande åsikter, ge ett aggressivt bemötande."
+    },
+    {
+        "uttryck": "Alla tiders",
+        "svar": " Utomordentligt."
+    },
+    {
+        "uttryck": "Allena saliggörande ",
+        "svar": " Om något (det enda) som ska lösa ett problem."
+    },
+    {
+        "uttryck": "Ana argan list ",
+        "svar": " Ana att något obehagligt är på gång."
+    },
+    {
+        "uttryck": "Ana ugglor i mossen ",
+        "svar": " Ana något misstänkt, misstänka en dold fälla."
+    },
+    {
+        "uttryck": "Andra bullar ",
+        "svar": " en strängare ordning är att vänta."
+    },
+    {
+        "uttryck": "Anno dazumal ",
+        "svar": " Av latinets anno, 'i år', och tyskans dazumal, 'då för tiden'."
+    },
+    {
+        "uttryck": "Armbåga sig fram ",
+        "svar": " Tränga sig fram, skaffa sig egna fördelar på bekostnad av andra."
+    },
+    {
+        "uttryck": "Av det rätta virket ",
+        "svar": " Att vara tillräcklig för uppgiften i fråga."
+    },
+    {
+        "uttryck": "Av samma korn och skrå ",
+        "svar": " Variant av uttrycket 'Av samma skrot och korn', med identisk betydelse."
+    },
+    {
+        "uttryck": "Av samma skrot och korn ",
+        "svar": " Vara av samma (underförstått dåliga) kvalitet eller sort."
+    },
+    {
+        "uttryck": "Avsked på grått papper ",
+        "svar": " Få avsked/sparken från en anställning på ett snöpligt sätt."
+    },
+    {
+        "uttryck": "Bakom flötet ",
+        "svar": " Inte fatta vad saken gäller."
+    },
+    {
+        "uttryck": "Bakom lyckta dörrar ",
+        "svar": " Utan allmän insyn."
+    },
+    {
+        "uttryck": "Bakom lås och bom ",
+        "svar": " I fängelse, i säkert förvar."
+    },
+    {
+        "uttryck": "Balansera på slak lina ",
+        "svar": " Att riskera något och vara osäker på utgången."
+    },
+    {
+        "uttryck": "(Som) balsam för själen ",
+        "svar": " Något som ger tröst eller lindring."
+    },
+    {
+        "uttryck": "Barka åt skogen ",
+        "svar": " Det kommer att gå illa."
+    },
+    {
+        "uttryck": "Barn av sin tid ",
+        "svar": " När någon eller något är präglat av den tid man lever i."
+    },
+    {
+        "uttryck": "Basunera ut ",
+        "svar": " Högljutt meddela något."
+    },
+    {
+        "uttryck": "Be för sin sjuka mor ",
+        "svar": " Att be om något för någon annans räkning, när det egentligen är man själv som vill ha det."
+    },
+    {
+        "uttryck": "Befinna sig i fritt fall ",
+        "svar": " Om något som försämras i rask takt."
+    },
+    {
+        "uttryck": "Befinna sig i förskingringen ",
+        "svar": " Vara på en plats långt hemifrån."
+    },
+    {
+        "uttryck": "Begära någons huvud på ett fat ",
+        "svar": " Begära ett strängt straff för någon."
+    },
+    {
+        "uttryck": "Behandla/ta i någon med silkesvantar ",
+        "svar": " Behandla någon mycket försiktigt."
+    },
+    {
+        "uttryck": "Bara toppen av ett isberg/på isberget ",
+        "svar": " Man börjar inse att ett problem är betydligt större än det verkar vid en första anblick."
+    },
+    {
+        "uttryck": "Beväpnad till tänderna ",
+        "svar": " Vara väl förberedd och utrustad."
+    },
+    {
+        "uttryck": "Binda ris för/åt egen rygg ",
+        "svar": " Själv oavsiktligt erbjuda underlag för kritik."
+    },
+    {
+        "uttryck": "Bita av någon ",
+        "svar": " Bryskt avbryta någon."
+    },
+    {
+        "uttryck": "Bita huvudet av skammen ",
+        "svar": " Visa sig inte skämmas för att ha gjort något mycket skamligt"
+    },
+    {
+        "uttryck": "(Få/tvingas) bita i det sura äpplet ",
+        "svar": " Göra något som man inte vill."
+    },
+    {
+        "uttryck": "Bita i gräset ",
+        "svar": " Förlora, misslyckas, avlida."
+    },
+    {
+        "uttryck": "Bjuda med armbågen ",
+        "svar": " Bjuda någon utan att egentligen mena det, även att erbjuda något som egentligen inte är värt särskilt mycket."
+    },
+    {
+        "uttryck": "Bjuda till ",
+        "svar": " Anstränga sig, göra sitt bästa."
+    },
+    {
+        "uttryck": "Black om foten ",
+        "svar": " Ett svårt hinder."
+    },
+    {
+        "uttryck": "Blek kopia ",
+        "svar": " Något som inte är lika bra som originalet."
+    },
+    {
+        "uttryck": "Bli blåst/snuvad/lurad på konfekten ",
+        "svar": " Känna sig lurad (på något)."
+    },
+    {
+        "uttryck": "Bli vid sin läst ",
+        "svar": " Inte försöka sig på något nytt, hålla sig till en påtagen uppgift. Se även läst."
+    },
+    {
+        "uttryck": "Blod på händerna ",
+        "svar": " Vara skyldig till våldsbrott (t ex om regim)."
+    },
+    {
+        "uttryck": "Blommor och bin ",
+        "svar": " Vardagligt om frågor som rör fortplantning och sexualitet (när man till exempel talar om dem med barn)."
+    },
+    {
+        "uttryck": "Blåsa faran över ",
+        "svar": " Konstatera att det farliga läget har passerat."
+    },
+    {
+        "uttryck": "Bollen är rund ",
+        "svar": " Utgången är oviss, allt kan hända. Yttrat av Gunnar Gren, med innebörden att resultatet av fotbollsmatch inte går att förutse."
+    },
+    {
+        "uttryck": "Brinna för något ",
+        "svar": " Vara mycket engagerad i något."
+    },
+    {
+        "uttryck": "Brinner i knutarna ",
+        "svar": " Det är mycket bråttom."
+    },
+    {
+        "uttryck": "Bränna sina broar ",
+        "svar": " Förstöra sina möjligheter till återvändo, återtagande eller reträtt. Fatta beslut, vidta åtgärder, ställa ultimatum eller ge löften på ett sådant sätt att de inte kan återtagas, och att de måste följas till sin slutgiltiga konsekvens oavsett vad som händer. Jämför med 'måla in sig i ett hörn.' SAOB anger under 'Bränna sina skepp' även betydelsen 'rifva alla broar bakom sig'. Att bränna broar över naturliga hinder såsom t ex floder och raviner är mycket vanlig taktik vid militär reträtt, i syfte att försvåra efterföljande för fienden. Det medför dock att den egna möjligheten att återta uppgiven terräng också avsevärt försvåras."
+    },
+    {
+        "uttryck": "Bränna sina skepp ",
+        "svar": " Göra en återgång till det gamla omöjlig."
+    },
+    {
+        "uttryck": "Bränna sitt ljus i båda ändar ",
+        "svar": " Oklokt utnyttjande av sina krafter."
+    },
+    {
+        "uttryck": "Bröd och skådespel ",
+        "svar": " Att köpa sig makt av folket genom materiella ting och ytliga nöjen. Se Bröd och skådespel."
+    },
+    {
+        "uttryck": "Bulla upp ",
+        "svar": " Duka fram mycket med mat eller dryck."
+    },
+    {
+        "uttryck": "Bygger bo i huvudet ",
+        "svar": " När man får något att grubbla och tänka på eller oroa sig över."
+    },
+    {
+        "uttryck": "Bygga broar ",
+        "svar": " Försöka skapa något som förenar."
+    },
+    {
+        "uttryck": "Bygga luftslott ",
+        "svar": " Drömma ljusa men svagt underbyggda drömmar."
+    },
+    {
+        "uttryck": "Byta fot ",
+        "svar": " Plötsligt ändra åsikt."
+    },
+    {
+        "uttryck": "Både ha och äta kakan / både äta kakan och ha den kvar ",
+        "svar": " Göra två saker som inte båda låter sig göras."
+    },
+    {
+        "uttryck": "Både hängslen och livrem ",
+        "svar": " Vara fullständigt säker."
+    },
+    {
+        "uttryck": "Bära hundhuvudet ",
+        "svar": " Få bära skulden för något."
+    },
+    {
+        "uttryck": "Bära något i sitt sköte ",
+        "svar": " Komma att medföra."
+    },
+    {
+        "uttryck": "Bära syn för sägen ",
+        "svar": " Bevisa något som tidigare påståtts."
+    },
+    {
+        "uttryck": "Börja på ny kula ",
+        "svar": " Börja om på nytt."
+    },
+    {
+        "uttryck": "Cirkeln är sluten ",
+        "svar": " Att något eller någon åter är där det började."
+    },
+    {
+        "uttryck": "Damma av något ",
+        "svar": " Ta något i bruk igen."
+    },
+    {
+        "uttryck": "Dansa efter någons pipa ",
+        "svar": " Rätta sig efter någons vilja. Uttrycket tros komma från 1500",
+        "svar": "talet där björnförare använde en pipa för att dressera björnar och där björnen dansade till pipan."
+    },
+    {
+        "uttryck": "Dansa på någons grav ",
+        "svar": " Triumfera när någon dött eller trätt tillbaka."
+    },
+    {
+        "uttryck": "Dansen kring den gyllene kalven/guldkalven ",
+        "svar": " Penningdyrkan, penningbegär (jämför guldkalven.)"
+    },
+    {
+        "uttryck": "Den breda vägen ",
+        "svar": " Syndens väg."
+    },
+    {
+        "uttryck": "Den dagen, den sorgen ",
+        "svar": " Om något bekymmersamt som man inte behöver oroa sig för i förtid."
+    },
+    {
+        "uttryck": "Den fula ankungen ",
+        "svar": " om en förbisedd person som så småningom istället blir beundrad."
+    },
+    {
+        "uttryck": "Den gubben går/gick inte ",
+        "svar": " Vardagligt, när man inte går med på något."
+    },
+    {
+        "uttryck": "Det blev pannkaka av alltihop ",
+        "svar": " När något blivit helt misslyckat."
+    },
+    {
+        "uttryck": "Det bästa är fiende till det goda ",
+        "svar": " Försök att förbättra något hindras med motiveringen att resultatet fortfarande kommer ha brister."
+    },
+    {
+        "uttryck": "Det fina i kråksången ",
+        "svar": " Finessen, poängen i något."
+    },
+    {
+        "uttryck": "Det flyger inga stekta sparvar i munnen på en ",
+        "svar": " Man får inget gratis."
+    },
+    {
+        "uttryck": "Det går sin gilla gång ",
+        "svar": " När inget sker utom det vanliga."
+    },
+    {
+        "uttryck": "Det går utför ",
+        "svar": " 1. Det är nerförsbacke. 2. Om något som ständigt försämras."
+    },
+    {
+        "uttryck": "Det knallar och går ",
+        "svar": " Allt är som det ska, ganska bra eller som vanligt."
+    },
+    {
+        "uttryck": "Det kan du hoppa upp och sätta dig på ",
+        "svar": " Tvärsäker försäkran."
+    },
+    {
+        "uttryck": "Det kan du skriva upp ",
+        "svar": " Tvärsäker försäkran."
+    },
+    {
+        "uttryck": "Det lackar mot jul eller det lider mot jul ",
+        "svar": " Julafton närmar sig."
+    },
+    {
+        "uttryck": "Det man inte har i huvudet får man ha i benen. ",
+        "svar": " Man är glömsk och får gå flera gånger."
+    },
+    {
+        "uttryck": "Det står och faller med honom/henne/den/det ",
+        "svar": " Nödvändigt villkor för existens."
+    },
+    {
+        "uttryck": "Det täcka könet ",
+        "svar": " Kvinnan."
+    },
+    {
+        "uttryck": "Det vete fåglarna ",
+        "svar": " När man inte vet eller är osäker."
+    },
+    {
+        "uttryck": "Ditt och datt ",
+        "svar": " Lite av varje."
+    },
+    {
+        "uttryck": "Don efter person ",
+        "svar": " När ett föremål passar en viss person särskilt bra, ofta skämtsamt."
+    },
+    {
+        "uttryck": "Dra/skära/ta alla över en/samma kam eller låta alla gå över samma kam ",
+        "svar": " att negativt bedöma alla efter samma mall."
+    },
+    {
+        "uttryck": "Dra/släpa benen efter sig eller dra på benen ",
+        "svar": " Att söla."
+    },
+    {
+        "uttryck": "Dra det längsta/kortaste strået ",
+        "svar": " Att vinna respektive förlora i en tvistefråga."
+    },
+    {
+        "uttryck": "Dra dit pepparn växer ",
+        "svar": " Önska att någon försvinner."
+    },
+    {
+        "uttryck": "Dra det tyngsta lasset ",
+        "svar": " Göra det mesta arbetet."
+    },
+    {
+        "uttryck": "Dra en lans för någon/något även bryta en lans … ",
+        "svar": " Högt försvara någon/något. Rikta uppmärksamheten på något."
+    },
+    {
+        "uttryck": "Dra ett streck över det som varit ",
+        "svar": " Att glömma oförrätter."
+    },
+    {
+        "uttryck": "Dra/hålla i trådarna ",
+        "svar": " Att ha kontrollen över någon viss verksamhet."
+    },
+    {
+        "uttryck": "Dra/hålla i tåtarna ",
+        "svar": " Att diskret kontrollera och styra."
+    },
+    {
+        "uttryck": "Dra igång ",
+        "svar": " Börja."
+    },
+    {
+        "uttryck": "Dra ihop sig ",
+        "svar": " Man tror att något börjar."
+    },
+    {
+        "uttryck": "Dra/ta lärdom av något ",
+        "svar": " Att lära sig något av ett fel."
+    },
+    {
+        "uttryck": "Dra mig baklänges ",
+        "svar": " Uttryck för förvåning."
+    },
+    {
+        "uttryck": "Dra något gammalt över sig ",
+        "svar": " När man vill avfärda någon eller inte ha med någon att göra."
+    },
+    {
+        "uttryck": "Dra något i långbänk ",
+        "svar": " Att förhala, långdragen process som fördröjer beslut."
+    },
+    {
+        "uttryck": "Dra på munnen/smilbanden/smilbandet ",
+        "svar": " Le."
+    },
+    {
+        "uttryck": "Dra på trissor ",
+        "svar": " Uttryck för förvåning eller lättare missnöje."
+    },
+    {
+        "uttryck": "Dra sig till minnes ",
+        "svar": " Erinra sig."
+    },
+    {
+        "uttryck": "Dra sig tillbaka ",
+        "svar": " Avlägsna sig."
+    },
+    {
+        "uttryck": "Dra sina färde ",
+        "svar": " Ge sig iväg."
+    },
+    {
+        "uttryck": "Dra sin sista suck ",
+        "svar": " Att dö."
+    },
+    {
+        "uttryck": "Dra sitt strå till stacken ",
+        "svar": " Att lämna sitt bidrag."
+    },
+    {
+        "uttryck": "Dra timmerstockar ",
+        "svar": " Snarka kraftigt."
+    },
+    {
+        "uttryck": "Dra/rycka undan mattan för någon/något ",
+        "svar": " Plötsligt göra förutsättningarna osäkra för någon/något."
+    },
+    {
+        "uttryck": "Dra ut på något ",
+        "svar": " Förlänga ett skeende."
+    },
+    {
+        "uttryck": "Dra ut på tiden ",
+        "svar": " Ta längre tid än väntat, dröja."
+    },
+    {
+        "uttryck": "Dra växlar på något ",
+        "svar": " Utnyttja och dra fördelar av något."
+    },
+    {
+        "uttryck": "Dra åt svångremmen ",
+        "svar": " Anpassa sig efter knappare ekonomiska förhållanden."
+    },
+    {
+        "uttryck": "Dra öronen åt sig ",
+        "svar": " Ana oråd."
+    },
+    {
+        "uttryck": "Dragen vid näsan ",
+        "svar": " Bli lurad."
+    },
+    {
+        "uttryck": "Dras med något ",
+        "svar": " Att acceptera något/någon mot sin vilja"
+    },
+    {
+        "uttryck": "Driva något till sin spets ",
+        "svar": " Gå så långt det är möjligt i en fråga eller konflikt."
+    },
+    {
+        "uttryck": "Droppe i havet ",
+        "svar": " En mycket obetydlig mängd."
+    },
+    {
+        "uttryck": "Droppen som fick bägaren att rinna över ibland bara droppen ",
+        "svar": " När något gör att tålamodet med något slutligen tryter."
+    },
+    {
+        "uttryck": "Duka under ",
+        "svar": " Ge vika, gå under."
+    },
+    {
+        "uttryck": "Dummare än tåget ",
+        "svar": " När någon är oerhört dum."
+    },
+    {
+        "uttryck": "Därom tvista de lärde ",
+        "svar": " När ett problem är svårt eller omöjligt att avgöra."
+    },
+    {
+        "uttryck": "Döden i grytan ",
+        "svar": " Något är det mest olycksbringande som kan hända."
+    },
+    {
+        "uttryck": "Dödens lammunge ",
+        "svar": " Räddningslöst förlorad."
+    },
+    {
+        "uttryck": "Efter många om och men ",
+        "svar": " Efter mycket krångel."
+    },
+    {
+        "uttryck": "Eftertankens kranka blekhet ",
+        "svar": " Bitter eftertanke."
+    },
+    {
+        "uttryck": "Ekorrhjulet, sitta fast i ekorrhjulet, ta sig ur ekorrhjulet ",
+        "svar": " Hamna eller vara i en situation med saker som görs om och om igen och som inte leder någonstans, eller en situation där man blir stressad och inte kan uträtta något."
+    },
+    {
+        "uttryck": "Eld i baken ",
+        "svar": " Väldigt bråttom."
+    },
+    {
+        "uttryck": "Eld och lågor ",
+        "svar": " Mycket entusiastisk."
+    },
+    {
+        "uttryck": "Elda för kråkorna ",
+        "svar": " Slösa med bränsle eller värme."
+    },
+    {
+        "uttryck": "Elefant i en porslinsaffär/porslinsbutik ",
+        "svar": " Någon som verbalt eller fysiskt uppför sig mycket klumpigt, och ställer till stora problem genom att inte tänka sig för."
+    },
+    {
+        "uttryck": "Elefanten i rummet/en elefant i rummet ",
+        "svar": " Något, oftast ett problem, som är mycket tydligt, men som ingen vågar prata om."
+    },
+    {
+        "uttryck": "En annan femma ",
+        "svar": " En annan sak, det förändrar saken."
+    },
+    {
+        "uttryck": "En fågel har viskat/kvittrat (i mitt öra) ",
+        "svar": " Ha hört ett rykte, någon har sagt att något."
+    },
+    {
+        "uttryck": "En gång för alla ",
+        "svar": " Slutgiltigt."
+    },
+    {
+        "uttryck": "En vacker dag ",
+        "svar": " Någon gång när man minst anar det."
+    },
+    {
+        "uttryck": "Enligt/efter konstens alla regler ",
+        "svar": " grundligt, ordentligt, iakttagande av vederbörliga ceremonier'"
+    },
+    {
+        "uttryck": "Ess i rockärmen ",
+        "svar": " Något att ta till vid behov som i en given situation garanterat kan ge ett övertag mot andra."
+    },
+    {
+        "uttryck": "Ett horn i sidan till någon ",
+        "svar": " Tycka illa om någon."
+    },
+    {
+        "uttryck": "Ett hår av Hin ",
+        "svar": " En mycket elak person."
+    },
+    {
+        "uttryck": "Ett litet korn av sanning ",
+        "svar": " En berättelse eller ett rykte kan innehålla delar som är sanna, men det mesta är lögn eller överdrifter."
+    },
+    {
+        "uttryck": "Ett ljus i mörkret ",
+        "svar": " Något hoppingivande under en svår tid."
+    },
+    {
+        "uttryck": "Ett strå vassare ",
+        "svar": " En smula bättre."
+    },
+    {
+        "uttryck": "Falla i god jord ",
+        "svar": " Tas emot med intresse eller uppskattning."
+    },
+    {
+        "uttryck": "Falla/hamna mellan stolarna ",
+        "svar": " Ett ärende eller motsvarande hamnar mellan olika ansvarsområden och följden blir att ingen tar tag i det."
+    },
+    {
+        "uttryck": "Falla någon på läppen ",
+        "svar": " Något som gillas av någon."
+    },
+    {
+        "uttryck": "Falla på eget grepp ",
+        "svar": " Misslyckas på grund av egna handlingar."
+    },
+    {
+        "uttryck": "Fan och hans moster ",
+        "svar": " Allt möjligt, alla möjliga personer."
+    },
+    {
+        "uttryck": "Fara med osanning ",
+        "svar": " Tala osanning."
+    },
+    {
+        "uttryck": "Fara och flyga ",
+        "svar": " Att uppmana någon att försvinna snabbt."
+    },
+    {
+        "uttryck": "Fara å/på färde ",
+        "svar": " Något farligt."
+    },
+    {
+        "uttryck": "Fel ute ",
+        "svar": " Har dragit fel slutsats."
+    },
+    {
+        "uttryck": "Fatta galoppen ",
+        "svar": " Förstå något, vanligen något mindre uppenbart."
+    },
+    {
+        "uttryck": "Femte hjulet under vagnen ",
+        "svar": " I vägen eller överflödig."
+    },
+    {
+        "uttryck": "Fin i kanten ",
+        "svar": " Att vara lite fånigt förnäm eller kräsen."
+    },
+    {
+        "uttryck": "Finns det hjärterum så finns det stjärterum ",
+        "svar": " Om man bara vill så får det ofta plats en till"
+    },
+    {
+        "uttryck": "Fina fisken ",
+        "svar": " Utmärkt."
+    },
+    {
+        "uttryck": "Fiska i grumligt/grumliga vatten ",
+        "svar": " Skaffa sig fördelar i en förvirrad situation, ofta på ett tvivelaktigt sätt."
+    },
+    {
+        "uttryck": "Fjärilar i magen ",
+        "svar": " Känna sig nervös."
+    },
+    {
+        "uttryck": "Fjäder i hatten ",
+        "svar": " Fin merit."
+    },
+    {
+        "uttryck": "Flyga i luften ",
+        "svar": " Explodera, få ett raseriutbrott."
+    },
+    {
+        "uttryck": "Flyta ovanpå ",
+        "svar": " Göra sig gällande genom att spela överlägsen."
+    },
+    {
+        "uttryck": "Flåsa någon i nacken ",
+        "svar": " Att vara nära att hinna i kapp någon."
+    },
+    {
+        "uttryck": "Frid och fröjd ",
+        "svar": " Allmänt positivt."
+    },
+    {
+        "uttryck": "Fritt fram ",
+        "svar": " Alla är fria att träda fram eller ta för sig."
+    },
+    {
+        "uttryck": "Från ax till limpa ",
+        "svar": " Från första idé till färdig produkt i en (tillverknings)process."
+    },
+    {
+        "uttryck": "Från vettet ",
+        "svar": " Har tillfälligt tappat förståndet."
+    },
+    {
+        "uttryck": "Ful fisk ",
+        "svar": " Skurkaktig person."
+    },
+    {
+        "uttryck": "Full i fan eller full i sjutton ",
+        "svar": " Pigg på att skämta och luras (vardagligt)."
+    },
+    {
+        "uttryck": "Full rulle ",
+        "svar": " I hög fart, eller när det råder hög stämning."
+    },
+    {
+        "uttryck": "Full som en alika ",
+        "svar": " vara mycket berusad."
+    },
+    {
+        "uttryck": "Få betalt under bordet, få pengar under bordet ",
+        "svar": " Ta betalt för något i hemlighet, att ta emot mutor."
+    },
+    {
+        "uttryck": "Få blodad tand ",
+        "svar": " Bli inspirerad att göra mer av något."
+    },
+    {
+        "uttryck": "Få det hett om öronen ",
+        "svar": " Hamna i ett svårt och utsatt läge."
+    },
+    {
+        "uttryck": "Få en släng av sleven ",
+        "svar": " Få sin beskärda del."
+    },
+    {
+        "uttryck": "Få en syl i vädret ",
+        "svar": " Få yttra sig i ett samtal."
+    },
+    {
+        "uttryck": "Få ett kok stryk ",
+        "svar": " Få ordentligt med stryk."
+    },
+    {
+        "uttryck": "Få frispel ",
+        "svar": " Bli väldigt upphetsad."
+    },
+    {
+        "uttryck": "Få för gammal ost",
+        "svar": " En hämnd för en gammal oförrätt."
+    },
+    {
+        "uttryck": "Få fötter ",
+        "svar": " blivit stulet"
+    },
+    {
+        "uttryck": "Få kalla fötter ",
+        "svar": " Plötsligt få starka betänkligheter."
+    },
+    {
+        "uttryck": "Få kalla handen eller mötas av kalla handen ",
+        "svar": " Bli avvisad."
+    },
+    {
+        "uttryck": "Få kalla kårar ",
+        "svar": " Rysa."
+    },
+    {
+        "uttryck": "Få nys om något ",
+        "svar": " Höra talas om något"
+    },
+    {
+        "uttryck": "Få något om bakfoten ",
+        "svar": " Att missuppfatta något."
+    },
+    {
+        "uttryck": "Få någon/något på halsen ",
+        "svar": " Tvingas ta hand om och ägna sig åt någon/något."
+    },
+    {
+        "uttryck": "Få någon/något på hjärnan ",
+        "svar": " Bli helt uppslukad av någon/något."
+    },
+    {
+        "uttryck": "Få silkessnöret ",
+        "svar": " Få en uppmaning att säga upp sig. Att få ett uppdrag som man får sparken efter, om man inte klarar av det."
+    },
+    {
+        "uttryck": "Få sina fiskar varma ",
+        "svar": " Få stark kritik."
+    },
+    {
+        "uttryck": "Få tji ",
+        "svar": " Göra ett förargligt bakslag."
+    },
+    {
+        "uttryck": "Få vatten på sin kvarn ",
+        "svar": " Någon har hävdat en negativ åsikt och det visar sig att han eller hon får ytterligare argument som styrker det han eller hon hävdat."
+    },
+    {
+        "uttryck": "Få veta att man lever ",
+        "svar": " Bli hårt ansatt."
+    },
+    {
+        "uttryck": "Få ändan ur vagnen ",
+        "svar": " Börja handla efter inaktiv period."
+    },
+    {
+        "uttryck": "Född i farstun ",
+        "svar": " obegåvad, tafatt eller ointelligent person. "
+    },
+    {
+        "uttryck": "Född med en silversked i munnen ",
+        "svar": " Att vara gynnad sedan födseln."
+    },
+    {
+        "uttryck": "Följa/gå i någons fotspår ",
+        "svar": " Härma någons levnadsbana."
+    },
+    {
+        "uttryck": "Inte för allt smör i Småland ",
+        "svar": " inte till något pris som helst."
+    },
+    {
+        "uttryck": "För allt vad tygen håller ",
+        "svar": " Så mycket eller så fort man orkar."
+    },
+    {
+        "uttryck": "För fulla muggar ",
+        "svar": " Av alla krafter."
+    },
+    {
+        "uttryck": "För handen ",
+        "svar": " Föreligga."
+    },
+    {
+        "uttryck": "För hela slanten ",
+        "svar": " Uteslutande."
+    },
+    {
+        "uttryck": "För kung och fosterland ",
+        "svar": " Av alla krafter, (ta i) allt vad man orkar."
+    },
+    {
+        "uttryck": "Föra någon bakom ljuset ",
+        "svar": " Lura någon."
+    },
+    {
+        "uttryck": "Förstå hur landet ligger ",
+        "svar": " Se, veta hur något ligger till eller hur det förhåller sig med något."
+    },
+    {
+        "uttryck": "Försöka ta ner månen ",
+        "svar": " försöka göra det omöjliga."
+    },
+    {
+        "uttryck": "Förvalta sitt pund ",
+        "svar": " Omsorgsfullt sköta sina ekonomiska tillgångar eller sina talanger."
+    },
+    {
+        "uttryck": "Förvrida huvudet på någon ",
+        "svar": " Att göra någon tokig av förälskelse."
+    },
+    {
+        "uttryck": "Gammal i gården, förr gammal i gårde",
+        "svar": " att ha varit länge på samma plats (arbetsplats), att vara erfaren, att ha varit med länge."
+    },
+    {
+        "uttryck": "Gammal som gatan ",
+        "svar": " Mycket gammal."
+    },
+    {
+        "uttryck": "Gamla surdegar ",
+        "svar": " Gamla olösta frågor och problemställningar som orsakar konflikter och bitterhet."
+    },
+    {
+        "uttryck": "Ge järnet ",
+        "svar": " Sätta in alla krafter."
+    },
+    {
+        "uttryck": "Ge någon en känga ",
+        "svar": " Ge någon en tillrättavisning, ge någon en knäpp på näsan."
+    },
+    {
+        "uttryck": "Ge någon fria eller lösa tyglar ",
+        "svar": " Att inte bestämma hålla efter någon hårt."
+    },
+    {
+        "uttryck": "Ge svar på tal ",
+        "svar": " Avfärda någon med ett svar som får den andre att tystna."
+    },
+    {
+        "uttryck": "Ge upp andan ",
+        "svar": " Dö."
+    },
+    {
+        "uttryck": "Ge vid handen (att) ",
+        "svar": " Påvisar."
+    },
+    {
+        "uttryck": "Gjuta olja på vågorna ",
+        "svar": " Lugna de upprörda känslorna."
+    },
+    {
+        "uttryck": "Glida fram/in/omkring på en räkmacka ",
+        "svar": " Inte utsättas för motstånd."
+    },
+    {
+        "uttryck": "Glad som en lärka ",
+        "svar": " Mycket glad."
+    },
+    {
+        "uttryck": "Glimten i ögat (med glimten i ögat, ha glimten i ögat) ",
+        "svar": " Ha humor, vara rolig, skämtsam eller gäckande."
+    },
+    {
+        "uttryck": "Gnugga geniknölarna ",
+        "svar": " Att anstränga sig mentalt."
+    },
+    {
+        "uttryck": "Gnugga händerna ",
+        "svar": " Visa sig tydligt belåten."
+    },
+    {
+        "uttryck": "Goddag yxskaft ",
+        "svar": " Att ge ett nonsenssvar på en ställd fråga. Ett svar som inte hänger ihop med frågan."
+    },
+    {
+        "uttryck": "Gripa efter ett halmstrå ",
+        "svar": " Att försöka klara en situation i sista stund."
+    },
+    {
+        "uttryck": "Gripa/ta något ur luften ",
+        "svar": " Hitta på."
+    },
+    {
+        "uttryck": "Gripa tillfället i flykten ",
+        "svar": " Passa på medan tillfälle bjuds."
+    },
+    {
+        "uttryck": "Grov i munnen ",
+        "svar": " Svär mycket."
+    },
+    {
+        "uttryck": "Gråa hår, att ge någon gråa hår eller att få gråa hår ",
+        "svar": " Att bli eller göra någon mycket bekymrad."
+    },
+    {
+        "uttryck": "Gråta blod ",
+        "svar": " Bli förtvivlad."
+    },
+    {
+        "uttryck": "Grädde(n) på moset ",
+        "svar": " Något angenämnt som tillkommer, utöver det som redan nämnts."
+    },
+    {
+        "uttryck": "Gräva ned stridsyxan ",
+        "svar": " Sluta fred."
+    },
+    {
+        "uttryck": "Gräva sin egen grav ",
+        "svar": " Förstöra för sig själv genom ogenomtänkta handlingar."
+    },
+    {
+        "uttryck": "Gräva upp stridsyxan ",
+        "svar": " Inleda krig eller strid."
+    },
+    {
+        "uttryck": "Gå av stapeln ",
+        "svar": " Äga rum."
+    },
+    {
+        "uttryck": "Gå bakom knuten ",
+        "svar": " Att gå och urinera."
+    },
+    {
+        "uttryck": "Gå bakom ryggen på någon ",
+        "svar": " Göra något utan att någon (viss) får reda på det."
+    },
+    {
+        "uttryck": "Gå bet på något ",
+        "svar": " Misslyckas med något."
+    },
+    {
+        "uttryck": "Gå bort ",
+        "svar": " Avlida."
+    },
+    {
+        "uttryck": "Gå dit näsan pekar ",
+        "svar": " Gå rakt fram."
+    },
+    {
+        "uttryck": "Gå/skära genom märg och ben. ",
+        "svar": " När något är mycket störande."
+    },
+    {
+        "uttryck": "Gå i bräschen för något ",
+        "svar": " Verka för något, vara föregångare."
+    },
+    {
+        "uttryck": "Gå i gamla hjulspår, fastna i gamla hjulspår ",
+        "svar": " När förändring uteblir."
+    },
+    {
+        "uttryck": "Gå i graven ",
+        "svar": " Upphöra att finnas."
+    },
+    {
+        "uttryck": "Gå i spinn ",
+        "svar": " Uttryck för välbefinnande."
+    },
+    {
+        "uttryck": "Gå i stöpet ",
+        "svar": " Misslyckas."
+    },
+    {
+        "uttryck": "Gå i taket ",
+        "svar": " Bli mycket upprörd."
+    },
+    {
+        "uttryck": "Gå in i väggen ",
+        "svar": " Bli psykiskt eller fysiskt utbränd."
+    },
+    {
+        "uttryck": "Gå man ur huse ",
+        "svar": " Då många ställer upp för en sak."
+    },
+    {
+        "uttryck": "Gå med håven ",
+        "svar": " Att försöka få bidrag till något eller att försöka locka fram vänliga omdömen om sig själv på ett för tydligt sätt."
+    },
+    {
+        "uttryck": "Gå någon på nerverna ",
+        "svar": " Irritera någon kraftigt."
+    },
+    {
+        "uttryck": "Gå på en mina ",
+        "svar": " Råka illa ut."
+    },
+    {
+        "uttryck": "Gå på i ullstrumporna ",
+        "svar": " Fortsätta en verksamhet utan att låta sig hejdas eller påverkas."
+    },
+    {
+        "uttryck": "Gå på knäna ",
+        "svar": " Att vara nästan helt utmattad."
+    },
+    {
+        "uttryck": "Gå på pumpen ",
+        "svar": " Bli lurad, misslyckas."
+    },
+    {
+        "uttryck": "Gå till botten med något ",
+        "svar": " Undersöka något grundligt."
+    },
+    {
+        "uttryck": "Gå till storms mot något ",
+        "svar": " att häftigt angripa någon eller något."
+    },
+    {
+        "uttryck": "Gå troll i något ",
+        "svar": " När något blir helt omöjligt att komma tillrätta med."
+    },
+    {
+        "uttryck": "Gå under ",
+        "svar": " förintas."
+    },
+    {
+        "uttryck": "Gå under jorden ",
+        "svar": " Göra sig omöjlig att efterspana."
+    },
+    {
+        "uttryck": "Gå under klubban ",
+        "svar": " Säljas på auktion."
+    },
+    {
+        "uttryck": "Gå upp ett ljus för någon ",
+        "svar": " Någon förstår plötsligt, kommer plötsligt till insikt."
+    },
+    {
+        "uttryck": "Gå upp i limningen ",
+        "svar": " Inte kunna behärska sig."
+    },
+    {
+        "uttryck": "Gå ur tiden ",
+        "svar": " Avlida."
+    },
+    {
+        "uttryck": "Gå åt pipan ",
+        "svar": " Gå helt fel, misslyckas."
+    },
+    {
+        "uttryck": "Gå åt skogen ",
+        "svar": " Misslyckas."
+    },
+    {
+        "uttryck": "Gå över lik ",
+        "svar": " Visa stor hänsynslöshet."
+    },
+    {
+        "uttryck": "Gå över ån efter vatten ",
+        "svar": " Att göra någonting på ett krångligare sätt än det behöver vara."
+    },
+    {
+        "uttryck": "Göra en fuga ",
+        "svar": " Att sticka hemifrån. "
+    },
+    {
+        "uttryck": "Göra en höna av en fjäder ",
+        "svar": " Försöka få något obetydligt att verka viktigt."
+    },
+    {
+        "uttryck": "Göra någon/något rättvisa ",
+        "svar": " Ge berättigad uppmärksamhet och uppskattning eller vara jämbördig med."
+    },
+    {
+        "uttryck": "Göra rent hus ",
+        "svar": " Fullständigt avlägsna, laga så att ingenting blir kvar."
+    },
+    {
+        "uttryck": "Göra sig själv rättvisa ",
+        "svar": " Visa sin verkliga förmåga."
+    },
+    {
+        "uttryck": "Göra slag i saken ",
+        "svar": " Hastigt avgöra något."
+    },
+    {
+        "uttryck": "Göra stora ögon ",
+        "svar": " bli mycket förvånad."
+    },
+    {
+        "uttryck": "Göra upp räkningen ",
+        "svar": " Hämnas, till exempel en oförrätt."
+    },
+    {
+        "uttryck": "Göra våld på ",
+        "svar": " Handla i strid med /Handla i strid med sin egen övertygelse."
+    },
+    {
+        "uttryck": "Ha det väl förspänt ",
+        "svar": " Ha det väl ordnat för sig."
+    },
+    {
+        "uttryck": "Ha en bulle i ugnen ",
+        "svar": " Vara gravid."
+    },
+    {
+        "uttryck": "Ha en oplockad gås med någon ",
+        "svar": " Ha något otalt med någon, ett ouppklarat i förhållande med någon."
+    },
+    {
+        "uttryck": "Ha en räv bakom örat ",
+        "svar": " En person som genom olika metoder överlistar andra personer."
+    },
+    {
+        "uttryck": "Ha en skruv lös ",
+        "svar": " Vara lätt korkad, vansinnig eller dum."
+    },
+    {
+        "uttryck": "Ha ett finger med i leken ",
+        "svar": " Vara delaktig på något sätt i ett större sammanhang."
+    },
+    {
+        "uttryck": "Ha god hand med ",
+        "svar": " Vara duktig på att sköta om, hantera, till exempel barn, djur eller maskiner."
+    },
+    {
+        "uttryck": "Ha gröna fingrar ",
+        "svar": " Ha god hand med växter, vara kunnig om växter."
+    },
+    {
+        "uttryck": "Ha huvudet på skaft ",
+        "svar": " Vara klipsk.."
+    },
+    {
+        "uttryck": "Ha ögonen på skaft ",
+        "svar": " Vara uppmärksam"
+    },
+    {
+        "uttryck": "Ha/stoppa huvudet under armen ",
+        "svar": " Inte tänka sig för."
+    },
+    {
+        "uttryck": "Ha höga tankar om någon ",
+        "svar": " Värdera någon högt."
+    },
+    {
+        "uttryck": "Ha häcken full ",
+        "svar": " Ha mycket att göra."
+    },
+    {
+        "uttryck": "Inte ha alla hästar i stallet eller Ha alla hästar hemma ",
+        "svar": " Om en person som upplevs ointelligent, uppträder förvirrat, eller som säger eller gör ej väl genomtänkta saker. Att lida av bristande förstånd i jämförelse med andra personer inom en grupp."
+    },
+    {
+        "uttryck": "Ha fått sina törnar ",
+        "svar": " Om någon med alla slags erfarenheter."
+    },
+    {
+        "uttryck": "Ha is i magen ",
+        "svar": " Inte få panik i en besvärlig situation där normalt andra blir nervösa."
+    },
+    {
+        "uttryck": "Ha kläm på något ",
+        "svar": " Ha (relativt) goda kunskaper om något."
+    },
+    {
+        "uttryck": "Ha lite på fötterna ",
+        "svar": " Att ha lite grundkunskaper om ett ämne innan man yttrar sig. Ha belägg för ett påstående."
+    },
+    {
+        "uttryck": "Ha långa fingrar ",
+        "svar": " Vara tjuvaktig."
+    },
+    {
+        "uttryck": "Ha långa öron ",
+        "svar": " Någon som gärna skvallrar."
+    },
+    {
+        "uttryck": "Ha millimetrarna på sin sida ",
+        "svar": " Att (över)vinna något med knapp marginal."
+    },
+    {
+        "uttryck": "Ha mycket innanför pannbenet ",
+        "svar": " Att besitta stor intellektuell begåvning."
+    },
+    {
+        "uttryck": "Ha många bollar i luften ",
+        "svar": " Förmågan att själv lösa många, ofta mindre, uppgifter samtidigt utan att helt släppa något av pågående arbeten."
+    },
+    {
+        "uttryck": "Ha många järn i elden ",
+        "svar": " Att ha många aktiviteter i gång samtidigt."
+    },
+    {
+        "uttryck": "Ha många strängar på sin lyra ",
+        "svar": " Att vara mångsidig."
+    },
+    {
+        "uttryck": "Ha nio liv ",
+        "svar": "  Att någon har osedvanlig tur och klarar sig genom många svåra olyckor i följd."
+    },
+    {
+        "uttryck": "Ha något i kikaren ",
+        "svar": " Ha en plan eller avsikt, som inte är direkt bekant för andra"
+    },
+    {
+        "uttryck": "Ha något i ryggmärgen ",
+        "svar": " För att något är ytterst väl inövat eller inlärt."
+    },
+    {
+        "uttryck": "Ha något i släptåg ",
+        "svar": " Ha något till en början dolt som framkommer."
+    },
+    {
+        "uttryck": "Ha något i bagaget ",
+        "svar": " Även på formen 'Ha något med sig i bagaget'"
+    },
+    {
+        "uttryck": "Ha något på tungan ",
+        "svar": " Att vilja säga något, men att just för stunden inte komma på det rätta ordet i sammanhanget."
+    },
+    {
+        "uttryck": "Ha något/någon som i en liten ask ",
+        "svar": " Ha full kontroll över något eller någon, ofta person."
+    },
+    {
+        "uttryck": "Ha några år på nacken ",
+        "svar": " Ett uttryck för någons, eller någots, (höga) ålder."
+    },
+    {
+        "uttryck": "Ha näsan i vädret ",
+        "svar": " Att vara högfärdig."
+    },
+    {
+        "uttryck": "Ha pippi på något ",
+        "svar": " Envisas med att hålla på med något oväsentligt eller irritera andra."
+    },
+    {
+        "uttryck": "Ha på fötterna ",
+        "svar": " Vara säker på sin sak i en kontroversiell fråga."
+    },
+    {
+        "uttryck": "Ha rent mjöl i påsen ",
+        "svar": " Att vara ärlig och att inte ha något att dölja."
+    },
+    {
+        "uttryck": "Ha råg i ryggen ",
+        "svar": " Att våga stå för sina handlingar och åsikter även om det riskerar orsaka svårigheter för vederbörande."
+    },
+    {
+        "uttryck": "Ha satt sin sista potatis ",
+        "svar": " Att ha förött sin sista chans."
+    },
+    {
+        "uttryck": "Ha sett sina bästa dagar ",
+        "svar": " Något gammalt."
+    },
+    {
+        "uttryck": "Ha sitt på det torra ",
+        "svar": " Ha en säker ekonomisk ställning."
+    },
+    {
+        "uttryck": "Ha skinn på näsan ",
+        "svar": " Att ha bestämda åsikter och inte vara rädd för mothugg."
+    },
+    {
+        "uttryck": "Ha spenderbyxorna på sig ",
+        "svar": " Att vara generös och göra av med (osedvanligt) mycket pengar."
+    },
+    {
+        "uttryck": "Ha sålt smöret och tappat pengarna ",
+        "svar": " Att se väldigt olycklig ut, till synes helt utan anledning."
+    },
+    {
+        "uttryck": "Ha siktet inställt på något ",
+        "svar": " Att ha något som mål."
+    },
+    {
+        "uttryck": "Ha tomtar på loftet ",
+        "svar": " Att vara avvikande eller tokig."
+    },
+    {
+        "uttryck": "Ha torrt på fötterna ",
+        "svar": " ha starka bevis för någonting, eller att med säkerhet klara av något."
+    },
+    {
+        "uttryck": "Ha (alla, många) trumf på hand ",
+        "svar": " Att ha fördel eller övertag."
+    },
+    {
+        "uttryck": "Ha tumme med någon ",
+        "svar": " Att åtnjuta någons förtroende."
+    },
+    {
+        "uttryck": "Ha tummen i ögat på någon ",
+        "svar": " Noggrant övervaka någon."
+    },
+    {
+        "uttryck": "Ha tummen mitt i handen ",
+        "svar": " Att vara opraktiskt lagd; inte klara av en viss  arbetsuppgift."
+    },
+    {
+        "uttryck": "Ha vaknat på fel sida ",
+        "svar": " Vara på dåligt humör."
+    },
+    {
+        "uttryck": "Ha vassa armbågar ",
+        "svar": " Avancera i en hierarki på ett osjyst, hänsynslöst sätt."
+    },
+    {
+        "uttryck": "Ha vind i seglen ",
+        "svar": " Att för tillfället vara i en period av framgångar."
+    },
+    {
+        "uttryck": "Ha änglavakt ",
+        "svar": " Att ha en otrolig tur i en situation som kunnat gå riktigt illa beroende på oförsiktighet."
+    },
+    {
+        "uttryck": "Ha ögon i nacken ",
+        "svar": " Bevaka allt som händer, ofta som ett negativt omdöme."
+    },
+    {
+        "uttryck": "Ha ögonen med sig ",
+        "svar": " Att noggrannt observera."
+    },
+    {
+        "uttryck": "Ha överlevt sig själv ",
+        "svar": " Något som varit bra, men inte längre är det."
+    },
+    {
+        "uttryck": "Hack i häl ",
+        "svar": " Tätt efter, vid förföljande eller liknande."
+    },
+    {
+        "uttryck": "Haj på (något) ",
+        "svar": " Har en stor talang för något."
+    },
+    {
+        "uttryck": "Halka in på ett bananskal ",
+        "svar": " Att hamna i något sammanhang av en ren slump."
+    },
+    {
+        "uttryck": "Hals över huvud ",
+        "svar": " Brådstörtat, akut, oövertänkt. Motsvarar huvudstupa."
+    },
+    {
+        "uttryck": "Hamna i blåsväder ",
+        "svar": " Att hamna i en utsatt situation."
+    },
+    {
+        "uttryck": "Hamna i knipa ",
+        "svar": " Försättas i en svår situation."
+    },
+    {
+        "uttryck": "Hamna i skymundan ",
+        "svar": " Att någon eller något glöms bort/blir mindre viktigt till fördel för något annat."
+    },
+    {
+        "uttryck": "Hamna på överblivna kartan ",
+        "svar": " Att inte bli gift."
+    },
+    {
+        "uttryck": "Han eller hon skulle inte göra en fluga förnär ",
+        "svar": " Omdöme om en mycket snäll och hänsynsfull människa."
+    },
+    {
+        "uttryck": "Han eller hon spottar inte i glaset ",
+        "svar": " Han eller hon dricker mycket alkohol."
+    },
+    {
+        "uttryck": "Handen på hjärtat ... ",
+        "svar": " Helt ärligt."
+    },
+    {
+        "uttryck": "Handla/agera på eget bevåg ",
+        "svar": " På eget initiativ, på eget ansvar."
+    },
+    {
+        "uttryck": "Handsken är kastad ",
+        "svar": " En utmaning är proklamerad."
+    },
+    {
+        "uttryck": "Har man sagt A får man säga B ",
+        "svar": " Om man börjat berätta något som har en tydlig fortsättning i en avgörande fråga, bör man också slutföra sitt resonemang."
+    },
+    {
+        "uttryck": "Har man tagit Fan i båten får man ro honom i land ",
+        "svar": " Om man antagit sig en allt för stor uppgift får man också slutföra denna."
+    },
+    {
+        "uttryck": "Har varit i säck innan det kom i påse ",
+        "svar": " Något som tidigare sagts eller tänkts av någon annan."
+    },
+    {
+        "uttryck": "Hatten av för ",
+        "svar": " Uttrycka sin aktning för något."
+    },
+    {
+        "uttryck": "Hatt på hatt ",
+        "svar": " För mycket av det goda, en onödig upprepning."
+    },
+    {
+        "uttryck": "Hela baletten ",
+        "svar": " Omfatta allt som något kan inbegripa."
+    },
+    {
+        "uttryck": "Hela konkarongen ",
+        "svar": " Allesammans."
+    },
+    {
+        "uttryck": "Hellre fria än fälla ",
+        "svar": " Den svenska rättsprincipen, för att ingen oskyldig skall dömas."
+    },
+    {
+        "uttryck": "Helt uppåt väggarna ",
+        "svar": " Något är fullständigt felaktigt eller befängt."
+    },
+    {
+        "uttryck": "Herre i sitt eget hus ",
+        "svar": " Den som bestämmer över sitt."
+    },
+    {
+        "uttryck": "Herre på täppan ",
+        "svar": " Någon som regerar."
+    },
+    {
+        "uttryck": "Het potatis ",
+        "svar": " Ett besvärligt, känsligt samtalsämne."
+    },
+    {
+        "uttryck": "Het på gröten ",
+        "svar": " Ivrig, otålig."
+    },
+    {
+        "uttryck": "Hissen går inte hela vägen upp ",
+        "svar": " Ett uttryck när någon inte förstår eller klassas som dum."
+    },
+    {
+        "uttryck": "Historien upprepar sig ",
+        "svar": " Talesätt att inte förvåna sig när något inträffar på nytt."
+    },
+    {
+        "uttryck": "Hjulet snurrar men hamstern är död ",
+        "svar": " Ett uttryck när någon inte förstår eller klassas som dum."
+    },
+    {
+        "uttryck": "Hjälpa någon på traven ",
+        "svar": " Att ge någon hjälp."
+    },
+    {
+        "uttryck": "Hjärtat i halsgropen ",
+        "svar": " Att plötsligt bli mycket rädd."
+    },
+    {
+        "uttryck": "Hjärtat på rätt ställe ",
+        "svar": " Att vara god, medmänsklig."
+    },
+    {
+        "uttryck": "Hoppa i galen tunna ",
+        "svar": " Göra ett val som ger oönskade konsekvenser."
+    },
+    {
+        "uttryck": "Hoppa upp och sätta sig på något ",
+        "svar": " Vara säker på något."
+    },
+    {
+        "uttryck": "Hoppa ur skålen ",
+        "svar": " Ta sig ur sitt begränsade sammanhang, lämna tryggheten."
+    },
+    {
+        "uttryck": "Hoppa över skaklarna ",
+        "svar": " Göra något opassande men roligt. Även vara otrogen, göra snedsprång."
+    },
+    {
+        "uttryck": "Hosta upp pengar ",
+        "svar": " Bekosta."
+    },
+    {
+        "uttryck": "Hugga i sten ",
+        "svar": " Grundligt missta sig."
+    },
+    {
+        "uttryck": "Hugget i sten ",
+        "svar": " Något som är orubbligt beslutat eller fastställt."
+    },
+    {
+        "uttryck": "Hugget som stucket ",
+        "svar": " Två olika sätt att nå samma resultat."
+    },
+    {
+        "uttryck": "Hundra på (något) ",
+        "svar": " Att vara helt säker."
+    },
+    {
+        "uttryck": "Hur man än vänder sig har man rumpan bak ",
+        "svar": " Det är svårt hur man än gör."
+    },
+    {
+        "uttryck": "Huvuden kommer att rulla ",
+        "svar": " Någon eller några personer kommer att straffas hårt för något misstag."
+    },
+    {
+        "uttryck": "Hålla alla trådar i sin hand ",
+        "svar": " Ha full kontroll."
+    },
+    {
+        "uttryck": "Hålla fanan högt ",
+        "svar": " Fortsätta hålla högsta kvalité i någon verksamhet och inte falla för frestelsen att börja småslarva."
+    },
+    {
+        "uttryck": "Hålla god min (i elakt spel) ",
+        "svar": " Undvika att utåt visa att något är fel eller att något har gått en emot."
+    },
+    {
+        "uttryck": "Hålla grytan kokande ",
+        "svar": " Hålla igång någon verksamhet, inte riskera att intresset svalnar."
+    },
+    {
+        "uttryck": "Hålla hov ",
+        "svar": " Vara centrum för omgivningens uppmärksamhet"
+    },
+    {
+        "uttryck": "Hålla hus ",
+        "svar": " Befinna sig"
+    },
+    {
+        "uttryck": "Hålla i rodret ",
+        "svar": " Ha kontroll över något som flera personer är inblandade i, vara ledaren."
+    },
+    {
+        "uttryck": "Hålla i schack ",
+        "svar": " Ha kontroll över något eller någon."
+    },
+    {
+        "uttryck": "Hålla i taktpinnen ",
+        "svar": " vara den som bestämmer tempo, sätter agendan för något eller vad som ska göras."
+    },
+    {
+        "uttryck": "Hålla låda ",
+        "svar": " Att tala kontinuerligt, lite improviserat inför publik om något som knappt är värt att lyssna på."
+    },
+    {
+        "uttryck": "Hålla någon kort ",
+        "svar": " Att behandla någon strängt."
+    },
+    {
+        "uttryck": "Hålla masken ",
+        "svar": " Att spela eller verka oberörd."
+    },
+    {
+        "uttryck": "Hålla någon på halster ",
+        "svar": " Att vänta med att säga vad någon otåligt undrar."
+    },
+    {
+        "uttryck": "Hålla någon stången ",
+        "svar": " Att hålla stånd mot någon, att klara sig."
+    },
+    {
+        "uttryck": "Hålla någon om ryggen ",
+        "svar": " Att skydda någon."
+    },
+    {
+        "uttryck": "Hålla någon under armarna ",
+        "svar": " Hjälpa någon"
+    },
+    {
+        "uttryck": "Hålla skenet uppe ",
+        "svar": " Låtsas att allt är bra, undvika att utåt visa att något är fel."
+    },
+    {
+        "uttryck": "Hålla sig i skinnet ",
+        "svar": " Lugna ner sig, inte förivra sig."
+    },
+    {
+        "uttryck": "Hålla sig på mattan ",
+        "svar": " Behärska sig."
+    },
+    {
+        "uttryck": "Hålla sig på sin kant ",
+        "svar": " Vara reserverad och avvaktande."
+    },
+    {
+        "uttryck": "Hålla ställningarna ",
+        "svar": " Att bibehålla ståndpunkt."
+    },
+    {
+        "uttryck": "Hålla tand för tunga ",
+        "svar": " Att inte avslöja en hemlighet."
+    },
+    {
+        "uttryck": "Hålla tummarna för någon/något ",
+        "svar": " Hoppas på tur för någon, att något ska inträffa."
+    },
+    {
+        "uttryck": "Hålla tungan rätt i mun ",
+        "svar": " Samtidigt kunna hålla reda på och inte blanda ihop många sakförhållanden."
+    },
+    {
+        "uttryck": "Hålla varandra om ryggen ",
+        "svar": " Ge varandra väntjänster utan att det får märkas utåt."
+    },
+    {
+        "uttryck": "Hålla ångan uppe ",
+        "svar": " Se till att fortsätta tills ett mål är uppnått / vunnet."
+    },
+    {
+        "uttryck": "Hålla ögonen på något ",
+        "svar": " Vaka eller bevaka något eller någon"
+    },
+    {
+        "uttryck": "Hålla ögonen öppna ",
+        "svar": " Vara vaksam"
+    },
+    {
+        "uttryck": "Hårda bud i Mellerud ",
+        "svar": " Jobbig situation."
+    },
+    {
+        "uttryck": "Hälla vatten på en gås ",
+        "svar": " Försöka övertyga någon som är helt blockerad för ens argument."
+    },
+    {
+        "uttryck": "Hälsa hem ",
+        "svar": " Att det kommer att gå vederbörande illa."
+    },
+    {
+        "uttryck": "Hänga ihop som ler och långhalm ",
+        "svar": " Några som alltid hänger ihop, är mycket goda vänner."
+    },
+    {
+        "uttryck": "Hänga läpp ",
+        "svar": " Att sura, vara deprimerad eller nedstämd."
+    },
+    {
+        "uttryck": "Hänga på ... ",
+        "svar": " Bero på något. En småsak kan avgöra hur något ska sluta."
+    },
+    {
+        "uttryck": "Här blir inga barn gjorda ",
+        "svar": " Att det i omedelbara omgivningen inte sker någon aktivitet som leder till något resultat."
+    },
+    {
+        "uttryck": "Här ligger en hund begraven ",
+        "svar": " Något som är misstänkt föreligger."
+    },
+    {
+        "uttryck": "Hög tid ",
+        "svar": " I senaste laget."
+    },
+    {
+        "uttryck": "Högsta hönset ",
+        "svar": " Någon med högst rang. Ofta ironiskt."
+    },
+    {
+        "uttryck": "Högt i tak ",
+        "svar": " Att det är tillåtet med udda åsikter."
+    },
+    {
+        "uttryck": "Höja någon till skyarna ",
+        "svar": " Hylla någon."
+    },
+    {
+        "uttryck": "Höja på ögonbrynen ",
+        "svar": " Att bli förvånad."
+    },
+    {
+        "uttryck": "Höjt över allt tvivel ",
+        "svar": " Något väldigt trovärdigt."
+    },
+    {
+        "uttryck": "Höljt i dunkel ",
+        "svar": " Okänt, oklart."
+    },
+    {
+        "uttryck": "Höra från hästens mun ",
+        "svar": " Gå direkt till källan, höra sanningen."
+    },
+    {
+        "uttryck": "Höra gräset gro ",
+        "svar": " Ha extremt bra hörsel, alternativt mycket gott tålamod."
+    },
+    {
+        "uttryck": "I bara mässingen ",
+        "svar": " Alldeles naken."
+    },
+    {
+        "uttryck": "I blåsten ",
+        "svar": " I knipa, i trångmål, i fara."
+    },
+    {
+        "uttryck": "I brådrasket ",
+        "svar": " Snart, genast."
+    },
+    {
+        "uttryck": "I de lugnaste vatten ",
+        "svar": " När man upptäckt något otillbörligt i ett annars otadligt sammanhang."
+    },
+    {
+        "uttryck": "I det blå ",
+        "svar": " Verklighetsfrämmande, aningslöst."
+    },
+    {
+        "uttryck": "I det närmaste ",
+        "svar": " Nästan."
+    },
+    {
+        "uttryck": "I en annan värld ",
+        "svar": " Frånvarande, tänker på något helt annat än vad som talas om."
+    },
+    {
+        "uttryck": "I ett nötskal ",
+        "svar": " Konkretisera något komplext med enstaka ord."
+    },
+    {
+        "uttryck": "I faggorna ",
+        "svar": " Nära förestående, komma snart."
+    },
+    {
+        "uttryck": "I godan ro ",
+        "svar": " Utan brådska."
+    },
+    {
+        "uttryck": "I grevens tid ",
+        "svar": " I absolut sista stund innan det är för sent."
+    },
+    {
+        "uttryck": "I hatten ",
+        "svar": " Berusad."
+    },
+    {
+        "uttryck": "I hetluften ",
+        "svar": " Delaktig i livliga (ofta offentliga) diskussioner, där argumenten haglar."
+    },
+    {
+        "uttryck": "I krokarna ",
+        "svar": " Befinna sig i geografisk närhet, ofta dock när den exakta positionen är okänd."
+    },
+    {
+        "uttryck": "I kölvattnet ",
+        "svar": " Företeelser av mindre vikt som sker som ett resultat av en dem föregående och viktigare händelse."
+    },
+    {
+        "uttryck": "I laga ordning ",
+        "svar": " Enligt reglementet."
+    },
+    {
+        "uttryck": "I mångt och mycket ",
+        "svar": " Är i huvudsak, är till stor del men inte helt och hållet, till lejonparten."
+    },
+    {
+        "uttryck": "I någons kläder ",
+        "svar": " Att befinna sig i någons situation."
+    },
+    {
+        "uttryck": "I rasande fart ",
+        "svar": " Väldigt fort."
+    },
+    {
+        "uttryck": "I ropet ",
+        "svar": " Efterfrågad, populär, ofta av övergående karaktär."
+    },
+    {
+        "uttryck": "I rätta händer ",
+        "svar": " När något tas om hand av någon med rätt kompetens."
+    },
+    {
+        "uttryck": "I rödaste rappet ",
+        "svar": " Utan dröjsmål."
+    },
+    {
+        "uttryck": "I sakta mak ",
+        "svar": " Långsamt."
+    },
+    {
+        "uttryck": "I senaste laget ",
+        "svar": " Strax innan något är för sent."
+    },
+    {
+        "uttryck": "I sin glans dagar ",
+        "svar": " Under höjdpunkten i livet."
+    },
+    {
+        "uttryck": "I sin krafts dagar ",
+        "svar": " Oftast när man var ung och driven."
+    },
+    {
+        "uttryck": "I sin linda ",
+        "svar": " nyss påbörjat, nyfött."
+    },
+    {
+        "uttryck": "I sina bästa år ",
+        "svar": " När man är vid höjdpunkten i livet."
+    },
+    {
+        "uttryck": "I sinom tid ",
+        "svar": " Så småningom, när den rätta tiden är inne. Svagt löfte."
+    },
+    {
+        "uttryck": "I sista minuten/i sista ögonblicket ",
+        "svar": " Med knapp marginal."
+    },
+    {
+        "uttryck": "I sitt anletes svett ",
+        "svar": " Jobba på med stor ansträngning så att svetten lackar, oftast kroppsligt arbete men bildligt även annat arbete."
+    },
+    {
+        "uttryck": "I sitt esse ",
+        "svar": " I högform."
+    },
+    {
+        "uttryck": "I sitt rätta element ",
+        "svar": " Att trivas och känna sig hemmastadd."
+    },
+    {
+        "uttryck": "I sjunde himlen ",
+        "svar": " Ett tillstånd av högsta lycka."
+    },
+    {
+        "uttryck": "I stort sett ",
+        "svar": " I det närmaste."
+    },
+    {
+        "uttryck": "I stridens hetta ",
+        "svar": " Mitt i en situation handlar en person instinktivt utan att tänka efter. Ofta med mindre lyckat resultat som följd."
+    },
+    {
+        "uttryck": "I säkert förvar ",
+        "svar": " I fängelse."
+    },
+    {
+        "uttryck": "I tid och otid ",
+        "svar": " Jämt och ständigt, utan att reflektera över om det är nödvändigt."
+    },
+    {
+        "uttryck": "I ur och skur ",
+        "svar": " Oavsett förhinder."
+    },
+    {
+        "uttryck": "Icke sa Nicke ",
+        "svar": " Nej."
+    },
+    {
+        "uttryck": "Id och strid ",
+        "svar": " Oförtrutet."
+    },
+    {
+        "uttryck": "Illa kvickt ",
+        "svar": " Omedelbart."
+    },
+    {
+        "uttryck": "In genom ena örat och ut genom andra ",
+        "svar": " En uppmaning eller ett besked som någon inte förstått eller nonchalerat."
+    },
+    {
+        "uttryck": "Ingen dans på rosor ",
+        "svar": " Ingen lätt uppgift, inte ha det lätt."
+    },
+    {
+        "uttryck": "Ingen fara på taket ",
+        "svar": " Lugnande svar när någon oroar sig mycket över något nära förestående."
+    },
+    {
+        "uttryck": "Inte gå av för hackor ",
+        "svar": " Ovanligt bra, av bra beskaffenhet."
+    },
+    {
+        "uttryck": "Ingen ko på isen ",
+        "svar": " Ingen fara."
+    },
+    {
+        "uttryck": "Inget man snyter ur näsan ",
+        "svar": " Påpekande om något som är väldigt svårt att åstadkomma."
+    },
+    {
+        "uttryck": "Inget övrigt att önska ",
+        "svar": " Komplett."
+    },
+    {
+        "uttryck": "Inom lagens råmärken ",
+        "svar": " Lagligt."
+    },
+    {
+        "uttryck": "Inte en levande själ ",
+        "svar": " Ingen alls."
+    },
+    {
+        "uttryck": "Inte ett jota ",
+        "svar": " Absolut ingenting."
+    },
+    {
+        "uttryck": "Inte ett öga torrt ",
+        "svar": " När något varit rörande, ibland ironiskt."
+    },
+    {
+        "uttryck": "Inte ligga sömnlös ",
+        "svar": " att inte oroas det minsta över något som har hänt eller hypotetiskt kan komma att hände."
+    },
+    {
+        "uttryck": "Inte mycket att hänga i julgranen ",
+        "svar": " Något uppfyller (inte) med nöd och näppe kraven. Sarkastiskt uttryck."
+    },
+    {
+        "uttryck": "Inte vara född i farstun ",
+        "svar": " Att inte vara bortkommen eller dum."
+    },
+    {
+        "uttryck": "Intet (är) nytt under solen ",
+        "svar": " Talesätt att inte förvåna sig när något inträffar en andra (tredje, osv.) gång."
+    },
+    {
+        "uttryck": "Intresseklubben antecknar ",
+        "svar": " Ironisk anmärkning, då någon uttrycker sig onödigt detaljerat kring ett visst ämne som mottagaren inte är intresserad av."
+    },
+    {
+        "uttryck": "I rödaste rappet ",
+        "svar": " Uppmaning att göra något omgående utan dröjsmål."
+    },
+    {
+        "uttryck": "I sus och dus ",
+        "svar": " Under ständigt festande."
+    },
+    {
+        "uttryck": "Jag mötte Lassie ",
+        "svar": " att ha en avlägsen relation till en känd person."
+    },
+    {
+        "uttryck": "Jaga någon med blåslampa ",
+        "svar": " Sätta press på någon."
+    },
+    {
+        "uttryck": "Joxa med trasan ",
+        "svar": " Spela fotboll."
+    },
+    {
+        "uttryck": "Jämföra äpplen och päron ",
+        "svar": " Att jämföra storheter som inte kan jämföras."
+    },
+    {
+        "uttryck": "Kacka i eget bo ",
+        "svar": " Att tala illa om sina egna eller sitt eget."
+    },
+    {
+        "uttryck": "Kaka på kaka, även tårta på tårta ",
+        "svar": " För mycket av det goda, en onödig upprepning, att göra/säga något som leder till en tautologi."
+    },
+    {
+        "uttryck": "Kalv på grönbete ",
+        "svar": " Någon utsläppt i ett sammanhang där han/hon okontrollerat kan ta för sig av det goda."
+    },
+    {
+        "uttryck": "Kamma noll ",
+        "svar": " Att inte få något."
+    },
+    {
+        "uttryck": "Kamma hem något ",
+        "svar": " Vinna något."
+    },
+    {
+        "uttryck": "Kapitalt misslyckande/Att misslyckas kapitalt ",
+        "svar": " Massivt misslyckande."
+    },
+    {
+        "uttryck": "Karl för sin hatt ",
+        "svar": " Kapabel."
+    },
+    {
+        "uttryck": "Kasta ett getöga på någon/något ",
+        "svar": " Försöka hålla uppsikt över någon/något, men inte vakta kontinuerligt."
+    },
+    {
+        "uttryck": "Kasta ett öga på någon/något ",
+        "svar": " Hålla viss uppsikt över någon/något utan noggrannare kontroll."
+    },
+    {
+        "uttryck": "Kasta goda pengar efter dåliga ",
+        "svar": " Att genom upprepade försök med i och för sig ärliga ansträngningar försöka rädda en hopplös situation."
+    },
+    {
+        "uttryck": "Kasta in handduken ",
+        "svar": " Att ge upp."
+    },
+    {
+        "uttryck": "Kasta (nytt) ljus över något ",
+        "svar": " Tillföra ny information som ökar möjligheterna att lösa ett problem."
+    },
+    {
+        "uttryck": "Kasta loss ",
+        "svar": " Ursprungligen från att lossa tilläggstamparna för en båt från kaj och kasta över dem till båten."
+    },
+    {
+        "uttryck": "Kasta paj, även Pajkastning ",
+        "svar": " När två eller flera personer i en argumentation övergår till att angripa varandras person i stället för åsikter, ofta på ett för utomstående löjeväckande sätt."
+    },
+    {
+        "uttryck": "Kasta pengar i sjön ",
+        "svar": " Slösar pengar på onödiga saker."
+    },
+    {
+        "uttryck": "Kasta pärlor för svin ",
+        "svar": " Det är inte värt att ge eller satsa medel på den som inte förstår värdet av det."
+    },
+    {
+        "uttryck": "Kasta sten i glashus ",
+        "svar": " Att komma med kritik eller klander när man själv inte har rent samvete. En variant förekommer i serien Hagbard Handfaste, vars hustru efter en ordväxling poängterar för honom att 'man bör inte kasta glas i stenhus'."
+    },
+    {
+        "uttryck": "Kasta ut barnet med badvattnet ",
+        "svar": " Att förlora det som är bra när man gör sig av med det man anser vara värdelöst."
+    },
+    {
+        "uttryck": "Kasta veven ",
+        "svar": " Att dö."
+    },
+    {
+        "uttryck": "Kasta vatten ",
+        "svar": " Att urinera."
+    },
+    {
+        "uttryck": "Kasta yxan i sjön ",
+        "svar": " Ge upp."
+    },
+    {
+        "uttryck": "Katt bland hermelinerna ",
+        "svar": " En person som inte passar in i en 'finare' samling personer och sticker ut från omgivningen."
+    },
+    {
+        "uttryck": "Katt på hett plåttak ",
+        "svar": " Nervöst beteende."
+    },
+    {
+        "uttryck": "Katten på råttan, råttan på repet ... ",
+        "svar": " En serie av händelser där varje händelse utlöses av föregående händelse."
+    },
+    {
+        "uttryck": "Kattens lek med råttan ",
+        "svar": " Agera mot någon på ett elakt sätt och förlänga ett lidande."
+    },
+    {
+        "uttryck": "Kavla upp ärmarna ",
+        "svar": " Att ta i, jobba hårt."
+    },
+    {
+        "uttryck": "Kejsarens nya kläder ",
+        "svar": " Något nytt och märkvärdigt som i själva verket är en bluff, vilket dessutom går att se, men ingen vågar säga."
+    },
+    {
+        "uttryck": "Kila runt hörnet ",
+        "svar": " Att dö."
+    },
+    {
+        "uttryck": "Kila vidare ",
+        "svar": " Att dö."
+    },
+    {
+        "uttryck": "Klammeri med rättvisan ",
+        "svar": " Att ha åkt fast efter att ha begått ett brott."
+    },
+    {
+        "uttryck": "Klapp på axeln ",
+        "svar": " Svagt beröm."
+    },
+    {
+        "uttryck": "Klappat och klart ",
+        "svar": " Något är färdigt, något är utfört, någon/något är redo för nästa steg."
+    },
+    {
+        "uttryck": "Klara strupen ",
+        "svar": " Harkla sig."
+    },
+    {
+        "uttryck": "Klart och betalt ",
+        "svar": " När något är åtgärdat."
+    },
+    {
+        "uttryck": "Klart som korvspad ",
+        "svar": " Något som är mycket tydligt och som alla borde inse."
+    },
+    {
+        "uttryck": "Klen i anden ",
+        "svar": " Utan övertygelse."
+    },
+    {
+        "uttryck": "Klen tröst ",
+        "svar": " Inte mycket till tröst."
+    },
+    {
+        "uttryck": "Klockrent ",
+        "svar": " Medhåll, något som stämmer precis."
+    },
+    {
+        "uttryck": "Klok som en pudel ",
+        "svar": " Mycket klok."
+    },
+    {
+        "uttryck": "Klä sig i säck och aska ",
+        "svar": " Göra bot."
+    },
+    {
+        "uttryck": "Klä skott ",
+        "svar": " Få stå till svars för något utan att egentligen ha det direkta ansvaret."
+    },
+    {
+        "uttryck": "Knaka i fogarna ",
+        "svar": " Vara nära att brista. Till exempel att en relation tar snart slut."
+    },
+    {
+        "uttryck": "Knalla och gå ",
+        "svar": " Välbefinnandet är varken bättre eller sämre, som svar på fråga: 'Hur är det?'."
+    },
+    {
+        "uttryck": "Knappt om utrymme ",
+        "svar": " Trångt."
+    },
+    {
+        "uttryck": "Kniven mot strupen ",
+        "svar": " Att jobba under (extrem) press"
+    },
+    {
+        "uttryck": "Knyta Hymens band ",
+        "svar": " Att gifta sig."
+    },
+    {
+        "uttryck": "Knyta näven i fickan/byxfickan ",
+        "svar": " Att bli upprörd eller arg, utan att visa det."
+    },
+    {
+        "uttryck": "Knyta sig ",
+        "svar": " Att gå och lägga sig att sova."
+    },
+    {
+        "uttryck": "Knyta till/ihop säcken ",
+        "svar": " Göra klart det sista i exempelvis ett projekt eller en arbetsuppgift som består av många steg."
+    },
+    {
+        "uttryck": "Knäpp på näsan ",
+        "svar": " Skarp tillrättavisning."
+    },
+    {
+        "uttryck": "Koka soppa på en spik ",
+        "svar": " Att överdriva för- eller nackdelar genom att i en argumentation föra fram en stor mängd argument som vart och ett inte är relevanta eller håller för granskning, men som den argumenterande anser tillsammans utgör bevis för att han eller hon har rätt."
+    },
+    {
+        "uttryck": "Kokar ner till ",
+        "svar": " Själva essensen/kärnan av något."
+    },
+    {
+        "uttryck": "Kola vippen ",
+        "svar": " Avlida."
+    },
+    {
+        "uttryck": "Koloss på lerfötter ",
+        "svar": " Något stort och imponerande, men som står på svag grund och därför lätt kan falla omkull och krossas."
+    },
+    {
+        "uttryck": "Komma från hjärtat ",
+        "svar": " Att påstå någonting spontant, och/eller ärligt och uppriktigt."
+    },
+    {
+        "uttryck": "Komma i bakvattnet ",
+        "svar": " En fråga som prioriterats ner i angelägenhetsgrad."
+    },
+    {
+        "uttryck": "Komma på efterkälken ",
+        "svar": " Komma efter, inte hinna med i en utveckling, även i tävling."
+    },
+    {
+        "uttryck": "Komma på grön kvist ",
+        "svar": " Få det bra ställt ekonomiskt."
+    },
+    {
+        "uttryck": "Komma på kant med någon ",
+        "svar": " Att bli ovän med någon i mindre grad men där trätan inte kan lösas på kort sikt."
+    },
+    {
+        "uttryck": "Komma till skott med något ",
+        "svar": " Komma igång med något som länge förberetts eller talats om."
+    },
+    {
+        "uttryck": "Komma till vägs ände ",
+        "svar": " Att nå sin brytpunkt."
+    },
+    {
+        "uttryck": "Komma undan helskinnad ",
+        "svar": " Ett allvarligt problem har löst sig för en person."
+    },
+    {
+        "uttryck": "Komma undan med blotta förskräckelsen ",
+        "svar": " Komma ur en situation utan att lida skada."
+    },
+    {
+        "uttryck": "Komma under lupp ",
+        "svar": " Att granskas ingående, antingen som person eller ett arbete som gjorts."
+    },
+    {
+        "uttryck": "Komma ur askan i elden ",
+        "svar": " Hamna i en sämre situation."
+    },
+    {
+        "uttryck": "Kors i taket ",
+        "svar": " Utrop då något mycket oväntat inträffar."
+    },
+    {
+        "uttryck": "Kosta skjortan ",
+        "svar": " Att en viss vara är mycket dyr."
+    },
+    {
+        "uttryck": "Kratta manegen ",
+        "svar": " Ge någon de bästa förutsättningarna."
+    },
+    {
+        "uttryck": "Krossa någons hjärta ",
+        "svar": " Att göra någon djupt olycklig."
+    },
+    {
+        "uttryck": "Krypa till korset ",
+        "svar": " Att acceptera någons åsikt, trots att man tidigare opponerat sig mot den."
+    },
+    {
+        "uttryck": "Kryssa mellan Skylla och Karybdis ",
+        "svar": " Att balansera mellan två mycket negativa, men troliga, händelseutfall."
+    },
+    {
+        "uttryck": "Kräla i stoftet ",
+        "svar": " Att (behöva) be om ursäkt på ett förnedrande sätt."
+    },
+    {
+        "uttryck": "Krösus ",
+        "svar": " Mycket rik person."
+    },
+    {
+        "uttryck": "Kunna försätta berg ",
+        "svar": " Att kunna utföra en till synes omöjlig uppgift."
+    },
+    {
+        "uttryck": "Kusten är klar ",
+        "svar": " Det är fritt fram för någon eller något."
+    },
+    {
+        "uttryck": "Kyss Karlsson! ",
+        "svar": " Utrop då något oftast negativt och mycket oväntat inträffar."
+    },
+    {
+        "uttryck": "Kyss mig i arslet! ",
+        "svar": " Försök inte!"
+    },
+    {
+        "uttryck": "Kyssa sin faster/som att kyssa sin faster ",
+        "svar": " Menlöst, utan smak, ointressant"
+    },
+    {
+        "uttryck": "Känna hur vinden blåser ",
+        "svar": " Att inte stå för vad man tycker utan rätta sin uppfattning efter vad andra anser."
+    },
+    {
+        "uttryck": "Känna lössen på gången ",
+        "svar": " Att känna igen någons oftast tvivelaktiga avsikter på sättet hur det framställs."
+    },
+    {
+        "uttryck": "Känna någon på pulsen ",
+        "svar": " Att undersöka någons karaktär."
+    },
+    {
+        "uttryck": "Känna sina pappenheimare ",
+        "svar": " Att känna sitt folk, ofta med antydan om att de har vissa betänkliga egenskaper."
+    },
+    {
+        "uttryck": "Käringen mot strömmen ",
+        "svar": " Någon som ofta säger emot andra eller har en annan uppfattning i många frågor än sin omgivning."
+    },
+    {
+        "uttryck": "Köpa grisen i säcken ",
+        "svar": " Att ge sig in i något utan att ha alla eventuella konsekvenser klara för sig."
+    },
+    {
+        "uttryck": "Kör i vind! ",
+        "svar": " Bekräftelse på att man går med på en överenskommelse om att göra något."
+    },
+    {
+        "uttryck": "Kör så det ryker! ",
+        "svar": " Bekräftelse för någon att den är på rätt väg, och att han eller hon bör forcera arbetet så att det blir klart å det snaraste."
+    },
+    {
+        "uttryck": "Köra huvudet i väggen ",
+        "svar": " Envist fortsätta i en omöjlig situation."
+    },
+    {
+        "uttryck": "Köra någon på porten ",
+        "svar": " Att tvinga någon att lämna byggnaden."
+    },
+    {
+        "uttryck": "Körd i grus ",
+        "svar": " Att vara dum i huvudet."
+    },
+    {
+        "uttryck": "Kött på benen ",
+        "svar": " Att vara väl förberedd för något, att ha goda argument."
+    },
+    {
+        "uttryck": "Lacka ur ",
+        "svar": " bli arg på, bli irriterad på."
+    },
+    {
+        "uttryck": "Lag och ordning ",
+        "svar": " Välordnat och rättssäkert."
+    },
+    {
+        "uttryck": "Lagens (långa) arm, lagens väktare ",
+        "svar": " Polisväsendet."
+    },
+    {
+        "uttryck": "Lagvrängare ",
+        "svar": " Person som medvetet (fel)tolkar lagen till sin egen fördel, utan att direkt bryta mot den."
+    },
+    {
+        "uttryck": "Lapp på luckan ",
+        "svar": " utsålt, till teaterföreställning och liknande."
+    },
+    {
+        "uttryck": "Larva sig ",
+        "svar": " Vara löjlig."
+    },
+    {
+        "uttryck": "Le i mjugg ",
+        "svar": " Le för sig själv och/eller i hemlighet."
+    },
+    {
+        "uttryck": "Leka med elden ",
+        "svar": " Att göra något som är farligt eller kan få negativa konsekvenser."
+    },
+    {
+        "uttryck": "Leka rommen av sig ",
+        "svar": " Att skaffa sig utlopp för sin sexualdrift."
+    },
+    {
+        "uttryck": "Lengräddad ",
+        "svar": " (Att vara) lindrigt begåvad."
+    },
+    {
+        "uttryck": "Leta efter en nål i en höstack ",
+        "svar": " Söka efter något med mycket små utsikter att hitta det inom rimlig tid."
+    },
+    {
+        "uttryck": "Leta efter något med ljus och lykta ",
+        "svar": " Leta ivrigt efter något."
+    },
+    {
+        "uttryck": "Leva loppan ",
+        "svar": " Föra ett utsvävande liv eller också väsnas och bråka."
+    },
+    {
+        "uttryck": "Leva på hoppet ",
+        "svar": " Att förlita sig på att hoppet kommer att återställa ett tidigare och/eller bättre tillstånd."
+    },
+    {
+        "uttryck": "Leva som man lär ",
+        "svar": " Agera eller bete sig som man predikar att andra ska agera eller bete sig."
+    },
+    {
+        "uttryck": "Leva ur hand i mun ",
+        "svar": " Leva så man klarar sig för tillfället, men utan långsiktig planering."
+    },
+    {
+        "uttryck": "Lida mot sitt slut ",
+        "svar": " Snart vara slut."
+    },
+    {
+        "uttryck": "Ligga bakom ",
+        "svar": " Vara upphov till något."
+    },
+    {
+        "uttryck": "Ligga för fäfot ",
+        "svar": " Om någon eller något som ligger vilande, improduktivt, ej i bruk i avvaktan på att sättas igång."
+    },
+    {
+        "uttryck": "Ligga hästlängder före ",
+        "svar": " Att ligga överlägset långt före."
+    },
+    {
+        "uttryck": "Ligga i ",
+        "svar": " Vara flitig."
+    },
+    {
+        "uttryck": "Ligga illa till ",
+        "svar": " Vara i en svår situation; sitta i skottgluggen; få problem."
+    },
+    {
+        "uttryck": "Ligga i lä ",
+        "svar": " Vara underlägsen"
+    },
+    {
+        "uttryck": "Ligga i selen ",
+        "svar": " Vara flitig."
+    },
+    {
+        "uttryck": "Ligga i startgroparna ",
+        "svar": " Vara redo att börja."
+    },
+    {
+        "uttryck": "Ligga i stöpsleven ",
+        "svar": " Någon som är föremål för omprövning och diskussion."
+    },
+    {
+        "uttryck": "Ligga lågt ",
+        "svar": " Vara tills vidare försiktig."
+    },
+    {
+        "uttryck": "Ligga någon i fatet ",
+        "svar": " Ursprungligen att ha något, till exempel en arbetsuppgift framför sig. Numera att ha något som pekar emot sig, exempelvis vid tillsättning av en anställning och liknande."
+    },
+    {
+        "uttryck": "Ligga någon till last ",
+        "svar": " Vara till besvär för någon."
+    },
+    {
+        "uttryck": "Ligga på ",
+        "svar": " Försöka påskynda något."
+    },
+    {
+        "uttryck": "Ligga på sofflocket ",
+        "svar": " Inte rösta i ett val."
+    },
+    {
+        "uttryck": "Lika goda kålsupare. ",
+        "svar": " Jämförelse, den ena är inte bättre än den andra"
+    },
+    {
+        "uttryck": "Lika som bär ",
+        "svar": " Identiskt lika."
+    },
+    {
+        "uttryck": "Lite här och var ",
+        "svar": " På diverse mer eller mindre slumpartade ställen."
+    },
+    {
+        "uttryck": "Liv i luckan ",
+        "svar": " Oväntad festlig eller bråkig stämning."
+    },
+    {
+        "uttryck": "Livet på en pinne ",
+        "svar": " Lyckligt liv."
+    },
+    {
+        "uttryck": "Ljuga sig blå ",
+        "svar": " Att ljuga mycket i syfte att ta sig ur en svår situation."
+    },
+    {
+        "uttryck": "Ljuga som hästar travar ",
+        "svar": " Att ljuga mycket och med detaljer som mestadels är osanna."
+    },
+    {
+        "uttryck": "Ljuger så han/hon tror sig själv ",
+        "svar": " Ljuger mycket om något."
+    },
+    {
+        "uttryck": "Ljus(et) i slutet av tunneln ",
+        "svar": " En svår tid är på väg att ta slut."
+    },
+    {
+        "uttryck": "Lova guld och gröna skogar ",
+        "svar": " Lova mer än man kan hålla."
+    },
+    {
+        "uttryck": "Lova runt och hålla tunt ",
+        "svar": " Storvulna löften som i slutänden visar sig inte är mycket värda."
+    },
+    {
+        "uttryck": "Lova vitt och brett ",
+        "svar": " Lova mer än man kan hålla."
+    },
+    {
+        "uttryck": "Lugn i stormen ",
+        "svar": " Uppmaning till någon att hålla sig lugn i ett intensivt läge."
+    },
+    {
+        "uttryck": "Lugna puckar ",
+        "svar": " Något är under kontroll, utan risk."
+    },
+    {
+        "uttryck": "Luktar/smakar pyton ",
+        "svar": " Luktar/smakar illa."
+    },
+    {
+        "uttryck": "Lusläsa ",
+        "svar": " Läsa extremt petigt."
+    },
+    {
+        "uttryck": "Luspank ",
+        "svar": " Utfattig."
+    },
+    {
+        "uttryck": "Luspudel ",
+        "svar": " Lymmel, skurk."
+    },
+    {
+        "uttryck": "Lyckans ost ",
+        "svar": " En person som har tur i något."
+    },
+    {
+        "uttryck": "Lyfta på förlåten ",
+        "svar": " Avslöja något till viss del."
+    },
+    {
+        "uttryck": "Lyfta på hatten för ",
+        "svar": " Att berömma någon för något oväntat mycket bra han/hon gjort."
+    },
+    {
+        "uttryck": "Lyfta sig själv i håret ",
+        "svar": " Anstränga sig själv över sin förmåga."
+    },
+    {
+        "uttryck": "Lysa med sin frånvaro ",
+        "svar": " Att uppmärksammas genom att inte delta."
+    },
+    {
+        "uttryck": "Lyset är på men det är ingen hemma ",
+        "svar": " Slangartat uttryck för att beskriva någon med stirrande ögon inte verkar vara vid full mental hälsa eller närvarande, utan exempelvis istället är starkt drogpåverkad."
+    },
+    {
+        "uttryck": "Långt från ära och redlighet ",
+        "svar": " Långt från civilisation och kultur."
+    },
+    {
+        "uttryck": "Låta barn vara barn ",
+        "svar": " truistisk uppmaning att behandla barn som de barn de är."
+    },
+    {
+        "uttryck": "Låta bilan falla ",
+        "svar": " Slutligen fälla någon."
+    },
+    {
+        "uttryck": "Låta maten tysta mun ",
+        "svar": " Vara tyst medan man äter"
+    },
+    {
+        "uttryck": "Låta målvakten stå i mål ",
+        "svar": " Att låta någonting skötas av den som kan det bäst."
+    },
+    {
+        "uttryck": "Låta nåd gå före rätt ",
+        "svar": " Med överseende."
+    },
+    {
+        "uttryck": "Låta rättvisan ha sin gång ",
+        "svar": " Överlåta till rättsväsendet att avgöra en fråga."
+    },
+    {
+        "uttryck": "Låta udda vara jämnt ",
+        "svar": " Att se genom fingrarna."
+    },
+    {
+        "uttryck": "Låtsas som det regnar ",
+        "svar": " Låtsas som om något inte sker fast det är uppenbart att det gör det."
+    },
+    {
+        "uttryck": "Lägg ägg! ",
+        "svar": " Lägg ner det du håller på med, du är hopplöst fel ute."
+    },
+    {
+        "uttryck": "Lägga alla ägg i samma korg ",
+        "svar": " Riskera att förlora allt genom att inte sprida riskerna."
+    },
+    {
+        "uttryck": "Lägga benen på ryggen ",
+        "svar": " Att fly undan en fara så fort man bara kan."
+    },
+    {
+        "uttryck": "Lägga hämsko på något ",
+        "svar": " Bromsa, hindra något."
+    },
+    {
+        "uttryck": "Lägga fingrarna emellan ",
+        "svar": " Visa överseende."
+    },
+    {
+        "uttryck": "Lägga i malpåse ",
+        "svar": " Förvara för senare användning."
+    },
+    {
+        "uttryck": "Lägga korten på bordet ",
+        "svar": " Att berätta (hela) sanningen; att vara ärlig."
+    },
+    {
+        "uttryck": "Lägga kraft bakom orden ",
+        "svar": " Tala övertygande, med auktoritet."
+    },
+    {
+        "uttryck": "Lägga lök på laxen ",
+        "svar": " Att göra ont värre."
+    },
+    {
+        "uttryck": "Lägga locket på ",
+        "svar": " Se till att det hålls tyst om något."
+    },
+    {
+        "uttryck": "Lägga manken till ",
+        "svar": " Att anstränga sig hårt för att lösa en viss uppgift."
+    },
+    {
+        "uttryck": "Lägga något på hyllan ",
+        "svar": " Att tills vidare skjuta upp ett projekt eller en verksamhet."
+    },
+    {
+        "uttryck": "Lägga något på is ",
+        "svar": " Tillsvidare skjuta upp en fråga, projekt och dylikt på obestämd tid, men med möjlighet att aktualisera ärendet vid ett mer lämpligt tillfälle."
+    },
+    {
+        "uttryck": "Lägga något på minnet ",
+        "svar": " Minnas något"
+    },
+    {
+        "uttryck": "Lägga näsan i blöt ",
+        "svar": " Att lägga sig i sådant man inte har att göra med."
+    },
+    {
+        "uttryck": "Lägga orden i munnen på någon ",
+        "svar": " Grundlöst hävda att någon sagt något, eller avsiktligt feltolka ett uttalande."
+    },
+    {
+        "uttryck": "Lägga på en rem ",
+        "svar": " Springa mycket fort eller att skynda sig."
+    },
+    {
+        "uttryck": "Lägga på ett kol ",
+        "svar": " Att skynda sig, öka takten."
+    },
+    {
+        "uttryck": "Lägga rabarber på något ",
+        "svar": " Passa på att lägga beslag på något värdefullt på ett listigt, helt lagligt, men oftast omoraliskt sätt."
+    },
+    {
+        "uttryck": "Lägga sig ner och dö ",
+        "svar": " Att ge upp och sluta kämpa."
+    },
+    {
+        "uttryck": "Lägga sig under kniven ",
+        "svar": " Att genomgå en planerad kirurgisk operation."
+    },
+    {
+        "uttryck": "Lägga sig vinn om något ",
+        "svar": " Under en längre tid agera på ett sätt som kan leda till något fördelaktigt."
+    },
+    {
+        "uttryck": "Lägga sista handen vid något ",
+        "svar": " Att fullborda någonting, till exempel ett arbetsprojekt eller ett konstverk."
+    },
+    {
+        "uttryck": "Lägga skorna på hyllan ",
+        "svar": " Att sluta att utöva en sport."
+    },
+    {
+        "uttryck": "Lägga sordin på stämningen ",
+        "svar": " Att dämpa stämningen."
+    },
+    {
+        "uttryck": "Lägga sten på börda ",
+        "svar": " Att göra ett problem större eller redan stor arbetsuppgift större."
+    },
+    {
+        "uttryck": "Lägga två strån i kors ",
+        "svar": " inte anstränga sig det minsta för att bidra till att något blir åtgärdat."
+    },
+    {
+        "uttryck": "Lägga ut en snara för någon ",
+        "svar": " Att gillra en fälla för någon."
+    },
+    {
+        "uttryck": "Lägga ut texten ",
+        "svar": " Att vidlyftigt framställa, förklara, lägga till, breda på, överdriva, utsmycka, skönmåla, parafrasera, utbrodera"
+    },
+    {
+        "uttryck": "Lägga vantarna på något ",
+        "svar": " Att lägga beslag på något; att, oftast oärligt, ta något."
+    },
+    {
+        "uttryck": "Lämna någon i sticket ",
+        "svar": " Överge någon som är i fara."
+    },
+    {
+        "uttryck": "Lära någon mores ",
+        "svar": " Att lära någon veta hut, att inte uppträda oförsynt."
+    },
+    {
+        "uttryck": "Lära någon veta hut ",
+        "svar": " Att lära någon mores, att inte uppträda oförsynt."
+    },
+    {
+        "uttryck": "Läsa lagen för någon ",
+        "svar": " Läxa upp någon, läsa lusen av någon."
+    },
+    {
+        "uttryck": "Läsa lusen av någon ",
+        "svar": " Ge någon en rejäl utskällning."
+    },
+    {
+        "uttryck": "Läsa mellan raderna ",
+        "svar": " Förstå vad som egentligen avses fast den som framför budskapet av olika anledningar inte uttryckt det i klartext."
+    },
+    {
+        "uttryck": "Lögn och förbannad dikt ",
+        "svar": " Grov osanning."
+    },
+    {
+        "uttryck": "Löpa linan ut ",
+        "svar": " Göra något fullt ut, fortsätta ända till slutet."
+    },
+    {
+        "uttryck": "Mala på ",
+        "svar": " Att enformigt tala oavbrutet."
+    },
+    {
+        "uttryck": "Man mot man ",
+        "svar": " Att tala ut med någon i enrum eller att slåss mot någon på lika villkor."
+    },
+    {
+        "uttryck": "Man måste lära sig krypa innan man kan gå ",
+        "svar": " Man bör lära sig grunderna inom ett verksamhetsområde innan man tar sig an mer komplicerade uppgifter inom det."
+    },
+    {
+        "uttryck": "Man skall köpa till sillen och sälja till kräftorna ",
+        "svar": " Gammalt osäkert talesätt bland aktiehandlare att köpa aktier till midsommar och sälja till kräftsäsongen i augusti."
+    },
+    {
+        "uttryck": "Man skall leva för varandra ",
+        "svar": " Att ta vara på sina vänner och kära."
+    },
+    {
+        "uttryck": "Man skall så med handen, inte med fulla säcken ",
+        "svar": " Påpekande att inte gå till överdrift."
+    },
+    {
+        "uttryck": "Man tager vad man haver ",
+        "svar": "man får ordna något så bra som möjligt utifrån de förutsättningar som för tillfället står till buds."
+    },
+    {
+        "uttryck": "Mannaminne ",
+        "svar": " Så långt tillbaka i tiden som nu levande människor kan minnas."
+    },
+    {
+        "uttryck": "Man vet vad man har men inte vad man får ",
+        "svar": " Uttryck för att värna om det man har och inte chansa på något ovisst."
+    },
+    {
+        "uttryck": "Matjord i fickorna ",
+        "svar": " står för något bra, att man har tur, men också förmåga att kunna göra något bra av det som kommer i ens väg."
+    },
+    {
+        "uttryck": "Med buller och bång ",
+        "svar": " Ändra/införa/avisera något nytt under uppseendeväckande former."
+    },
+    {
+        "uttryck": "Med byxorna nere ",
+        "svar": " Ertappad/avslöjad i en självförvållad situation som man får skämmas för inför andra."
+    },
+    {
+        "uttryck": "Med fingrarna i kakburken/syltburken ",
+        "svar": " Bli påkommen på bar gärning."
+    },
+    {
+        "uttryck": "Med flaggan i topp ",
+        "svar": " Inte visa utåt att det garanterat 'barkar åt skogen'."
+    },
+    {
+        "uttryck": "Med flinka fingrar ",
+        "svar": " Att göra något raskt och flitigt."
+    },
+    {
+        "uttryck": "Med mössa/-n i hand ",
+        "svar": " Att vara ödmjuk, respektfull mot en överhet eller vara skuldmedveten."
+    },
+    {
+        "uttryck": "Med någons goda minne ",
+        "svar": " (Något som sker eller görs) med tyst samtycke av någon annan."
+    },
+    {
+        "uttryck": "Med/Ha näsan ovanför vattenbrynet ",
+        "svar": " Befinna sig i en ekonomisk situation där man nätt och jämnt klarar sig."
+    },
+    {
+        "uttryck": "Med nöd och näppe ",
+        "svar": " På gränsen."
+    },
+    {
+        "uttryck": "Med på ett hörn ",
+        "svar": " deltar."
+    },
+    {
+        "uttryck": "Med på noterna ",
+        "svar": " Att förstå det som uttrycks."
+    },
+    {
+        "uttryck": "Med sanningen överensstämmande ",
+        "svar": " Något garanterat sant."
+    },
+    {
+        "uttryck": "Med varm hand ",
+        "svar": " Ta emot någon hjärtligt och välkomnande."
+    },
+    {
+        "uttryck": "Med öppna armar ",
+        "svar": " Välkomnande bemötande"
+    },
+    {
+        "uttryck": "Medaljens baksida ",
+        "svar": " Nackdelarna som inte syns vid en första anblick."
+    },
+    {
+        "uttryck": "Mellan fyra ögon ",
+        "svar": " Att tala med varandra i enrum, utan att andra personer får reda vad som sagts; förtroligt."
+    },
+    {
+        "uttryck": "Mellan hägg och syren ",
+        "svar": " En kort tid på försommaren, mellan häggens och syrenens blomningar."
+    },
+    {
+        "uttryck": "Mellan skål och vägg ",
+        "svar": " Att tala med varandra i enrum utan att andra personer får reda på vad som sagts; förtroligt."
+    },
+    {
+        "uttryck": "Mellan varven ",
+        "svar": " När det är lugnare."
+    },
+    {
+        "uttryck": "Min tillkommande ",
+        "svar": " Blivande make eller maka."
+    },
+    {
+        "uttryck": "Missa tåget ",
+        "svar": " Vara för sent ute, missa chansen."
+    },
+    {
+        "uttryck": "Mittåt! ",
+        "svar": " Ett uttryck för att man rättar sig själv efter att ha kommit på att det man sagt är felaktigt."
+    },
+    {
+        "uttryck": "Moment 22 ",
+        "svar": " Ett olösligt dilemma."
+    },
+    {
+        "uttryck": "Mota Olle i grind ",
+        "svar": " Att ta itu med problem innan de växt sig alltför stora."
+    },
+    {
+        "uttryck": "Mumla i skägget ",
+        "svar": " Att tala otydligt, även att formulera sig otydligt, kanske för att man inte vågar säga i klarspråk vad man vill säga."
+    },
+    {
+        "uttryck": "Mycket ska man höra innan öronen faller av ",
+        "svar": " Konstaterande att det som sagts verkar förvånande eller tokigt."
+    },
+    {
+        "uttryck": "Mycket snack och lite verkstad ",
+        "svar": " Omdöme om någon som pratar mer än han eller hon får gjort."
+    },
+    {
+        "uttryck": "Mycket vatten har flutit under broarna sedan dess ",
+        "svar": " Det har gått väldigt lång tid, ofta som talesätt för minst ett årtionde."
+    },
+    {
+        "uttryck": "Myror i byxorna ",
+        "svar": " Nervös, kan inte sitta still, otålig och rastlös utan synbar anledning."
+    },
+    {
+        "uttryck": "Må det bära eller brista ",
+        "svar": " Ta en risk i ett avgörande skede då något måste ske, där utfallet antingen kan bli bra eller mycket dåligt."
+    },
+    {
+        "uttryck": "Måla fan på väggen ",
+        "svar": " Att i förväg utgå ifrån att en svårighet kommer att uppstå, eller att väsentligt överdriva en komplikation. Även: att överdriva konsekvenserna av en komplikation."
+    },
+    {
+        "uttryck": "Måla in sig i ett hörn ",
+        "svar": " Att genom självförvållande, tanklöshet och/eller onödigt risktagande försätta sig i en hopplös och potentiellt ödesdiger situation utan någon uppenbar väg ut."
+    },
+    {
+        "uttryck": "Många hövdingar, men få indianer ",
+        "svar": " Många har åsikter och förslag hur något ska göras, men ingen gör något."
+    },
+    {
+        "uttryck": "Möta sitt Waterloo ",
+        "svar": " Att lida ett stort nederlag som innebär stora konsekvenser."
+    },
+    {
+        "uttryck": "Mötas på halva vägen ",
+        "svar": " Kompromissa lika mycket var."
+    },
+    {
+        "uttryck": "Nagel i ögat ",
+        "svar": " Något som är till förtret för någon."
+    },
+    {
+        "uttryck": "Nagelfara något ",
+        "svar": " Granska något in i minsta detalj."
+    },
+    {
+        "uttryck": "Nu får du guldstjärna ",
+        "svar": " När något gjort något riktigt bra."
+    },
+    {
+        "uttryck": "Nu gick det upp ett ljus ",
+        "svar": " Långsamt förstå poängen eller ett samband."
+    },
+    {
+        "uttryck": "Nu går skam på torra land ",
+        "svar": " Någon har gjort något som han/hon borde skämmas för."
+    },
+    {
+        "uttryck": "Nu trillade polletten ner ",
+        "svar": " Uttryck som betecknar att någon (plötsligt) kommit till insikt om innebörden av en argumentation eller en problematik."
+    },
+    {
+        "uttryck": "Nu är det klippt ",
+        "svar": " När något misslyckas."
+    },
+    {
+        "uttryck": "Nu är det kokta fläsket stekt ",
+        "svar": " När något är riktigt illa, nu får det vara nog."
+    },
+    {
+        "uttryck": "Nu är det kört ",
+        "svar": " När något misslyckats."
+    },
+    {
+        "uttryck": "Nu är goda råd dyra ",
+        "svar": " Det är mycket brådskande att hitta en lösning på ett problem."
+    },
+    {
+        "uttryck": "Nu är jag ute på okänt vatten ",
+        "svar": " Jag medverkar i ett för mig okänt ämne eller område."
+    },
+    {
+        "uttryck": "Någonting är ruttet (i danska staten) ",
+        "svar": " ett korrumperat tillstånd."
+    },
+    {
+        "uttryck": "Något har sett/ser dagens ljus ",
+        "svar": " Något nytt/nyskapat som presenterats."
+    },
+    {
+        "uttryck": "Något i hästväg ",
+        "svar": " Något överraskande stort, omfattande eller överdrivet, spektakulärt, fantastiskt, sensationellt."
+    },
+    {
+        "uttryck": "Något som katten släpat in ",
+        "svar": " Någon har tagit hem något fult, onödigt eller värdelöst, utan att själv inse det. Ofta ett uttryck för besvikelse, man hade förväntat sig något bättre."
+    },
+    {
+        "uttryck": "När andan faller på ",
+        "svar": " När någon får lust att göra något."
+    },
+    {
+        "uttryck": "När det kommer till kritan ",
+        "svar": " När något ska avgöras; när allt kommer omkring."
+    },
+    {
+        "uttryck": "När skoputsarna frågar om aktietips är det dags att sälja ",
+        "svar": " Gammalt talesätt att när gemene man börjar intressera sig för att investera i aktier står aktiekurserna som högst."
+    },
+    {
+        "uttryck": "När Adam var länsman ",
+        "svar": " För mycket länge sedan."
+    },
+    {
+        "uttryck": "När man talar om trollen så står de i farstun ",
+        "svar": " När man pratar om någon och dem dyker upp precis när man pratar om dem."
+    },
+    {
+        "uttryck": "Nära en orm vid sin barm ",
+        "svar": " Någon som man trott vara ens vän, visar sig vara ens fiende."
+    },
+    {
+        "uttryck": "Nära och kära ",
+        "svar": " Den närmaste familjekretsen."
+    },
+    {
+        "uttryck": "Nära ögat ",
+        "svar": " Det höll på att gå riktigt illa."
+    },
+    {
+        "uttryck": "Närma sig med stormsteg ",
+        "svar": " Någon som tar sig fram fort, inte minst bildligt."
+    },
+    {
+        "uttryck": "Nästa år i Jerusalem ",
+        "svar": " Att uttrycka ett framtida hopp."
+    },
+    {
+        "uttryck": "Nöt att knäcka ",
+        "svar": " Något problematiskt som måste lösas."
+    },
+    {
+        "uttryck": "Och hör sen ",
+        "svar": " Så är det, punkt slut"
+    },
+    {
+        "uttryck": "Odla sin kål ",
+        "svar": " Att ägna sig åt sina privata intressen."
+    },
+    {
+        "uttryck": "Om inte om hade funnits ",
+        "svar": " Uttryck för att påpeka att det kan finnas omständigheter man inte tänkt på."
+    },
+    {
+        "uttryck": "Om sig och kring sig ",
+        "svar": " Urpsrungligen om någon som alltid ser efter sina ekonomiska intressen; alternativt att vara fladdrig, omständlig eller flamboyant."
+    },
+    {
+        "uttryck": "Ond cirkel ",
+        "svar": " Ogynnsam situation som riskerar att förvärra sig själv."
+    },
+    {
+        "uttryck": "Ord står mot ord ",
+        "svar": " Motsägelsefulla utsagor där båda kan ha rätt."
+    },
+    {
+        "uttryck": "Ord och inga visor ",
+        "svar": " Ofta som en kommentar av motparten eller tredje part efter en skarp tillrättavisning i en längre utläggning."
+    },
+    {
+        "uttryck": "Ordning och reda, pengar på freda' ",
+        "svar": " Ordramsa för att påpeka att ordning lönar sig."
+    },
+    {
+        "uttryck": "Ormens väg på hälleberget ",
+        "svar": " Något märkligt, oförståeligt."
+    },
+    {
+        "uttryck": "Osa katt ",
+        "svar": " Någon känner att den håller på att bli grundlurad. Något otrevligt är på gång."
+    },
+    {
+        "uttryck": "Osa svavel ",
+        "svar": " Ofta på formen 'Det osar svavel', det skälls eller svärs mycket."
+    },
+    {
+        "uttryck": "Oskrivet blad ",
+        "svar": " Person som ännu inte visat några framträdande egenskaper."
+    },
+    {
+        "uttryck": "Osvuret är bäst ",
+        "svar": " Används för att poängtera att det som utlovas helt eller delvis beror på omständigheter som står utanför löftesgivarens kontroll och att det därför inte finns några fullständiga garantier."
+    },
+    {
+        "uttryck": "Pang på rödbetan ",
+        "svar": " Rakt på sak, utan omsvep."
+    },
+    {
+        "uttryck": "Peka med hela handen ",
+        "svar": " Extra tydligt påpekande att något ska göras omgående, oberoende vad mottagaren anser."
+    },
+    {
+        "uttryck": "Pengar luktar inte ",
+        "svar": "ta emot pengar utan att bekymra sig om dess ursprung."
+    },
+    {
+        "uttryck": "Peppar, peppar, ta i trä ",
+        "svar": " Skrock-ramsa för att förhindra att något otrevligt man råkat säga ska drabba en själv."
+    },
+    {
+        "uttryck": "Pest eller kolera ",
+        "svar": " Att välja mellan två onda ting."
+    },
+    {
+        "uttryck": "Pigg som en mört ",
+        "svar": " Vara mycket alert, kvick och vaken."
+    },
+    {
+        "uttryck": "Plattan i mattan ",
+        "svar": " Med högsta fart."
+    },
+    {
+        "uttryck": "Plocka russinen ur kakan ",
+        "svar": " Ta ut godbitarna, det trevliga ur något och lämna resten."
+    },
+    {
+        "uttryck": "Polsk riksdag ",
+        "svar": " Kaotiskt, stormigt och resultatlöst sammanträde."
+    },
+    {
+        "uttryck": "Pompa och ståt ",
+        "svar": " Högtidlig inramning."
+    },
+    {
+        "uttryck": "Praktiskt taget ",
+        "svar": " Så gott som."
+    },
+    {
+        "uttryck": "Prata bredvid mun ",
+        "svar": " Avslöja hemlighet, skvallra."
+    },
+    {
+        "uttryck": "Prata goja ",
+        "svar": " Prata strunt."
+    },
+    {
+        "uttryck": "Prata i nattmössan ",
+        "svar": " Kommentar till någon som kommer med helt felaktiga påståenden, drar felaktiga slutsatser."
+    },
+    {
+        "uttryck": "Prata i vädret ",
+        "svar": " Att prata smörja, strunt, dumheter."
+    },
+    {
+        "uttryck": "Prata i munnen på varandra ",
+        "svar": " De som deltar i en konversation pratar samtidigt."
+    },
+    {
+        "uttryck": "Prata smörja ",
+        "svar": " Att komma med dumheter."
+    },
+    {
+        "uttryck": "Pricken över i:et. ",
+        "svar": " Ett sista tillägg som tydligt framhäver eller gör något extra bra/vackert."
+    },
+    {
+        "uttryck": "Pudelns kärna ",
+        "svar": " Den dolda inre innebörden av något."
+    },
+    {
+        "uttryck": "På alla fyra ",
+        "svar": " Att stå framåtlutad och stödja sig på knän och händer."
+    },
+    {
+        "uttryck": "På allas läppar ",
+        "svar": " Det som alla pratar om."
+    },
+    {
+        "uttryck": "På bar backe ",
+        "svar": " Utblottad, utan tak över huvudet, förlorat alla sina ägodelar."
+    },
+    {
+        "uttryck": "På den säkra sidan ",
+        "svar": " Helt säker eller helgarderad."
+    },
+    {
+        "uttryck": "På det hela taget ",
+        "svar": " I stort sett."
+    },
+    {
+        "uttryck": "På efterkälken ",
+        "svar": " att hamna efter i något avseende."
+    },
+    {
+        "uttryck": "På en höft ",
+        "svar": " På måfå, på ett ungefär."
+    },
+    {
+        "uttryck": "På ett bräde",
+        "svar": " Allt på samma gång."
+    },
+    {
+        "uttryck": "På fallrepet ",
+        "svar": " Någon eller något som försämras."
+    },
+    {
+        "uttryck": "På fem röda ",
+        "svar": " Blixtsnabbt."
+    },
+    {
+        "uttryck": "På fri fot ",
+        "svar": " Frisläppt från ett häkte eller fängelse."
+    },
+    {
+        "uttryck": "På G ",
+        "svar": " Något är på väg att/skall hända."
+    },
+    {
+        "uttryck": "På glid ",
+        "svar": " omdöme att det är på väg att gå eller går dåligt för någon och beskriver ett osund livsituation, såsom t ex kriminalitet eller missbruk."
+    },
+    {
+        "uttryck": "På gräsrotsnivå ",
+        "svar": " Längst ner i organisationen, hierarkin."
+    },
+    {
+        "uttryck": "På hugget ",
+        "svar": " Mycket aktiv, vara beredd på något. Även På bettet"
+    },
+    {
+        "uttryck": "På håret ",
+        "svar": " Ytterst nära att ske."
+    },
+    {
+        "uttryck": "På kanelen ",
+        "svar": " påtagligt berusad."
+    },
+    {
+        "uttryck": "På kornet ",
+        "svar": " Fullständigt lik eller träffande."
+    },
+    {
+        "uttryck": "På krigsstigen ",
+        "svar": " Förbereda anfall, vanligen bildligt."
+    },
+    {
+        "uttryck": "På löpande band ",
+        "svar": " I stor mängd och i snabb följd."
+    },
+    {
+        "uttryck": "På lösa boliner ",
+        "svar": " Göra något vårdslöst och slarvigt."
+    },
+    {
+        "uttryck": "På måfå ",
+        "svar": " Planlöst."
+    },
+    {
+        "uttryck": "På papperet ",
+        "svar": " Som uppslag, i teorin."
+    },
+    {
+        "uttryck": "På pin kiv ",
+        "svar": " Att säga eller göra något med det enda syftet att retas."
+    },
+    {
+        "uttryck": "På pricken ",
+        "svar": " Något som är helt rätt, något som uppfattats på helt rätt sätt."
+    },
+    {
+        "uttryck": "På rak arm ",
+        "svar": "personen kan gissa, men inte med säkerhet ge ett korrekt svar förrän han eller hon först kontrollerat fakta."
+    },
+    {
+        "uttryck": "På resande fot ",
+        "svar": " På resa."
+    },
+    {
+        "uttryck": "På rätt köl, på rät köl ",
+        "svar": " Återställt till ordnade förhållanden."
+    },
+    {
+        "uttryck": "På samma våglängd ",
+        "svar": " Överens i stora drag. Tänka på samma sätt."
+    },
+    {
+        "uttryck": "På sandlådenivå ",
+        "svar": " Gräl mellan vuxna om mindre väsentliga saker där ingen vill ge sig och det förekommer personangrepp och liknande."
+    },
+    {
+        "uttryck": "På sin mammas gata ",
+        "svar": " Vara hemmastadd, väl förtrogen med de förhållanden som råder."
+    },
+    {
+        "uttryck": "På sin höjd ",
+        "svar": " En ungefärlig maxgräns."
+    },
+    {
+        "uttryck": "På sin vakt ",
+        "svar": " Beredd på att något, oftast negativt, kan inträffa."
+    },
+    {
+        "uttryck": "På smällen ",
+        "svar": " gravid."
+    },
+    {
+        "uttryck": "På språng ",
+        "svar": " aktiv, i rörelse."
+    },
+    {
+        "uttryck": "På stående fot ",
+        "svar": " Genast."
+    },
+    {
+        "uttryck": "På tapeten ",
+        "svar": " aktuell."
+    },
+    {
+        "uttryck": "På tu man hand ",
+        "svar": " Då man gör någonting i par, två och två, Ofta förtroligt."
+    },
+    {
+        "uttryck": "På upphällningen ",
+        "svar": " Håller på att ta slut."
+    },
+    {
+        "uttryck": "På vid gavel ",
+        "svar": " fullt öppen, vidöppen. "
+    },
+    {
+        "uttryck": "På vift ",
+        "svar": " Driva omkring."
+    },
+    {
+        "uttryck": "På vippen ",
+        "svar": " Nära att inträffa."
+    },
+    {
+        "uttryck": "Rak i ryggen/rakryggad ",
+        "svar": " Med civilkurage."
+    },
+    {
+        "uttryck": "Rammelbuljong ",
+        "svar": " Stryk."
+    },
+    {
+        "uttryck": "Raska gossar ",
+        "svar": " Duktiga pojkar/män."
+    },
+    {
+        "uttryck": "Regnet står som spön i backen ",
+        "svar": " Det regnar väldigt mycket."
+    },
+    {
+        "uttryck": "Rena rama ... ",
+        "svar": "fullständig, helt och hållet."
+    },
+    {
+        "uttryck": "Rent ryskt ",
+        "svar": " Något uppseendeväckande stökigt."
+    },
+    {
+        "uttryck": "Resa ragg/borst ",
+        "svar": " Att börja bli arg."
+    },
+    {
+        "uttryck": "Resa sig som fågel Fenix ur askan ",
+        "svar": " Att komma igen efter svåra misslyckanden."
+    },
+    {
+        "uttryck": "Resa sig som på ett givet tecken ",
+        "svar": " När alla på en plats/i ett rum ställer sig upp samtidigt."
+    },
+    {
+        "uttryck": "Reta gallfeber på någon ",
+        "svar": " Att irritera/retas."
+    },
+    {
+        "uttryck": "Rida ut en storm ",
+        "svar": " Att klara en svår situation."
+    },
+    {
+        "uttryck": "Rim och reson ",
+        "svar": " Förnuftigt, resonabelt."
+    },
+    {
+        "uttryck": "Rimmar illa ",
+        "svar": " Något uttalande som inte låter så bra i sammanhanget, eller stämmer dåligt."
+    },
+    {
+        "uttryck": "Rinna ut i sanden ",
+        "svar": " Något som inte blir av, på grund av en alltför utdragen process där förutsättningarna ändrats på ett avgörande sätt."
+    },
+    {
+        "uttryck": "Ris och ros ",
+        "svar": " Kritik och beröm."
+    },
+    {
+        "uttryck": "Ruska tupp ",
+        "svar": " Onani av manligt kön."
+    },
+    {
+        "uttryck": "Rubb och stubb ",
+        "svar": " Allt, även det som tycks värdelöst i sammanhanget."
+    },
+    {
+        "uttryck": "Rulla hatt ",
+        "svar": " Att festa vilt, ofta på restaurang."
+    },
+    {
+        "uttryck": "Rulla på ",
+        "svar": " Saker går enligt planerna."
+    },
+    {
+        "uttryck": "Rulla tummarna ",
+        "svar": " Att göra ingenting, inte ta sig för något."
+    },
+    {
+        "uttryck": "Rund under fötterna ",
+        "svar": " Berusad."
+    },
+    {
+        "uttryck": "Rycka upp sig ",
+        "svar": " Att skärpa sig, bättra sig."
+    },
+    {
+        "uttryck": "Rymma fältet ",
+        "svar": " Att ge upp motståndet."
+    },
+    {
+        "uttryck": "Råda bot på något ",
+        "svar": " Att avhjälpa något."
+    },
+    {
+        "uttryck": "Råka i luven på varandra ",
+        "svar": " Att råka i bråk."
+    },
+    {
+        "uttryck": "Råttorna lämnar ett sjunkande skepp ",
+        "svar": " Man vet att något är på väg mot undergång när även snyltarna lämnar 'skutan'."
+    },
+    {
+        "uttryck": "Räfst och rättarting ",
+        "svar": " Uttryck för att gå till botten med ett missförhållande med möjligheten att utdöma ett straff."
+    },
+    {
+        "uttryck": "Ränderna går aldrig ur ",
+        "svar": " Något där gamla egenskaper finns kvar till viss del."
+    },
+    {
+        "uttryck": "Rätt skall vara rätt ",
+        "svar": " Rättvisa åt någon som inte tagit för sig själv."
+    },
+    {
+        "uttryck": "Rätt och riktigt ",
+        "svar": "göra något enligt reglementet."
+    },
+    {
+        "uttryck": "Rätta mun(nen) efter matsäcken ",
+        "svar": " Anpassa utgifter eller ambitioner till resurserna."
+    },
+    {
+        "uttryck": "Röd tråd ",
+        "svar": " Det genomgående, sammanhållande temat i något större sammanhang."
+    },
+    {
+        "uttryck": "Röra runt/om i grytan ",
+        "svar": " Handla på sådant sätt att man ifrågasätter rådande tillstånd."
+    },
+    {
+        "uttryck": "Röra upp himmel och jord ",
+        "svar": " Uppbjuda alla krafter, ställa till mycket väsen."
+    },
+    {
+        "uttryck": "Rösta med fötterna ",
+        "svar": " Att gå sin väg (till exempel byta leverantör av något) i stället för att bara klaga."
+    },
+    {
+        "uttryck": "Rött skynke. ",
+        "svar": " Något som väcker stark irritation. Från matadorens röda skynke som avser att reta upp tjuren i tjurfäktning."
+    },
+    {
+        "uttryck": "Rött öre ",
+        "svar": " försumbar summa."
+    },
+    {
+        "uttryck": "Sagt och gjort ",
+        "svar": " Att sluta diskutera och i stället sätta igång att arbeta med det som diskussionen berörde."
+    },
+    {
+        "uttryck": "Saken är biff ",
+        "svar": "Sägs om något som är avgjort, problemet är nu löst, eller att man enats om hur man skall lösa det."
+    },
+    {
+        "uttryck": "Sakta i backarna ",
+        "svar": " Att inte förhasta sig med något: 'Ta det lugnt'."
+    },
+    {
+        "uttryck": "Sakta men säkert ",
+        "svar": " Något går framåt och kommer att bli klart, även om det går långsamt."
+    },
+    {
+        "uttryck": "Salig röra ",
+        "svar": " Stor förvirring."
+    },
+    {
+        "uttryck": "Samla i ladorna ",
+        "svar": " Samla på sig tillgångar för eventuella framtida behov vid osäkra framtidsutsikter."
+    },
+    {
+        "uttryck": "Sanningens minut ",
+        "svar": " Det avgörande ögonblicket."
+    },
+    {
+        "uttryck": "Sans och balans ",
+        "svar": " Måttfullt."
+    },
+    {
+        "uttryck": "Satsa på fel häst ",
+        "svar": " Att förlora pengar eller annat genom att välja fel handlingsalternativ."
+    },
+    {
+        "uttryck": "Se färg torka ",
+        "svar": " Något mycket tråkigt, till exempel en arbetsuppgift eller en spelstil eller ett spelsystem inom idrott som av åskådarna anses långtråkig."
+    },
+    {
+        "uttryck": "Se ljuset i tunneln ",
+        "svar": " Skönja lösningen på ett ytterligt svårt och komplext problem som man arbetat väldigt länge på."
+    },
+    {
+        "uttryck": "Se längre än näsan räcker ",
+        "svar": "någon som inte är eftertänksam, utan istället drar alltför snabba slutsatser."
+    },
+    {
+        "uttryck": "Se med blida ögon på ",
+        "svar": "att tycka illa om något."
+    },
+    {
+        "uttryck": "Se mellan fingrarna ",
+        "svar": " Bortse från något som egentligen är felaktigt."
+    },
+    {
+        "uttryck": "Se om sitt hus ",
+        "svar": " Göra en noggrann översyn av sina egna tillgångar."
+    },
+    {
+        "uttryck": "Se spöken mitt på ljusa dagen ",
+        "svar": " Vara rädd i onödan."
+    },
+    {
+        "uttryck": "Se rött ",
+        "svar": " Bli rasande arg."
+    },
+    {
+        "uttryck": "Se sanningen i vitögat ",
+        "svar": " Inte blunda för faktum, det verkliga förhållandet."
+    },
+    {
+        "uttryck": "Se sig i månen efter något ",
+        "svar": " Inte få sina förväntningar infriade."
+    },
+    {
+        "uttryck": "Se skogen för alla träd ",
+        "svar": "Att inte se de stora sammanhangen eftersom man koncentrerar sig alltför hårt på detaljer."
+    },
+    {
+        "uttryck": "Se ut som sju svåra år ",
+        "svar": " Se lidande ut."
+    },
+    {
+        "uttryck": "Sedan dess har det flutit mycket vatten under broarna ",
+        "svar": " Det har hänt väldigt mycket sen dess."
+    },
+    {
+        "uttryck": "Sent omsider ",
+        "svar": " Efter lång väntan, slutligen."
+    },
+    {
+        "uttryck": "Sent ska syndarna vakna ",
+        "svar": " att alltför sent ta sitt förnuft till fånga / göras det rätta."
+    },
+    {
+        "uttryck": "Serverat som på silverfat ",
+        "svar": " Något mycket bra som någon erbjuds utan krav på motprestation."
+    },
+    {
+        "uttryck": "Sig själv närmast ",
+        "svar": " Se till sina egna intressen i första hand."
+    },
+    {
+        "uttryck": "Sila mygg och svälja kameler ",
+        "svar": " Hänga upp sig på oväsentligheter och strunta i de verkliga problemen."
+    },
+    {
+        "uttryck": "Simma med/mot strömmen ",
+        "svar": " Att anpassa sig/göra motstånd."
+    },
+    {
+        "uttryck": "Sin beskärda del ",
+        "svar": " Den del som tillkommer en, den del man förtjänat, på gott eller ont."
+    },
+    {
+        "uttryck": "Sin egen lyckas smed ",
+        "svar": " Ansvarar själv för sin egen framgång."
+    },
+    {
+        "uttryck": "Sin glans dagar ",
+        "svar": " Någon som befinner sig på höjdpunkten i sin karriär."
+    },
+    {
+        "uttryck": "Sist men inte minst ",
+        "svar": " Att inte förringa den/det som omnämns sist i en uppräkning."
+    },
+    {
+        "uttryck": "Sista spiken i kistan ",
+        "svar": " Den sista åtgärd eller händelse som slutligen resulterar i att något definitivt är förlorat."
+    },
+    {
+        "uttryck": "Siste man på skansen ",
+        "svar": " Den siste kvarvarande försvararen på fästningsvallen."
+    },
+    {
+        "uttryck": "Sitta hemma och uggla ",
+        "svar": " Inte ta sig för något."
+    },
+    {
+        "uttryck": "Sitta hårt åt ",
+        "svar": " Vara svårt."
+    },
+    {
+        "uttryck": "Sitta i klistret ",
+        "svar": " Att ha hamnat i stora svårigheter."
+    },
+    {
+        "uttryck": "Sitta i knät på någon ",
+        "svar": " Vara beroende av någon."
+    },
+    {
+        "uttryck": "Sitta i samma båt ",
+        "svar": " Att vara i samma (ofta svåra) situation som någon annan."
+    },
+    {
+        "uttryck": "Sitta i väggarna ",
+        "svar": " Förhållanden som är svåra att ändra på."
+    },
+    {
+        "uttryck": "Sitta inne ",
+        "svar": " Avtjäna fängelsestraff"
+    },
+    {
+        "uttryck": "Sitta och häcka ",
+        "svar": " Att inte göra något."
+    },
+    {
+        "uttryck": "Sitta och mögla ",
+        "svar": " Att inte göra något."
+    },
+    {
+        "uttryck": "Sitta/vara (uppe) i smöret ",
+        "svar": " Ha det gott ställt; att ha det bra; att ha tur."
+    },
+    {
+        "uttryck": "Sitta på pottkanten ",
+        "svar": " Att ha otur; att vara fattig; att inte ha något val."
+    },
+    {
+        "uttryck": "Sitta på sina höga hästar ",
+        "svar": " En överlägsen attityd hos någon som står över en annan person i rang eller annan hierarki, och utnyttjar detta medvetet utan att den drabbade kan protestera."
+    },
+    {
+        "uttryck": "Sitta på två stolar samtidigt, även Sitta på dubbla stolar ",
+        "svar": " Att ha flera olika roller/uppdrag med motstridiga intressen."
+    },
+    {
+        "uttryck": "Sitta still i båten ",
+        "svar": " Att ta det lugnt (då man hamnat i svårigheter)"
+    },
+    {
+        "uttryck": "Sitta säkert i sadeln ",
+        "svar": " Ha en trygg och ohotad position, exempelvis en befattning."
+    },
+    {
+        "uttryck": "Sju sorger och åtta bedrövelser ",
+        "svar": " Ett flertal problem."
+    },
+    {
+        "uttryck": "Sju svåra år ",
+        "svar": "Överfört att någon ser mycket sliten eller olycklig ut."
+    },
+    {
+        "uttryck": "Sjunga på sista versen ",
+        "svar": " Något är på väg att ta slut, något nedslitet."
+    },
+    {
+        "uttryck": "Skaka galler ",
+        "svar": " Sitta i fängelse"
+    },
+    {
+        "uttryck": "Skaka något ur ärmen ",
+        "svar": " Göra något med till synes stor lätthet."
+    },
+    {
+        "uttryck": "Skam till sägandes ",
+        "svar": " När man erkänner ett tillkortakommande, även när man beskriver någon annans tillkortakommande."
+    },
+    {
+        "uttryck": "Skapelsens krona ",
+        "svar": " Människan, mänskligheten."
+    },
+    {
+        "uttryck": "Skarp penna/vass penna ",
+        "svar": " Skicklig skribent."
+    },
+    {
+        "uttryck": "Skarpaste/vassaste kniven i lådan ",
+        "svar": " Att lida av bristande förstånd i jämförelse med andra personer inom en grupp."
+    },
+    {
+        "uttryck": "Skarpt läge ",
+        "svar": " Något går från teori till verklighet. Uttryck för att göra berörda uppmärksamma på att nu är det allvar."
+    },
+    {
+        "uttryck": "Skelett i garderoben ",
+        "svar": " Något som medvetet eller omedvetet undanhållits som kan ställa någon i dålig dager om det kommer till allmän kännedom."
+    },
+    {
+        "uttryck": "Skepp utan roder ",
+        "svar": " Något i ett större sammanhang hanteras utan ordentlig styrning av verksamheten."
+    },
+    {
+        "uttryck": "Skilja agnarna från vetet ",
+        "svar": " Rensa bort det som inte har något värde."
+    },
+    {
+        "uttryck": "Skinn på näsan ",
+        "svar": " Bestämd, med civilkurage."
+    },
+    {
+        "uttryck": "Skita i det blå skåpet ",
+        "svar": " Göra bort sig, gå för långt."
+    },
+    {
+        "uttryck": "Skitprat, Pratar skit ",
+        "svar": " Vulgärt uttryck motsvarande påpekandet att någon pratar strunt, gör ett felaktigt påstående och liknande."
+    },
+    {
+        "uttryck": "Skjuta mygg med kanoner ",
+        "svar": " Använda en onödigt komplicerad eller otymplig metod för att lösa ett problem som kan lösas på ett mycket enklare sätt."
+    },
+    {
+        "uttryck": "Skjuta sig själv i foten ",
+        "svar": " Göra ett dumt misstag som ger problem för en själv."
+    },
+    {
+        "uttryck": "Sko sig (på någon) ",
+        "svar": " Vinna fördelar (på någon annans bekostnad)."
+    },
+    {
+        "uttryck": "Skratta hela vägen till banken ",
+        "svar": " Tjäna mycket pengar på andras bekostnad och öppet glädja sig över det."
+    },
+    {
+        "uttryck": "Skrida till verket ",
+        "svar": " Sätta igång med något."
+    },
+    {
+        "uttryck": "Skrika/sjunga för full hals ",
+        "svar": " Skrika eller sjunga så mycket man orkar."
+    },
+    {
+        "uttryck": "Skrika i högan sky ",
+        "svar": " Protestera demonstrativt."
+    },
+    {
+        "uttryck": "Skriva någon på näsan ",
+        "svar": " Försöka påtvinga någon annan ens egna tankar och åsikter på ett mindre respekt- och taktfullt manér."
+    },
+    {
+        "uttryck": "Skriva under på något ",
+        "svar": " Att hålla med i en sakfråga."
+    },
+    {
+        "uttryck": "Skrivet i stjärnorna ",
+        "svar": " Ett förutbestämt öde som kan vara svårtolkat."
+    },
+    {
+        "uttryck": "Skräckblandad förtjusning ",
+        "svar": " Att både glädja sig och oroa sig för något."
+    },
+    {
+        "uttryck": "Skräda orden ",
+        "svar": " Skickligt välja sina ord."
+    },
+    {
+        "uttryck": "Skynda långsamt ",
+        "svar": " Tänka sig för utan att för den skull dra ut på något i tiden."
+    },
+    {
+        "uttryck": "Skänk från ovan ",
+        "svar": " Någonting man verkligen har behov av och som kommer oväntat."
+    },
+    {
+        "uttryck": "Skära pipor i vassen ",
+        "svar": " att utnyttja ett lägligt tillfälle."
+    },
+    {
+        "uttryck": "Skåda inte en given häst i munnen ",
+        "svar": " Inte kritiskt granska en gåva."
+    },
+    {
+        "uttryck": "Skämmas ögonen ur sig ",
+        "svar": " Skämmas mycket."
+    },
+    {
+        "uttryck": "Skörda sina frukter ",
+        "svar": " Få lida för de (ofta dåliga) konsekvenserna av sitt eget handlande."
+    },
+    {
+        "uttryck": "Skörda offer ",
+        "svar": " Att kräva människoliv."
+    },
+    {
+        "uttryck": "Slag i luften ",
+        "svar": " Verkningslöst försök."
+    },
+    {
+        "uttryck": "Slag under bältet ",
+        "svar": " Osjyst påhopp, anklagelse som är svår att värja sig mot."
+    },
+    {
+        "uttryck": "Slaven på triumfvagnen ",
+        "svar": " Den som kan säga obekväma sanningar."
+    },
+    {
+        "uttryck": "Slicka någon i arslet/röven ",
+        "svar": " Fjäska."
+    },
+    {
+        "uttryck": "Slira på sanningen ",
+        "svar": " Halvljuga."
+    },
+    {
+        "uttryck": "Slit den med hälsan! ",
+        "svar": " Kommentar av givare när något begärts att få behållas som givaren inte ser något värde i."
+    },
+    {
+        "uttryck": "Slita hund ",
+        "svar": " Att arbeta mycket hårt."
+    },
+    {
+        "uttryck": "Slita ont ",
+        "svar": " Att kämpa hårt."
+    },
+    {
+        "uttryck": "Sluta leden ",
+        "svar": " Att hålla samman."
+    },
+    {
+        "uttryck": "Slå blå dunster i ögonen på någon ",
+        "svar": " Försöka få någon att tro på osanning genom övertygande argumentation."
+    },
+    {
+        "uttryck": "Slå dank ",
+        "svar": " Att gå sysslolös."
+    },
+    {
+        "uttryck": "Slå dig/er i backen på ",
+        "svar": " Kraftuttryck för att konfirmera ett sakförhållande."
+    },
+    {
+        "uttryck": "Slå dövörat till ",
+        "svar": " Inte bry sig om något man delges. Inte lyssna."
+    },
+    {
+        "uttryck": "Slå en sjua ",
+        "svar": " Urinera."
+    },
+    {
+        "uttryck": "Slå en parabel ",
+        "svar": " Att urinera."
+    },
+    {
+        "uttryck": "Slå ett slag för något ",
+        "svar": " Förespråka något."
+    },
+    {
+        "uttryck": "Slå huvudet på spiken ",
+        "svar": " Träffa helt rätt med sina argument i en diskussion."
+    },
+    {
+        "uttryck": "Slå i taket ",
+        "svar": " Något når sitt högsta möjliga eller tillåtna värde."
+    },
+    {
+        "uttryck": "Slå in öppna dörrar ",
+        "svar": " Vara överdrivet dramatisk om problem som inte finns, eller som alla är överens om."
+    },
+    {
+        "uttryck": "Slå klackarna i taket ",
+        "svar": " Roa sig friskt, festa."
+    },
+    {
+        "uttryck": "Slå knut på sig själv ",
+        "svar": " Göra det till synes omöjliga."
+    },
+    {
+        "uttryck": "Slå lock för öronen ",
+        "svar": " Orsaka tillfällig lomhördhet."
+    },
+    {
+        "uttryck": "Slå mynt av något ",
+        "svar": " Dra fördel av något som kan ge en inkomst i reda pengar."
+    },
+    {
+        "uttryck": "Slå ner sina bopålar ",
+        "svar": " Bosätta sig på en viss plats."
+    },
+    {
+        "uttryck": "Slå någon gul och blå ",
+        "svar": " Utsätta någon för kraftigt fysiskt våld, så att blåmärken uppstår."
+    },
+    {
+        "uttryck": "Slå någon/något sönder och samman ",
+        "svar": " Utsätta någon eller något för kraftigt fysiskt våld."
+    },
+    {
+        "uttryck": "Slå näven i bordet ",
+        "svar": " Att säga ifrån på ett burdust, plötsligt och övertydligt sätt."
+    },
+    {
+        "uttryck": "Slå på stora trumman ",
+        "svar": " Att alltför tydligt utannonsera eller skryta över något man tänker göra."
+    },
+    {
+        "uttryck": "Slå på stort ",
+        "svar": " Att bjuda överdådigt eller slösa."
+    },
+    {
+        "uttryck": "Slå sig för bröstet ",
+        "svar": " Att tala om hur bra man är, stolt över sig själv, självskryt."
+    },
+    {
+        "uttryck": "Slå sig i slang med ",
+        "svar": " Att inleda ett samtal med någon okänd."
+    },
+    {
+        "uttryck": "Slå (något) sönder och samman ",
+        "svar": " Skada svårt."
+    },
+    {
+        "uttryck": "Slå sina påsar ihop ",
+        "svar": " Att föreslå att börja samarbeta."
+    },
+    {
+        "uttryck": "Slå två flugor i en smäll ",
+        "svar": " Att vara mycket effektiv genom att lösa två (eller flera) problem med en och samma åtgärd."
+    },
+    {
+        "uttryck": "Slå vakt om något ",
+        "svar": " Värna om något."
+    },
+    {
+        "uttryck": "Slå vantarna i bordet ",
+        "svar": " Att gå i konkurs."
+    },
+    {
+        "uttryck": "Slås av något ",
+        "svar": " Plötsligt se dolda samband."
+    },
+    {
+        "uttryck": "Släta över något ",
+        "svar": " Förringa ett missöde."
+    },
+    {
+        "uttryck": "Smaka stövelklacken ",
+        "svar": " Utsättas för starkt övervåld."
+    },
+    {
+        "uttryck": "Smakar det så kostar det ",
+        "svar": " Inte förvånas över att det blev dyrt med hänsyn till den kvalitet som valdes."
+    },
+    {
+        "uttryck": "Smida medan järnet är varmt ",
+        "svar": " Behandla saken omgående medan det finns tid som annars kan omintetgöras."
+    },
+    {
+        "uttryck": "Sminka grisen ",
+        "svar": " Att försöka få något att se bättre ut än vad det är, men utan att lyckas med det."
+    },
+    {
+        "uttryck": "Smockan hänger i luften ",
+        "svar": " En diskussion börjar urarta, det kan bli bråk."
+    },
+    {
+        "uttryck": "Smolk i glädjebägaren ",
+        "svar": " Något litet som hindrar någots gilla gång."
+    },
+    {
+        "uttryck": "Smäll på fingrarna ",
+        "svar": " Bli tillrättavisad."
+    },
+    {
+        "uttryck": "Smörja kråset ",
+        "svar": " Vräka i sig god mat."
+    },
+    {
+        "uttryck": "Smörklick på het potatis ",
+        "svar": " Näst intill omöjligt att balansera, oftast om fysisk aktivitet."
+    },
+    {
+        "uttryck": "Som ett torrt skinn ",
+        "svar": " Utan syfte och mål."
+    },
+    {
+        "uttryck": "Som fan läser Bibeln ",
+        "svar": " Avsiktligt vantolka."
+    },
+    {
+        "uttryck": "Som klippt och skuren för något ",
+        "svar": " Passa väldigt bra."
+    },
+    {
+        "uttryck": "Sopa golvet med någon ",
+        "svar": " Att vinna mycket överlägset."
+    },
+    {
+        "uttryck": "Sopa problemet under mattan ",
+        "svar": " Inte låtsas om ett problem utan skjuta det framför sig."
+    },
+    {
+        "uttryck": "Sopa rent framför/för sin egen dörr ",
+        "svar": " Ta itu med sina egna problem innan man säger åt andra hur de ska agera."
+    },
+    {
+        "uttryck": "Sova på saken ",
+        "svar": " Fundera på något till nästa dag."
+    },
+    {
+        "uttryck": "Spara på krutet/spara inte på krutet ",
+        "svar": " Hålla igen i högljudd diskussion/eller överdriva i en argumentation."
+    },
+    {
+        "uttryck": "Sparv i tranedansen ",
+        "svar": " Känna sig liten och betydelselös i ett finare sällskap."
+    },
+    {
+        "uttryck": "Spel för galleriet/gallerierna ",
+        "svar": " Publikfrieri. "
+    },
+    {
+        "uttryck": "Spel bakom kulisserna ",
+        "svar": " Intriger i det fördolda."
+    },
+    {
+        "uttryck": "Spela Allan ",
+        "svar": " Vara medvetet överlägsen mot andra och njuta av situationen att andra inte kan lika mycket."
+    },
+    {
+        "uttryck": "Spela andrafiolen ",
+        "svar": " Att komma i andra hand; att visa hänsyn."
+    },
+    {
+        "uttryck": "Spela ett högt spel ",
+        "svar": " Att göra något riskabelt eller något som kan få svåra konsekvenser."
+    },
+    {
+        "uttryck": "Spela i samma division ",
+        "svar": " Att vara lika duktig eller accepterad utan klasskillnader."
+    },
+    {
+        "uttryck": "Spela sina kort väl ",
+        "svar": " Att vara taktisk."
+    },
+    {
+        "uttryck": "Spela under täcket med någon ",
+        "svar": " Att agera i hemligt samförstånd."
+    },
+    {
+        "uttryck": "Spetsa öronen ",
+        "svar": " Positivt: Lyssna uppmärksammat. Negativt: Omdöme om någon som försöker höra vad som sägs fast informationen inte är avsedd för vederbörande."
+    },
+    {
+        "uttryck": "Spindeln i nätet ",
+        "svar": " Den som drar i trådarna."
+    },
+    {
+        "uttryck": "Spotta i nävarna ",
+        "svar": " Ta i, ta nya tag."
+    },
+    {
+        "uttryck": "Sprids som askan för vinden ",
+        "svar": " Om något som skingras och aldrig mer kan samlas ihop igen."
+    },
+    {
+        "uttryck": "Springande punkten ",
+        "svar": " Det viktigaste argumentet som avgör en diskussion."
+    },
+    {
+        "uttryck": "Spritt språngandes naken ",
+        "svar": " Helt naken (oftast i en oväntad situation)."
+    },
+    {
+        "uttryck": "Spänna bågen för högt ",
+        "svar": " Att sätta för höga mål."
+    },
+    {
+        "uttryck": "Stadd vid kassa ",
+        "svar": " Har gott om likvida medel, ha tillgång till mycket kontanta pengar som kan omsättas omgående."
+    },
+    {
+        "uttryck": "Stick i stäv mot ",
+        "svar": " Raka motsatsen."
+    },
+    {
+        "uttryck": "Sticka huvudet i sanden ",
+        "svar": " Blunda för problem som börjar bli uppenbara."
+    },
+    {
+        "uttryck": "Sticka i ögonen ",
+        "svar": " Om något som väcker anstöt."
+    },
+    {
+        "uttryck": "Sticka under stol med ",
+        "svar": "  att säga vad man tycker i ett kanske kontroversiellt ämne."
+    },
+    {
+        "uttryck": "Sticka ut hakan ",
+        "svar": " Komma med ett kontroversiellt påstående."
+    },
+    {
+        "uttryck": "Stiga åt huvudet ",
+        "svar": " När någon blir mallig eller högfärdig efter en framgång eller beröm."
+    },
+    {
+        "uttryck": "Stirra sig blind på något ",
+        "svar": " Inte förstå de större sammanhangen, eftersom man koncentrerar sig alltför mycket på en enstaka detalj."
+    },
+    {
+        "uttryck": "Stolt som en tupp ",
+        "svar": " Mallig."
+    },
+    {
+        "uttryck": "Storm i ett vattenglas ",
+        "svar": " Överdriva kraftigt för att få något att framstå som viktigare än det egentligen är; gräl om något oväsentligt."
+    },
+    {
+        "uttryck": "Strama tyglar ",
+        "svar": " Leda någons arbetsuppgifter i detalj och inte tillåta några avvikelser från uppgjord plan."
+    },
+    {
+        "uttryck": "Streck i räkningen ",
+        "svar": " Oväntat hinder."
+    },
+    {
+        "uttryck": "Strid på kniven ",
+        "svar": " Skarp konflikt."
+    },
+    {
+        "uttryck": "Strida om påvens skägg ",
+        "svar": " Diskutera om oväsentligheter."
+    },
+    {
+        "uttryck": "Stryka med ",
+        "svar": " Att dö."
+    },
+    {
+        "uttryck": "Stryka någon medhårs ",
+        "svar": " Hålla med i syfte att blidka."
+    },
+    {
+        "uttryck": "Stryka på foten/fötterna ",
+        "svar": " Ge vika."
+    },
+    {
+        "uttryck": "Sträcka vapen ",
+        "svar": " Kapitulera."
+    },
+    {
+        "uttryck": "Strö pärlor för svinen ",
+        "svar": " Anstränga sig i onödan."
+    },
+    {
+        "uttryck": "Strö salt i såren ",
+        "svar": " Förvärra situationen för någon som har det dåligt."
+    },
+    {
+        "uttryck": "Styv i korken ",
+        "svar": " Vara (alltför) självsäker."
+    },
+    {
+        "uttryck": "Styv i nacken/styvnackad ",
+        "svar": " Stolt och självständig eller självgod."
+    },
+    {
+        "uttryck": "Stå för fiolerna ",
+        "svar": " Svara för kostnaderna."
+    },
+    {
+        "uttryck": "Stå handfallen ",
+        "svar": " Temporärt mist handlingsförmågan genom att något överraskande har hänt."
+    },
+    {
+        "uttryck": "Stå i ljusan låga ",
+        "svar": " Då elden fått ordentligt fäste, brinner häftigt, oftast om hus som brinner."
+    },
+    {
+        "uttryck": "Stå i rampljuset ",
+        "svar": " Vara uppmärksammad, högaktuell."
+    },
+    {
+        "uttryck": "Stå i skottgluggen ",
+        "svar": " Hårt ansatt av kritik utan att vara direkt ansvarig."
+    },
+    {
+        "uttryck": "Stå i valet och kvalet ",
+        "svar": " Att ha svårt att välja mellan två eller flera alternativ."
+    },
+    {
+        "uttryck": "Stå inför skranket ",
+        "svar": " Ställas till svars."
+    },
+    {
+        "uttryck": "Stå/sitta med armarna i kors ",
+        "svar": " Låta bli att ingripa i ett skeende trots att det finns möjligheter till det. "
+    },
+    {
+        "uttryck": "Stå med båda fötterna på jorden ",
+        "svar": " Vara realist i positiv bemärkelse, inte ta onödiga risker eller chansa."
+    },
+    {
+        "uttryck": "Stå med mössan i näven ",
+        "svar": " Skamset eller ödmjukt be om något; att tvingas be om ursäkt för något."
+    },
+    {
+        "uttryck": "Stå med skägget i brevlådan/Hamna med skägget i brevlådan ",
+        "svar": " Att ha försatt sig själv i en svår situation."
+    },
+    {
+        "uttryck": "Stå med två tomma händer/vara tomhänt ",
+        "svar": " Sakna rätt resurser."
+    },
+    {
+        "uttryck": "Stå med tvättad hals ",
+        "svar": " Att bli snopen."
+    },
+    {
+        "uttryck": "Stå och väga ",
+        "svar": " En småsak kan avgöra hur något ska sluta."
+    },
+    {
+        "uttryck": "Stå pall för något ",
+        "svar": " Orka, uthärda påfrestningar."
+    },
+    {
+        "uttryck": "Stå på egna ben ",
+        "svar": " Att vara oberoende och kunna reda sig själv."
+    },
+    {
+        "uttryck": "Stå på god fot med någon ",
+        "svar": " Att ha ett gott förhållande till någon."
+    },
+    {
+        "uttryck": "Stå på näsan ",
+        "svar": " Att falla, ramla omkull."
+    },
+    {
+        "uttryck": "Stå på spel ",
+        "svar": " Det är inte säkert att något går vägen."
+    },
+    {
+        "uttryck": "Stå på sig ",
+        "svar": " Inte låta sig övertalas eller övertygas"
+    },
+    {
+        "uttryck": "Stå på öronen ",
+        "svar": " Att ramla okontrollerat, snava eller halka på något och ramla omkull."
+    },
+    {
+        "uttryck": "Stå sitt kast ",
+        "svar": " Att ta ansvar för problem som uppstår genom eget (oklokt) förvållande."
+    },
+    {
+        "uttryck": "Stå som fallen från skyarna ",
+        "svar": " Att vara mycket förvånad och kanske handlingsförlamad."
+    },
+    {
+        "uttryck": "Stå (någon) upp i halsen ",
+        "svar": " Att vara riktigt trött på, ha fått nog av eller vara irriterad över."
+    },
+    {
+        "uttryck": "Stå vid skampålen ",
+        "svar": " Att i något officiellt sammanhang få skämmas för något man gjort."
+    },
+    {
+        "uttryck": "Stånga hornen av sig ",
+        "svar": " Att skaffa sig utlopp för sin sexualdrift."
+    },
+    {
+        "uttryck": "Stånga sig blodig ",
+        "svar": " Ihärdigt framhärda något men till slut ändå inte kunna övertyga eller genomföra det man önskat."
+    },
+    {
+        "uttryck": "Ställa någon mot väggen ",
+        "svar": " Att ställa någon inför faktum och begära att vederbörande bekräftar detta självmant."
+    },
+    {
+        "uttryck": "Ställa sig i skamvrån ",
+        "svar": " Att tvingas att skämmas för något man sagt eller gjort, ofta av mindre vikt."
+    },
+    {
+        "uttryck": "Ställa till svars ",
+        "svar": " Låta någon ta ansvar för sina gärningar."
+    },
+    {
+        "uttryck": "Ställas i dålig dager ",
+        "svar": " Beskrivas på ett ofördelaktigt sätt, framstå i dåligt ljus."
+    },
+    {
+        "uttryck": "Stämma i bäcken ",
+        "svar": " Att ta itu med problem innan de växt sig alltför stora."
+    },
+    {
+        "uttryck": "Stöpt i samma form ",
+        "svar": " Det att någon eller något är exceptionellt lik någon/något annan."
+    },
+    {
+        "uttryck": "Störst och värst i hela Bofors ",
+        "svar": " Någon som skryter och skroderar med överlägsen attityd."
+    },
+    {
+        "uttryck": "Stöta och blöta något ",
+        "svar": " grundligt gå igenom ett problem, älta en fråga."
+    },
+    {
+        "uttryck": "Stöta på patrull ",
+        "svar": " Att på något sätt få problem när något ska utföras."
+    },
+    {
+        "uttryck": "Stötesten ",
+        "svar": " En svårlöst fråga som berör flera, genom vitt skilda åsikter."
+    },
+    {
+        "uttryck": "Stötts och blötts ",
+        "svar": " En tvistefråga som diskuterats från alla synvinklar under längre tid."
+    },
+    {
+        "uttryck": "Suga på karamellen ",
+        "svar": " Att så länge som möjligt försöka njuta av en vinst eller fördel man erhållit."
+    },
+    {
+        "uttryck": "Suga på ramarna ",
+        "svar": " Att ha det knappt."
+    },
+    {
+        "uttryck": "Summa summarum ",
+        "svar": " Sammanfattande kommentar efter en längre utläggning; totalt sett."
+    },
+    {
+        "uttryck": "Surfa på nätet ",
+        "svar": " Söka sig fram på World Wide Web ofta i betydelsen slumpmässigt."
+    },
+    {
+        "uttryck": "Surrad vid masten ",
+        "svar": " kan omöjligen överge sin post"
+    },
+    {
+        "uttryck": "Svagaste länken i kedjan ",
+        "svar": " Den del som är mest osäker i en process av inbördes beroende delar."
+    },
+    {
+        "uttryck": "Svansen mellan benen ",
+        "svar": " Att skämmas mycket över något"
+    },
+    {
+        "uttryck": "Svarta fåret ",
+        "svar": " en person som avviker på ett negativt sätt, alternativt blir utstött eller får skulden för något på grund av att personen är annorlunda eller excentrisk."
+    },
+    {
+        "uttryck": "Svarte Petter ",
+        "svar": " Något som gör en till förlorare."
+    },
+    {
+        "uttryck": "Svinhugg går igen ",
+        "svar": " en elakhet som slår tillbaka på utföraren, få igen för en begången oförrätt."
+    },
+    {
+        "uttryck": "Svida i skinnet ",
+        "svar": " Göra ont eller kosta mycket."
+    },
+    {
+        "uttryck": "Svårfjällad fisk ",
+        "svar": " Omdöme om en person som medvetet håller sig undan, som är svår att få utfråga."
+    },
+    {
+        "uttryck": "Svälja det beska pillret ",
+        "svar": " Tvingas acceptera något obehagligt eller förtretligt."
+    },
+    {
+        "uttryck": "Svära i kyrkan ",
+        "svar": " Föreslå något som i allmänhet tolkas som upprörande."
+    },
+    {
+        "uttryck": "Sväva i ovisshet ",
+        "svar": " Vara osäker."
+    },
+    {
+        "uttryck": "Sväva mellan liv och död ",
+        "svar": " Dödligt drabbad."
+    },
+    {
+        "uttryck": "Sväva på moln ",
+        "svar": " Vara lycklig."
+    },
+    {
+        "uttryck": "Sväva på målet ",
+        "svar": " Uttala sig obestämt eller osäkert"
+    },
+    {
+        "uttryck": "Sväva på rosa moln ",
+        "svar": " Vara kär."
+    },
+    {
+        "uttryck": "Syna i sömmarna ",
+        "svar": " Noggrant undersöka."
+    },
+    {
+        "uttryck": "Synd på så rara ärtor ",
+        "svar": " Något dyrbart eller sällsynt går förlorat. Kan också användas till exempel om någon är kär i en person och får reda på att denne redan har en partner."
+    },
+    {
+        "uttryck": "Synda på nåden ",
+        "svar": " Göra något oförargligt men som man egentligen inte borde göra, men då räkna med Guds nåd."
+    },
+    {
+        "uttryck": "Så gott som ",
+        "svar": " Nästan."
+    },
+    {
+        "uttryck": "Så in i Norden ",
+        "svar": " I hög grad, väldigt mycket"
+    },
+    {
+        "uttryck": "Så in i vassen ",
+        "svar": " I hög grad, väldigt mycket"
+    },
+    {
+        "uttryck": "Så nära sanningen man kan komma ",
+        "svar": " När något är osäkert men sannolikt."
+    },
+    {
+        "uttryck": "Så sant som det är sagt ",
+        "svar": " Oftast ironiskt om en truism."
+    },
+    {
+        "uttryck": "Så split ",
+        "svar": " Att odla eller gynna oenighet som leder till missämja."
+    },
+    {
+        "uttryck": "Så sin vildhavre ",
+        "svar": " Att skaffa sig utlopp för sin sexualdrift."
+    },
+    {
+        "uttryck": "Så ska en slipsten dras ",
+        "svar": " att göra något ordentligt."
+    },
+    {
+        "uttryck": "Så tyst att man kan höra en knappnål falla ",
+        "svar": " Att något är mycket tyst."
+    },
+    {
+        "uttryck": "Sålt smöret och tappat pengarna ",
+        "svar": " Vara sur, på dåligt humör eller ledsen."
+    },
+    {
+        "uttryck": "Såga någon/något vid fotknölarna ",
+        "svar": " Tillintetgörande kritik, fullständigt nedgörande."
+    },
+    {
+        "uttryck": "Sånt är livet ",
+        "svar": " att foga sig i omständigheterna."
+    },
+    {
+        "uttryck": "Såsom i en spegel ",
+        "svar": " Att se något otydligt eller dunkelt."
+    },
+    {
+        "uttryck": "Säga ifrån/till på skarpen ",
+        "svar": " Säga ifrån på ett argt sätt, mena allvar."
+    },
+    {
+        "uttryck": "Säga flaska ",
+        "svar": "att vara tyst."
+    },
+    {
+        "uttryck": "Säker i sadeln ",
+        "svar": " Säker på sin förmåga."
+    },
+    {
+        "uttryck": "Säker på sin sak ",
+        "svar": " Övertygad."
+    },
+    {
+        "uttryck": "Säkert som amen i kyrkan ",
+        "svar": " Något, som absolut säkert kommer att inträffa beroende på ett visst handlande."
+    },
+    {
+        "uttryck": "Sätta bocken till trädgårdsmästare ",
+        "svar": " Att utse en olämplig person till ansvarig."
+    },
+    {
+        "uttryck": "Sätta en rova ",
+        "svar": " Att ramla plötsligt och tungt."
+    },
+    {
+        "uttryck": "Sätta fingret på något ",
+        "svar": " definiera, fastställa."
+    },
+    {
+        "uttryck": "Sätta in nådastöten ",
+        "svar": " Efter längre process, sista handling för att omintetgöra något/någon."
+    },
+    {
+        "uttryck": "Sätta käppar i hjulet ",
+        "svar": " Att förhindra eller försvåra något, ofta avsiktligt."
+    },
+    {
+        "uttryck": "Sätta livet till ",
+        "svar": " Att omkomma, särskilt i en olycka."
+    },
+    {
+        "uttryck": "Sätta munkavle på någon ",
+        "svar": " Hindra någon från att yttra sig."
+    },
+    {
+        "uttryck": "Sätta myror i huvudet på någon ",
+        "svar": " Att ge någon något besvärligt att tänka på."
+    },
+    {
+        "uttryck": "Sätta ner foten ",
+        "svar": " Få stopp på något som tenderar att gå över styr."
+    },
+    {
+        "uttryck": "Sätta någon på det hala ",
+        "svar": " Att bringa någon i en förlägenhet, försöka få någon svarslös."
+    },
+    {
+        "uttryck": "Sätta någon på piedestal ",
+        "svar": " Högakta, beundra."
+    },
+    {
+        "uttryck": "Sätta någon på plats ",
+        "svar": " Att skarpt tillrättavisa någon."
+    },
+    {
+        "uttryck": "Sätta någon på pottan/pottkanten ",
+        "svar": " Påtala något som gör det svårt för någon."
+    },
+    {
+        "uttryck": "Sätta något på kartan ",
+        "svar": " Göra känt."
+    },
+    {
+        "uttryck": "Sätta något på spel ",
+        "svar": " Att riskera något."
+    },
+    {
+        "uttryck": "Sätta något under lupp ",
+        "svar": " Att noggrant undersöka något."
+    },
+    {
+        "uttryck": "Sätta p för något ",
+        "svar": " Att stoppa något."
+    },
+    {
+        "uttryck": "Sätta punkt för något ",
+        "svar": " Att avsluta eller förhindra något."
+    },
+    {
+        "uttryck": "Sätta sig på bakhasorna ",
+        "svar": " Bromsa, försöka förhindra något i en uppgjord plan."
+    },
+    {
+        "uttryck": "Sätta sig på höga hästar ",
+        "svar": " Vara övermodigt självsäker."
+    },
+    {
+        "uttryck": "Sätta sig på tvären ",
+        "svar": " Att säga emot någon; att vägra gå med på något."
+    },
+    {
+        "uttryck": "Sätta sitt ljus under skäppan ",
+        "svar": " Att vara alltför blygsam om sina egna talanger."
+    },
+    {
+        "uttryck": "Sätta sprätt på pengarna ",
+        "svar": " Att snabbt slösa bort pengarna."
+    },
+    {
+        "uttryck": "Sätta till alla klutar ",
+        "svar": " Att uppbjuda alla krafter."
+    },
+    {
+        "uttryck": "Sätta värde på något ",
+        "svar": " Att uppskatta något."
+    },
+    {
+        "uttryck": "Söndra och härska ",
+        "svar": " Klassisk härskarteknik."
+    },
+    {
+        "uttryck": "Ta bladet från munnen ",
+        "svar": " Tala öppet, säga som det är."
+    },
+    {
+        "uttryck": "Ta (den) bollen/pucken ",
+        "svar": " Företagsslang: ta en arbetsuppgift eller liknande."
+    },
+    {
+        "uttryck": "Ta den i tvåan ",
+        "svar": " Idka analt samlag, se analsex."
+    },
+    {
+        "uttryck": "Ta det kallt ",
+        "svar": " Att ta något med fattning."
+    },
+    {
+        "uttryck": "Ta det lite pö om pö ",
+        "svar": " I mindre steg klara av en större uppgift utan att ange när det kommer att vara färdigt."
+    },
+    {
+        "uttryck": "Ta det långa benet före ",
+        "svar": " Skynda sig."
+    },
+    {
+        "uttryck": "Ta det med en klackspark ",
+        "svar": " Ta lättvindigt på något utan eftertanke, ignorera negativa konsekvenser."
+    },
+    {
+        "uttryck": "Ta det med ro ",
+        "svar": " Att inte oroas sig."
+    },
+    {
+        "uttryck": "Ta det piano ",
+        "svar": " Ta det lugnt."
+    },
+    {
+        "uttryck": "Ta det säkra före det osäkra eller Ta det säkra för det osäkra ",
+        "svar": " Att välja något som framstår som säkert istället för något som framstår som osäkert."
+    },
+    {
+        "uttryck": "Ta det vackert ",
+        "svar": " Försiktigt."
+    },
+    {
+        "uttryck": "Ta en i det andra benet också ",
+        "svar": " Dricka snaps nummer två."
+    },
+    {
+        "uttryck": "Ta en kula för någon ",
+        "svar": " Offra sig."
+    },
+    {
+        "uttryck": "Ta en ände med förskräckelse ",
+        "svar": " Kan sluta/gå riktigt illa."
+    },
+    {
+        "uttryck": "Ta för sig ",
+        "svar": " Att roffa åt sig."
+    },
+    {
+        "uttryck": "Ta för stora ord i sin mun ",
+        "svar": " Att inte ha täckning för det man säger."
+    },
+    {
+        "uttryck": "Ta gift på något ",
+        "svar": " Försäkra omgivningen om att något är sant."
+    },
+    {
+        "uttryck": "Ta hus i helsike/helvete ",
+        "svar": " Flera kommer att bli upprörda."
+    },
+    {
+        "uttryck": "Ta höjd för något ",
+        "svar": " Ta med något i beräkningen."
+    },
+    {
+        "uttryck": "Ta i med hårdhandskarna ",
+        "svar": " Att fysiskt eller psykiskt ta itu med något på ett seriöst och hängivet sätt, att attackera ett problem."
+    },
+    {
+        "uttryck": "Ta i med silkesvantarna ",
+        "svar": "Att ta itu med ett problem på ett försiktigt och taktfullt sätt."
+    },
+    {
+        "uttryck": "Ta i så man spricker ",
+        "svar": " Överdriva."
+    },
+    {
+        "uttryck": "Ta igen på gungorna vad man förlorat på karusellen ",
+        "svar": " Att i en affärsuppgörelse ta igen för en annan, dålig affär, så att man i slutänden ändå går med vinst."
+    },
+    {
+        "uttryck": "Ta korn på ",
+        "svar": " Att ta ögonmärke på."
+    },
+    {
+        "uttryck": "Ta kål på något ",
+        "svar": " Att fullständigt förstöra något."
+    },
+    {
+        "uttryck": "Ta musten ur någon/något ",
+        "svar": " Bli utmattad."
+    },
+    {
+        "uttryck": "Ta ner månen ",
+        "svar": " Utföra det omöjliga."
+    },
+    {
+        "uttryck": "Ta ner skylten ",
+        "svar": " Att avlida."
+    },
+    {
+        "uttryck": "Ta någon i hampan ",
+        "svar": " Läxa upp någon."
+    },
+    {
+        "uttryck": "Ta något med en nypa salt ",
+        "svar": " Att inte lita alltför mycket på en uppgift eller informationskälla."
+    },
+    {
+        "uttryck": "Ta något för givet ",
+        "svar": " Att utgå från att något är sant."
+    },
+    {
+        "uttryck": "Ta någon på orden ",
+        "svar": " Att tolka vad någon säger bokstavligt, utan att försöka gissa in några bibetydelser, ironier, sarkasmer eller liknande."
+    },
+    {
+        "uttryck": "Ta på kornet ",
+        "svar": " Att skildra naturtroget."
+    },
+    {
+        "uttryck": "Ta saken i egna händer ",
+        "svar": " Ta tag i något själv när ingen annan tycks (vilja) åtgärda det."
+    },
+    {
+        "uttryck": "Ta seden dit man kommer ",
+        "svar": " Att anpassa sig till omgivningen."
+    },
+    {
+        "uttryck": "Ta sig en funderare ",
+        "svar": " Tänka efter."
+    },
+    {
+        "uttryck": "Ta sig en styrketår ",
+        "svar": " Dricka (ren) sprit."
+    },
+    {
+        "uttryck": "Ta sig för stora friheter ",
+        "svar": " Att göra mer än man får."
+    },
+    {
+        "uttryck": "Ta sig (själv) i kragen ",
+        "svar": " Rycka upp sig och ta tag i sina problem i stället för att låta sig nedtryckas av dem."
+    },
+    {
+        "uttryck": "Ta sig vatten över huvudet ",
+        "svar": " Att åta sig mer än man klarar av på ett sätt som kan leda till stora problem för en själv."
+    },
+    {
+        "uttryck": "Ta sin Mats ur skolan ",
+        "svar": " Att dra sig ur en brydsam eller farlig situation utan förlust eller förödmjukelse."
+    },
+    {
+        "uttryck": "Ta skeden i vacker hand ",
+        "svar": " Hålla sig i skinnet och foga sig efter någons förmaning."
+    },
+    {
+        "uttryck": "Ta skruv ",
+        "svar": " Få önskad effekt"
+    },
+    {
+        "uttryck": "Ta steget fullt ut ",
+        "svar": " Att fullfölja viss handling och ta konsekvenserna."
+    },
+    {
+        "uttryck": "Ta tempen ",
+        "svar": " Kolla eller känna av läget"
+    },
+    {
+        "uttryck": "Ta till storsläggan ",
+        "svar": " Ofta ett uttryck för att våldsamt kritisera någon på ett hänsynslöst sätt."
+    },
+    {
+        "uttryck": "Ta tjuren vid hornen ",
+        "svar": " Att ta tag i en svår/obehaglig uppgift på ett handgripligt sätt."
+    },
+    {
+        "uttryck": "Tacka sin lyckliga stjärna ",
+        "svar": " Ha en väldig tur."
+    },
+    {
+        "uttryck": "Tagen på sängen ",
+        "svar": " Överraskad, totalt oförberedd på något som man borde ha insett skulle kunna inträffa."
+    },
+    {
+        "uttryck": "Tala ett annat språk ",
+        "svar": " Uttrycka något annat än vad som sägs."
+    },
+    {
+        "uttryck": "Tala för döva öron ",
+        "svar": " Att säga något ingen bryr sig om, att bli nonchalerad."
+    },
+    {
+        "uttryck": "Tala klarspråk ",
+        "svar": " Uttrycka sig rakt på sak, utan omskrivningar."
+    },
+    {
+        "uttryck": "Tala med bönder på bönders vis och med de lärde på latin ",
+        "svar": " Att anpassa sitt budskap efter mottagarens förutsättningar att förstå vad man talar om."
+    },
+    {
+        "uttryck": "Tala med kluven tunga ",
+        "svar": " Att säga en sak men mena eller göra något helt annat; att vara oärlig; att inte stå för vad man har sagt."
+    },
+    {
+        "uttryck": "Tala till punkt ",
+        "svar": " Tala tills man sagt allt man vill säga."
+    },
+    {
+        "uttryck": "Tala ur skägget ",
+        "svar": " Tala tydligt, eller att uppriktigt säga vad man tycker."
+    },
+    {
+        "uttryck": "Tappa ansiktet ",
+        "svar": " Att förlora sin prestige; att förödmjukas."
+    },
+    {
+        "uttryck": "Tappa greppet ",
+        "svar": " Förlora kontrollen."
+    },
+    {
+        "uttryck": "Tappa hakan ",
+        "svar": " Att se mycket förvånad ut och bli mållös ut utan att kunna dölja det."
+    },
+    {
+        "uttryck": "Tappa huvudet ",
+        "svar": " Att tillfälligt mista omdömesförmågan."
+    },
+    {
+        "uttryck": "Tappa koncepten ",
+        "svar": " Bete sig oregerligt eller komma av sig."
+    },
+    {
+        "uttryck": "Tappa målföret ",
+        "svar": " Tystna."
+    },
+    {
+        "uttryck": "Tappad bakom en vagn ",
+        "svar": " Att vara ointelligent eller ha långsam uppfattningsförmåga."
+    },
+    {
+        "uttryck": "Tiden har runnit ut ",
+        "svar": " Utmätt tid är slut."
+    },
+    {
+        "uttryck": "Tidens tand ",
+        "svar": " Förklaring till att något mycket gammalt förändrats i negativ riktning eller slitits, utan att ange exakt orsak."
+    },
+    {
+        "uttryck": "Tids nog ",
+        "svar": " Något kommer att utföras/lösa sig med tiden, ofta dock trots att det är obestämt hur/vem/vad som ska ombesörja detta."
+    },
+    {
+        "uttryck": "Till det yttersta ",
+        "svar": " Att anstränga sig med allt som man har."
+    },
+    {
+        "uttryck": "Till råga på allt ",
+        "svar": " Något som sker/skedde utöver något som redan inträffat."
+    },
+    {
+        "uttryck": "Till sista andetaget ",
+        "svar": " Att anstränga sig till det yttersta."
+    },
+    {
+        "uttryck": "Till syvende och sist ",
+        "svar": " När allt kommer omkring, när saken ställts på sin spets."
+    },
+    {
+        "uttryck": "Till yttermera visso ",
+        "svar": " Något som bekräftas av något, egentligen onödigt, för att extra tydligt påvisa att det är sant."
+    },
+    {
+        "uttryck": "Tillbaka på ruta ett ",
+        "svar": " Att ha hamnat i en situation som liknar den man en gång började med."
+    },
+    {
+        "uttryck": "Timglaset är fullt ",
+        "svar": " Tiden är ute."
+    },
+    {
+        "uttryck": "Titta för djupt i glaset/titta djupt i flaskan",
+        "svar": " Att dricka för mycket alkohol."
+    },
+    {
+        "uttryck": "Titta snett på någon ",
+        "svar": " förakta eller se med misstänksamhet på någon"
+    },
+    {
+        "uttryck": "Tomma ord ",
+        "svar": " Orden har ingen bärighet eller relevans."
+    },
+    {
+        "uttryck": "Topp tunnor rasande ",
+        "svar": " extremt arg."
+    },
+    {
+        "uttryck": "Toppa laget ",
+        "svar": " Att använda de bästa spelarna i laget samtidigt."
+    },
+    {
+        "uttryck": "Torr bakom öronen ",
+        "svar": " Erfaren och mogen."
+    },
+    {
+        "uttryck": "Trampa i klaveret ",
+        "svar": " Att begå ett klumpigt misstag; ofta att säga eller göra något man egentligen inte menar."
+    },
+    {
+        "uttryck": "Trampa på en öm tå ",
+        "svar": " Att säga/göra något som någon annan tycker är känsligt/blir irriterad över."
+    },
+    {
+        "uttryck": "Trampa spiken i botten ",
+        "svar": " Att trampa gaspedalen i botten."
+    },
+    {
+        "uttryck": "Trampa vatten ",
+        "svar": " Inte komma någon vart, diskussion som inte leder till någon slutsats."
+    },
+    {
+        "uttryck": "Tredje gången gillt ",
+        "svar": " Skrockfullt, om något som händer för tredje gången och därför ska gälla."
+    },
+    {
+        "uttryck": "Tretton på dussinet ",
+        "svar": " Någonting mycket vanligt eller överflödigt."
+    },
+    {
+        "uttryck": "Trilla av pinn ",
+        "svar": " Att avlida."
+    },
+    {
+        "uttryck": "Trolla med knäna ",
+        "svar": " Att försöka åstadkomma det omöjliga på ett enkelt sätt."
+    },
+    {
+        "uttryck": "Tror, det gör man i kyrkan ",
+        "svar": " Påpekande att det är stor skillnad mellan att tro eller spekulera, och att besitta kunskap grundad på verifierade fakta."
+    },
+    {
+        "uttryck": "Trycka ner i skoskaften ",
+        "svar": " På ett burdust och hänsynslöst sätt hindra någon från att uttrycka sin åsikt."
+    },
+    {
+        "uttryck": "Trångt om saligheten ",
+        "svar": " Ont om plats och/eller många som vill ta del av något."
+    },
+    {
+        "uttryck": "Träffa den rätta/rätte ",
+        "svar": " Att träffa sin stora kärlek."
+    },
+    {
+        "uttryck": "Tulipanaros ",
+        "svar": " En åtråvärd, men omöjlig kombination."
+    },
+    {
+        "uttryck": "Tummen i ögat ",
+        "svar": " Att ha någon under kontroll/uppsikt så att den/de inte ställer till besvär eller skapar problem."
+    },
+    {
+        "uttryck": "Tu tal om något ",
+        "svar": "något som det inte råder något tvivel om."
+    },
+    {
+        "uttryck": "Tupp i halsen ",
+        "svar": " När det stockar sig i halsen."
+    },
+    {
+        "uttryck": "Tvätta pengar ",
+        "svar": " Att omvandla pengar som intjänats brottsligt i pengar som kan användas."
+    },
+    {
+        "uttryck": "Tycka skjortan är trång ",
+        "svar": " Att komma i ett trängt läge."
+    },
+    {
+        "uttryck": "Tystnaden talar för sig själv ",
+        "svar": " Något uttalat som möts av tystnad kan tolkas som att ingen förstår, alla håller fullständigt med, alla tycker det är pinsamt eller ingen håller med."
+    },
+    {
+        "uttryck": "Två sidor av samma mynt ",
+        "svar": " Två olika synsätt på samma sak."
+    },
+    {
+        "uttryck": "Två sina händer ",
+        "svar": " Att avsäga sig ansvaret för något."
+    },
+    {
+        "uttryck": "Tår på tand ",
+        "svar": " Dricka snaps."
+    },
+    {
+        "uttryck": "Tårta på tårta ",
+        "svar": " Onödig dubblering, tautologi."
+    },
+    {
+        "uttryck": "Tända på alla fyra eller Tända på alla cylindrar ",
+        "svar": " Att bli väldigt entusiastisk"
+    },
+    {
+        "uttryck": "Tälja guld med pennkniv ",
+        "svar": " Att på ett enkelt sätt tjäna mycket pengar."
+    },
+    {
+        "uttryck": "Tända på alla cylindrar ",
+        "svar": " Bli mycket uppspelt eller mycket upprörd."
+    },
+    {
+        "uttryck": "Tänk först och tala sen ",
+        "svar": " Förmaning att tänka efter innan man yttrar sig."
+    },
+    {
+        "uttryck": "Tänka på refrängen ",
+        "svar": " Förbereda sig för att dra sig tillbaka."
+    },
+    {
+        "uttryck": "Täppa till munnen på någon ",
+        "svar": " Att hindra någon från att yttra sig."
+    },
+    {
+        "uttryck": "Tärningen är kastad ",
+        "svar": " Beslutet är taget, nu finns ingen återvändo."
+    },
+    {
+        "uttryck": "Ulv/varg i fårakläder ",
+        "svar": " Någon med onda avsikter förklädd till harmlöshet."
+    },
+    {
+        "uttryck": "Undantaget som bekräftar regeln ",
+        "svar": " Förmodan att ett exempel på en avvikelse från en tes i verkligheten stöder denna."
+    },
+    {
+        "uttryck": "Under isen ",
+        "svar": " Tillfälligt dålig på det man ska göra. Speciellt inom sport."
+    },
+    {
+        "uttryck": "Under uppsegling ",
+        "svar": " i annalkande."
+    },
+    {
+        "uttryck": "Underbart är kort ",
+        "svar": " När något fint eller bra bara varar en liten tid."
+    },
+    {
+        "uttryck": "Upp på koturnen ",
+        "svar": " Högtravande."
+    },
+    {
+        "uttryck": "Uppe med tuppen ",
+        "svar": " Tidigt uppe ur sängen."
+    },
+    {
+        "uttryck": "Uppfinna hjulet på nytt ",
+        "svar": " Lägga ner möda på något komplicerat som någon annan redan har gjort."
+    },
+    {
+        "uttryck": "Ur askan i elden ",
+        "svar": " Att ha försökt lösa ett problem, men hamnat i värre belägenhet."
+    },
+    {
+        "uttryck": "Ur fas ",
+        "svar": " I otakt, osynkroniserad."
+    },
+    {
+        "uttryck": "Ur gängorna ",
+        "svar": " Vara nedslagen."
+    },
+    {
+        "uttryck": "Ur led är tiden ",
+        "svar": " Konstatera att något gått fel."
+    },
+    {
+        "uttryck": "Ur spel ",
+        "svar": "att ha fått sina möjligheter kringskurna"
+    },
+    {
+        "uttryck": "Utan att darra på manschetten ",
+        "svar": " Våga säga eller göra något kontroversiellt utan att vara nervös för eventuella negativa konsekvenser."
+    },
+    {
+        "uttryck": "Utan en tråd på kroppen ",
+        "svar": " Naken."
+    },
+    {
+        "uttryck": "Utan mål och mening ",
+        "svar": " Riktningslöst och meningslöst."
+    },
+    {
+        "uttryck": "Utan ände ",
+        "svar": " Något utdraget, ofta långtråkigt."
+    },
+    {
+        "uttryck": "Ute efter något ",
+        "svar": " ha en (dold) agenda"
+    },
+    {
+        "uttryck": "Ute i kylan ",
+        "svar": " Har fallit i onåd; står utanför någon eller någras gunst; att vara impopulär."
+    },
+    {
+        "uttryck": "Ute i ogjort väder ",
+        "svar": " Att företa något utan tillräcklig anledning."
+    },
+    {
+        "uttryck": "Ute och cykla ",
+        "svar": " Ha fel."
+    },
+    {
+        "uttryck": "Ute på djupt vatten ",
+        "svar": " Ha gett sig in på något som man inte behärskar."
+    },
+    {
+        "uttryck": "Ute på hal is ",
+        "svar": " Vara alltför säker på sin sak när man med stor risk kan ha fel."
+    },
+    {
+        "uttryck": "Utom sig",
+        "svar": " Att inte kunna behärska sig, tappa kontrollen."
+    },
+    {
+        "uttryck": "Vacker tass ",
+        "svar": " Väluppfostrat."
+    },
+    {
+        "uttryck": "Vad gäspar skårpan? ",
+        "svar": " Vad är klockan?"
+    },
+    {
+        "uttryck": "Vad övrigt är, är tystnad ",
+        "svar": " Kan sägas när någon slagit fast något som är svårt att säga emot eller när någon gjort något slutgiltigt."
+    },
+    {
+        "uttryck": "Vakta sin tunga ",
+        "svar": " Uppmaning att noga tänka över vad man säger eftersom det sagda kan ge allvarliga konsekvenser."
+    },
+    {
+        "uttryck": "Var och en blir salig på sin tro ",
+        "svar": " Uttryck när någon försöker övertyga någon (och har rätt) men ger upp."
+    },
+    {
+        "uttryck": "Vara du och bror med någon ",
+        "svar": " Att stå någon nära. Att ha lagt bort titlarna."
+    },
+    {
+        "uttryck": "Vara grönt ",
+        "svar": " Något är klart eller det är fritt fram."
+    },
+    {
+        "uttryck": "Vara sig själv nog ",
+        "svar": " Bara se till sina egna intressen."
+    },
+    {
+        "uttryck": "Varför är allt en trasa? ",
+        "svar": " Varför är tillvaron så besvärlig?"
+    },
+    {
+        "uttryck": "Varje moln har en silverkant ",
+        "svar": " Det finns en ljusning i varje bedrövelse."
+    },
+    {
+        "uttryck": "Varken bu eller bä ",
+        "svar": " Ofta som svar på en fråga om vad någon anser i ett spörsmål, men där den som svarar ställer sig neutral, och inte vill uttala sig i någon specifik riktning."
+    },
+    {
+        "uttryck": "Varken hackat eller malet ",
+        "svar": " Något som ska göras hindras av ovidkommande prat eller tafatt handhavande. Alternativt att något görs utifrån en kompromiss och blir sämre än alla de ingående alternativen."
+    },
+    {
+        "uttryck": "Varm i kläderna ",
+        "svar": " Van vid förhållandena"
+    },
+    {
+        "uttryck": "Varm om hjärtat ",
+        "svar": " Att bli glad eller rörd."
+    },
+    {
+        "uttryck": "Vass tunga ",
+        "svar": " Säger elakheter"
+    },
+    {
+        "uttryck": "Verkligheten överträffar (ofta) dikten ",
+        "svar": " Konstaterande av att något inträffat som inte setts som möjligt"
+    },
+    {
+        "uttryck": "Veta hur en slipsten ska dras ",
+        "svar": " Veta precis hur man ska gå till väga (för att vinna en fördel)."
+    },
+    {
+        "uttryck": "Veta hut ",
+        "svar": " Mycket skarp tillsägelse att någon ska bete sig hövligt"
+    },
+    {
+        "uttryck": "Veta vad klockan är slagen ",
+        "svar": " Veta hur något verkligen förhåller sig."
+    },
+    {
+        "uttryck": "Veta var skon klämmer ",
+        "svar": " Komma på något som är känsligt för någon, oftast som en fråga."
+    },
+    {
+        "uttryck": "Vi är alla olika i Herrens hage ",
+        "svar": " Att bejaka olikheter."
+    },
+    {
+        "uttryck": "Vid sina sinnens fulla bruk ",
+        "svar": "att vara sinnesförvirrad."
+    },
+    {
+        "uttryck": "Vid sunda vätskor ",
+        "svar": " att vara sinnessjuk."
+    },
+    {
+        "uttryck": "Vila på sina/gamla lagrar ",
+        "svar": " Nöja sig med tidigare uppnådda framgångar."
+    },
+    {
+        "uttryck": "Vilja sjunka genom jorden ",
+        "svar": " Att vilja bli osynlig, till exempel på grund av blygsel eller skam."
+    },
+    {
+        "uttryck": "Vind för våg eller Driva vind för våg ",
+        "svar": " Att låta någon/något sköta sig själv utan ledning."
+    },
+    {
+        "uttryck": "Visa framfötterna ",
+        "svar": " Att ta initiativ, göra något bra."
+    },
+    {
+        "uttryck": "Visa sig från sin goda sida ",
+        "svar": " Att bjuda till."
+    },
+    {
+        "uttryck": "Visa sig på styva linan ",
+        "svar": " Att visa sig skicklig på något när andra ser på, att briljera, att skryta."
+    },
+    {
+        "uttryck": "Visa tänderna ",
+        "svar": " Att vara aggressiv, på hugget."
+    },
+    {
+        "uttryck": "Visa var skåpet ska stå ",
+        "svar": " Fälla det viktigaste omdömet eller fatta det viktigaste beslutet, som inte kan ifrågasättas."
+    },
+    {
+        "uttryck": "Vit lögn ",
+        "svar": " En lögn för att undvika onödigt krångel men som garanterat inte kan leda till obehagliga konsekvenser för någon."
+    },
+    {
+        "uttryck": "Vit vecka ",
+        "svar": " Att under en period vara nykter; att under en period helt avstå från alkohol."
+    },
+    {
+        "uttryck": "Vädra morgonluft ",
+        "svar": " Se möjligheter, dra nytta av en situation ofta med ett negativt resultat för andra."
+    },
+    {
+        "uttryck": "Väga sina ord på guldvåg ",
+        "svar": " Vara ytterst försiktig med vad man säger i en kontroversiell situation. Ofta som en uppmaning."
+    },
+    {
+        "uttryck": "Väggarna har öron ",
+        "svar": " (Misstänka att) någon obehörig lyssnar på en konversation."
+    },
+    {
+        "uttryck": "Välsmort munläder ",
+        "svar": " ordets gåva, kunna prata mycket."
+    },
+    {
+        "uttryck": "Vältra sig i pengar ",
+        "svar": " Att vara rik, rik som ett troll."
+    },
+    {
+        "uttryck": "Vända andra kinden till ",
+        "svar": " Inte bli arg över någon oförrätt utan snällt acceptera den."
+    },
+    {
+        "uttryck": "Vända blad ",
+        "svar": " Gå vidare, ändra beteende eller taktik, kasta om på en annan bog, sadla om"
+    },
+    {
+        "uttryck": "Vända kappan efter vinden ",
+        "svar": " Ja-sägare, inte stå för sina åsikter, att ändra sig efter vad andra tycker."
+    },
+    {
+        "uttryck": "Vända på kuttingen ",
+        "svar": " Göra något på ett helt annat sätt."
+    },
+    {
+        "uttryck": "Vända på slantarna ",
+        "svar": " Vara av nöden sparsam."
+    },
+    {
+        "uttryck": "Vända på steken ",
+        "svar": " Se något från en annan synvinkel, från en annan angreppspunkt."
+    },
+    {
+        "uttryck": "Vända på varje sten ",
+        "svar": " Undersöka något noggrant som inte har berättats hela sanningen om."
+    },
+    {
+        "uttryck": "Väntans tider ",
+        "svar": " Om tidsperiod av väntan. Särskilt graviditet."
+    },
+    {
+        "uttryck": "Värdshus förbi ",
+        "svar": " Att fara förbi någon eller något utan att stanna och besöka."
+    },
+    {
+        "uttryck": "Värt papperet det är skrivet på ",
+        "svar": "Ett skriftligt påstående eller intyg som är värdelöst eller saknar relevans."
+    },
+    {
+        "uttryck": "Vässa sina knivar ",
+        "svar": " Förbereda ett angrepp."
+    },
+    {
+        "uttryck": "Växa så det knakar ",
+        "svar": " Växa bra eller snabbt."
+    },
+    {
+        "uttryck": "Yr i bollen ",
+        "svar": " Vara lite tokig, vimsig, förvirrad."
+    },
+    {
+        "uttryck": "Yr i mössan ",
+        "svar": " Vara lite tokig, vimsig, förvirrad."
+    },
+    {
+        "uttryck": "Åka på en blåsning ",
+        "svar": " Bli grundlurad."
+    },
+    {
+        "uttryck": "Återfå fattningen ",
+        "svar": " Komma till sans."
+    },
+    {
+        "uttryck": "Återgå/hänvisa till sina rötter ",
+        "svar": " Återgå eller hänvisa till sitt ursprung."
+    },
+    {
+        "uttryck": "Åt fanders ",
+        "svar": " När något har gått fel."
+    },
+    {
+        "uttryck": "Åt pipsvängen ",
+        "svar": " När något har gått fel."
+    },
+    {
+        "uttryck": "Äkta hälft ",
+        "svar": " Make eller maka. Den man är gift med."
+    },
+    {
+        "uttryck": "Ända in i Hälsingland ",
+        "svar": " Långt bort."
+    },
+    {
+        "uttryck": "Ända in i kaklet ",
+        "svar": " Hela vägen fram; ända tills man nått målet. Hämtat från simsporten; tills man slår händerna i simbassängens kakel."
+    },
+    {
+        "uttryck": "Ända ut i fingerspetsarna ",
+        "svar": " Helt och hållet. Ofta som omdöme vid tvivel; Han/hon är något ut i fingerspetsarna."
+    },
+    {
+        "uttryck": "Äpplet faller inte långt från trädet ",
+        "svar": " Variant av uttrycket 'Sådan fader, sådan son', det vill säga att man liknar de man har som förebilder och kanske gör samma misstag som de."
+    },
+    {
+        "uttryck": "Ära den som äras bör ",
+        "svar": " Att ge beröm till rätt person."
+    },
+    {
+        "uttryck": "Äta någon ur hus och hem ",
+        "svar": " Slösaktig på annans bekostnad. Oftast inom familjen."
+    },
+    {
+        "uttryck": "Äta någon ur huset ",
+        "svar": " Äta mycket. Äta mer än sin beskärda del. Dyr i drift."
+    },
+    {
+        "uttryck": "Äta upp vad man sagt eller gjort ",
+        "svar": " Tvingas stå för de negativa följderna av vad man sagt eller gjort. Variant: 'Få äta upp sin egen hatt'."
+    },
+    {
+        "uttryck": "Äter allt, tycker mycket om barn ",
+        "svar": " Om något som är missriktat passande."
+    },
+    {
+        "uttryck": "Även du (min) Brutus? ",
+        "svar": " Uttryck när man inser att även en god vän finns bland dem som har onda avsikter."
+    },
+    {
+        "uttryck": "Öga för öga, tand för tand ",
+        "svar": " Lika för lika: Att straffet ska vara av samma slag som brottet, att en oförrätt ska besvaras med motsvarande handling."
+    },
+    {
+        "uttryck": "Öppna korpgluggarna ",
+        "svar": " spärra upp ögonen."
+    },
+    {
+        "uttryck": "Över min döda kropp ",
+        "svar": " Starkt uttryck för att vägra gå med på något eller vägra utföra en viss handling."
+    },
+    {
+        "uttryck": "Överlevt sig själv ",
+        "svar": " Något som passerat sin glans dagar med råge."
+    },
+    {
+        "uttryck": "Över sig given ",
+        "svar": " Förtvivlad."
+    }
+]
