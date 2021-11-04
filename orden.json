@@ -25,7 +25,7 @@
     },
     {
         "uttryck": "Anno dazumal ",
-        "svar": " Av latinets anno, 'i år', och tyskans dazumal, 'då för tiden'."
+        "svar": " Då för tiden."
     },
     {
         "uttryck": "Armbåga sig fram ",
@@ -34,10 +34,6 @@
     {
         "uttryck": "Av det rätta virket ",
         "svar": " Att vara tillräcklig för uppgiften i fråga."
-    },
-    {
-        "uttryck": "Av samma korn och skrå ",
-        "svar": " Variant av uttrycket 'Av samma skrot och korn', med identisk betydelse."
     },
     {
         "uttryck": "Av samma skrot och korn ",
@@ -149,15 +145,15 @@
     },
     {
         "uttryck": "Bli vid sin läst ",
-        "svar": " Inte försöka sig på något nytt, hålla sig till en påtagen uppgift. Se även läst."
+        "svar": " Inte försöka sig på något nytt, hålla sig till en påtagen uppgift."
     },
     {
         "uttryck": "Blod på händerna ",
-        "svar": " Vara skyldig till våldsbrott (t ex om regim)."
+        "svar": " Vara skyldig till våldsbrott."
     },
     {
         "uttryck": "Blommor och bin ",
-        "svar": " Vardagligt om frågor som rör fortplantning och sexualitet (när man till exempel talar om dem med barn)."
+        "svar": " Vardagligt om frågor som rör fortplantning och sexualitet."
     },
     {
         "uttryck": "Blåsa faran över ",
@@ -165,7 +161,7 @@
     },
     {
         "uttryck": "Bollen är rund ",
-        "svar": " Utgången är oviss, allt kan hända. Yttrat av Gunnar Gren, med innebörden att resultatet av fotbollsmatch inte går att förutse."
+        "svar": " Utgången är oviss, allt kan hända."
     },
     {
         "uttryck": "Brinna för något ",
@@ -177,7 +173,7 @@
     },
     {
         "uttryck": "Bränna sina broar ",
-        "svar": " Förstöra sina möjligheter till återvändo, återtagande eller reträtt. Fatta beslut, vidta åtgärder, ställa ultimatum eller ge löften på ett sådant sätt att de inte kan återtagas, och att de måste följas till sin slutgiltiga konsekvens oavsett vad som händer. Jämför med 'måla in sig i ett hörn.' SAOB anger under 'Bränna sina skepp' även betydelsen 'rifva alla broar bakom sig'. Att bränna broar över naturliga hinder såsom t ex floder och raviner är mycket vanlig taktik vid militär reträtt, i syfte att försvåra efterföljande för fienden. Det medför dock att den egna möjligheten att återta uppgiven terräng också avsevärt försvåras."
+        "svar": " Förstöra sina möjligheter till återvändo, återtagande eller reträtt."
     },
     {
         "uttryck": "Bränna sina skepp ",
@@ -189,7 +185,7 @@
     },
     {
         "uttryck": "Bröd och skådespel ",
-        "svar": " Att köpa sig makt av folket genom materiella ting och ytliga nöjen. Se Bröd och skådespel."
+        "svar": " Att köpa sig makt av folket genom materiella ting och ytliga nöjen."
     },
     {
         "uttryck": "Bulla upp ",
@@ -245,8 +241,7 @@
     },
     {
         "uttryck": "Dansa efter någons pipa ",
-        "svar": " Rätta sig efter någons vilja. Uttrycket tros komma från 1500",
-        "svar": "talet där björnförare använde en pipa för att dressera björnar och där björnen dansade till pipan."
+        "svar": " Rätta sig efter någons vilja."
     },
     {
         "uttryck": "Dansa på någons grav ",
@@ -254,7 +249,7 @@
     },
     {
         "uttryck": "Dansen kring den gyllene kalven/guldkalven ",
-        "svar": " Penningdyrkan, penningbegär (jämför guldkalven.)"
+        "svar": " Penningdyrkan, penningbegär."
     },
     {
         "uttryck": "Den breda vägen ",
