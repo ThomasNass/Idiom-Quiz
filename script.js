@@ -33,14 +33,18 @@ const func = async () => {
             answerButtons[i].addEventListener("click", () => {
                 answerButtons[i].classList.add("right");
                 score++;
-                answerButtons.disable;
+                for (let i = 0; i < numberOfPlayers.length; i++) {
+                    numberOfPlayers[i].disabled = true;
+                }
             })
         }
         else {
 
             answerButtons[i].addEventListener("click", () => {
                 answerButtons[i].classList.add("wrong");
-                answerButtons.disable;
+                for (let i = 0; i < answerButtons.length; i++) {
+                    answerButtons[i].disabled = true;
+                }
             })
         }
         answerButtons[i].textContent = answers[i];
