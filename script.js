@@ -1,9 +1,6 @@
-
-// for (let i = 0; i < object.length; i++) {
-//     console.log(`${object[i].uttryck} = ${object[i].svar}`);
-// }
-
-
+const expressionParagraph = document.querySelector("#expression");
+const answerButtons = document.querySelectorAll(".answers")
+let score = 0;
 
 const getData = async () => {
     const response = await fetch("orden.json");
@@ -13,28 +10,58 @@ const getData = async () => {
 const func = async () => {
     const ExpressionsAndAnswers = await getData();
 
-    let r = Math.floor(Math.random() * ExpressionsAndAnswers.length);
-    let r1 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
-    let r2 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
-    let r3 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
+    const r = Math.floor(Math.random() * ExpressionsAndAnswers.length);
+    const r1 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
+    const r2 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
+    const r3 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
 
-    let expression = ExpressionsAndAnswers[r].uttryck;
-    let answer = ExpressionsAndAnswers[r].svar;
-    let wrong1 = ExpressionsAndAnswers[r1].svar;
-    let wrong2 = ExpressionsAndAnswers[r2].svar;
-    let wrong3 = ExpressionsAndAnswers[r3].svar;
-    console.log(`${expression} = ${answer} 
-    ${wrong1}
-    ${wrong2}
-    ${wrong3}`);
+    let answers = [];
+    expressionParagraph.textContent = ` ${ExpressionsAndAnswers[r].uttryck}`;
+    const right = ExpressionsAndAnswers[r].svar;
+    const wrong1 = ExpressionsAndAnswers[r1].svar;
+    const wrong2 = ExpressionsAndAnswers[r2].svar;
+    const wrong3 = ExpressionsAndAnswers[r3].svar;
 
+    answers.push(right, wrong1, wrong2, wrong3);
+    console.log(answers);
+
+    shuffle(answers);
+
+    for (let i = 0; i < answers.length; i++) {
+        if (answers[i] == right) {
+
+            answerButtons[i].addEventListener("click", () => {
+                answerButtons[i].classList.add("right");
+                score++;
+                answerButtons.disable;
+            })
+        }
+        else {
+
+            answerButtons[i].addEventListener("click", () => {
+                answerButtons[i].classList.add("wrong");
+                answerButtons.disable;
+            })
+        }
+        answerButtons[i].textContent = answers[i];
+    }
+
+    console.log(answers);
 }
 
-let idiom = null;
-function idiomFunc() {
-    let r = Math.floor(Math.random() * ExpressionsAndAnswers.length);
-    let { expression, rightAnswer } = ExpressionsAndAnswers[r].uttryck;
-    log(expression, rightAnswer);
-}
+
+
 
 func();
+const shuffle = (answers) => {
+    let i = 0, j = 0, temp = null;
+
+    for (i = answers.length - 1; i > 0; i -= 1) {
+        j = Math.floor(Math.random() * (i + 1))
+        temp = answers[i];
+        answers[i] = answers[j];
+        answers[j] = temp;
+
+    }
+}
+
