@@ -74,11 +74,11 @@ body{
 }
 
 .right{
-    background-color: greenyellow;
+    background-color: white;
 }
 
 .wrong{
-    background-color: rgb(199, 21, 21);
+    background-color: white;
 }
 
 @media screen and (max-width: 900px ) {

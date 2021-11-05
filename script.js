@@ -31,28 +31,34 @@ const func = async () => {
     answers.push(right, wrong1, wrong2, wrong3);
     shuffle(answers);
     round++;
+    const rightColor = document.querySelector(".right");
+    const wrongColor = document.querySelector(".wrong");
     for (let i = 0; i < answers.length; i++) {
         const answerButton = document.createElement("button");
         answerButton.classList.add("buttons");
 
-
         if (answers[i] == right) {
+            answerButton.classList.add("right");
             answerButton.addEventListener("click", () => {
                 allButtons = document.querySelectorAll(".buttons");
-                answerButton.classList.add("right");
+                rightColor.style.backgroundColor = "greenyellow";
+                wrongColor.style.backgroundColor = "red";
                 score++;
                 displayScore.textContent = `Poäng:${score}, Runda ${round}/${end}`;
                 for (let j = 0; j < answers.length; j++) {
                     allButtons[j].disabled = true;
                     buttonNext.disabled = false;
+
                 }
             })
         }
         else {
+            answerButton.classList.add("wrong");
 
             answerButton.addEventListener("click", () => {
                 allButtons = document.querySelectorAll(".buttons");
-                answerButton.classList.add("wrong");
+                rightColor.style.backgroundColor = "greenyellow";
+                wrongColor.style.backgroundColor = "red";
                 for (let j = 0; j < answers.length; j++) {
                     allButtons[j].disabled = true;
                     buttonNext.disabled = false;
