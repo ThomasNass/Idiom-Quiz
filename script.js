@@ -4,7 +4,8 @@ const displayScore = document.querySelector("#score");
 const buttonNext = document.querySelector("#next");
 buttonNext.disabled = true;
 let score = 0;
-
+let round = 0;
+let end = 20;
 
 const getData = async () => {
     const response = await fetch("orden.json");
@@ -29,7 +30,7 @@ const func = async () => {
 
     answers.push(right, wrong1, wrong2, wrong3);
     shuffle(answers);
-
+    round++;
     for (let i = 0; i < answers.length; i++) {
         const answerButton = document.createElement("button");
         answerButton.classList.add("buttons");
@@ -40,7 +41,7 @@ const func = async () => {
                 allButtons = document.querySelectorAll(".buttons");
                 answerButton.classList.add("right");
                 score++;
-                displayScore.textContent = `Poäng:${score}`;
+                displayScore.textContent = `Poäng:${score}, Runda ${round}/${end}`;
                 for (let j = 0; j < answers.length; j++) {
                     allButtons[j].disabled = true;
                     buttonNext.disabled = false;
