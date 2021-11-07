@@ -65,6 +65,7 @@ body{
 }
 
 .buttons{
+    background-color: white;
     border-top: 1px solid gray;
     padding: 3%;
 }
@@ -73,13 +74,16 @@ body{
     border-radius: 0 0 10px 10px;
 }
 
-.right{
-    background-color: white;
+
+
+.right:disabled{
+    background-color: greenyellow;
 }
 
 .wrong{
-    background-color: white;
+    background-color: red;
 }
+
 
 @media screen and (max-width: 900px ) {
 

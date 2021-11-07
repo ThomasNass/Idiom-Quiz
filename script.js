@@ -14,7 +14,6 @@ const getData = async () => {
 };
 const func = async () => {
     const ExpressionsAndAnswers = await getData();
-
     const r = Math.floor(Math.random() * ExpressionsAndAnswers.length);
     const r1 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
     const r2 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
@@ -41,10 +40,7 @@ const func = async () => {
             answerButton.classList.add("right");
             answerButton.addEventListener("click", () => {
                 allButtons = document.querySelectorAll(".buttons");
-                rightColor.style.backgroundColor = "greenyellow";
-                wrongColor.style.backgroundColor = "red";
                 score++;
-                displayScore.textContent = `Poäng:${score}, Runda ${round}/${end}`;
                 for (let j = 0; j < answers.length; j++) {
                     allButtons[j].disabled = true;
                     buttonNext.disabled = false;
@@ -53,12 +49,11 @@ const func = async () => {
             })
         }
         else {
-            answerButton.classList.add("wrong");
+
 
             answerButton.addEventListener("click", () => {
+                answerButton.classList.add("wrong");
                 allButtons = document.querySelectorAll(".buttons");
-                rightColor.style.backgroundColor = "greenyellow";
-                wrongColor.style.backgroundColor = "red";
                 for (let j = 0; j < answers.length; j++) {
                     allButtons[j].disabled = true;
                     buttonNext.disabled = false;
@@ -67,8 +62,11 @@ const func = async () => {
             })
         }
         buttonsDiv.appendChild(answerButton);
+        displayScore.textContent = `Poäng:${score}, Runda ${round}/${end}`;
         answerButton.textContent = answers[i];
-
+        if (round == end) {
+            location.href = "end.html";
+        };
     }
 
 }
