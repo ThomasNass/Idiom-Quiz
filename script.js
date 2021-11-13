@@ -2,10 +2,10 @@ const expressionParagraph = document.querySelector("#expression");
 const buttonsDiv = document.querySelector("#buttonsDiv");
 const displayScore = document.querySelector("#score");
 const buttonNext = document.querySelector("#next");
+const end = parseInt(localStorage.getItem("round"));
 buttonNext.disabled = true;
 let score = 0;
 let round = 0;
-let end = 20;
 
 const getData = async () => {
     const response = await fetch("orden.json");
@@ -64,7 +64,8 @@ const func = async () => {
         buttonsDiv.appendChild(answerButton);
         displayScore.textContent = `Poäng:${score}, Runda ${round}/${end}`;
         answerButton.textContent = answers[i];
-        if (round == end) {
+        if (round == end + 1) {
+            localStorage.setItem("score", score)
             location.href = "end.html";
         };
     }
