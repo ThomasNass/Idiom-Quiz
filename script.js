@@ -12,26 +12,36 @@ const getData = async () => {
     const data = await response.json();
     return data;
 };
+
+
 const func = async () => {
-    const ExpressionsAndAnswers = await getData();
-    const r = Math.floor(Math.random() * ExpressionsAndAnswers.length);
-    const r1 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
-    const r2 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
-    const r3 = Math.floor(Math.random() * ExpressionsAndAnswers.length);
+    const expressionsAndAnswers = await getData();
+    const r = Math.floor(Math.random() * expressionsAndAnswers.length);
+    const r1 = Math.floor(Math.random() * expressionsAndAnswers.length);
+    const r2 = Math.floor(Math.random() * expressionsAndAnswers.length);
+    const r3 = Math.floor(Math.random() * expressionsAndAnswers.length);
 
 
     let answers = [];
-    expressionParagraph.textContent = ` ${ExpressionsAndAnswers[r].uttryck}`;
-    let right = ExpressionsAndAnswers[r].svar;
-    let wrong1 = ExpressionsAndAnswers[r1].svar;
-    let wrong2 = ExpressionsAndAnswers[r2].svar;
-    let wrong3 = ExpressionsAndAnswers[r3].svar;
+    let right, wrong1, wrong2, wrong3;
 
+    if (localStorage.getItem("checked")) {
+        expressionParagraph.textContent = ` ${expressionsAndAnswers[r].svar}`;
+        right = expressionsAndAnswers[r].uttryck;
+        wrong1 = expressionsAndAnswers[r1].uttryck;
+        wrong2 = expressionsAndAnswers[r2].uttryck;
+        wrong3 = expressionsAndAnswers[r3].uttryck;
+    }
+    else {
+        expressionParagraph.textContent = ` ${expressionsAndAnswers[r].uttryck}`;
+        right = expressionsAndAnswers[r].svar;
+        wrong1 = expressionsAndAnswers[r1].svar;
+        wrong2 = expressionsAndAnswers[r2].svar;
+        wrong3 = expressionsAndAnswers[r3].svar;
+    }
     answers.push(right, wrong1, wrong2, wrong3);
     shuffle(answers);
     round++;
-    const rightColor = document.querySelector(".right");
-    const wrongColor = document.querySelector(".wrong");
     for (let i = 0; i < answers.length; i++) {
         const answerButton = document.createElement("button");
         answerButton.classList.add("buttons");

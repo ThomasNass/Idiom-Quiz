@@ -13,11 +13,11 @@
     },
     {
         "uttryck": "Ana argan list ",
-        "svar": " Ana att något obehagligt är på gång."
+        "svar": " Misstänka att något obehagligt är på gång."
     },
     {
         "uttryck": "Ana ugglor i mossen ",
-        "svar": " Ana något misstänkt, misstänka en dold fälla."
+        "svar": " Något misstänkt, misstänka en dold fälla."
     },
     {
         "uttryck": "Andra bullar ",
@@ -41,7 +41,7 @@
     },
     {
         "uttryck": "Avsked på grått papper ",
-        "svar": " Få avsked/sparken från en anställning på ett snöpligt sätt."
+        "svar": " Få sparken från en anställning på ett snöpligt sätt."
     },
     {
         "uttryck": "Bakom flötet ",
@@ -92,7 +92,7 @@
         "svar": " Begära ett strängt straff för någon."
     },
     {
-        "uttryck": "Behandla/ta i någon med silkesvantar ",
+        "uttryck": "Ta i någon med silkesvantar ",
         "svar": " Behandla någon mycket försiktigt."
     },
     {
@@ -1213,7 +1213,7 @@
     },
     {
         "uttryck": "Ha något i bagaget ",
-        "svar": " Även på formen 'Ha något med sig i bagaget'"
+        "svar": " Ett problem från det förflutna'"
     },
     {
         "uttryck": "Ha något på tungan ",
@@ -3029,7 +3029,7 @@
     },
     {
         "uttryck": "Osa svavel ",
-        "svar": " Ofta på formen 'Det osar svavel', det skälls eller svärs mycket."
+        "svar": " Det skälls eller svärs mycket."
     },
     {
         "uttryck": "Oskrivet blad ",
