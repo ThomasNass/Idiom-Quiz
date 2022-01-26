@@ -1,0 +1,12 @@
+@import url(style.css);
+
+
+#content{
+
+}
+
+
+#content h1, label,p,button,input, #idiom,#explanation{
+    padding: 20px;
+    font-size: 2rem;
+}

@@ -1,0 +1,6 @@
+@import url(style.css);
+
+h1,button{
+    font-size: 2rem;
+    padding: 10px;
+}

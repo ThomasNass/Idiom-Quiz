@@ -54,13 +54,10 @@ const func = async () => {
                 for (let j = 0; j < answers.length; j++) {
                     allButtons[j].disabled = true;
                     buttonNext.disabled = false;
-
                 }
             })
         }
         else {
-
-
             answerButton.addEventListener("click", () => {
                 answerButton.classList.add("wrong");
                 allButtons = document.querySelectorAll(".buttons");
@@ -71,6 +68,7 @@ const func = async () => {
                 }
             })
         }
+
         buttonsDiv.appendChild(answerButton);
         displayScore.textContent = `Poäng:${score}, Runda ${round}/${end}`;
         answerButton.textContent = answers[i];
@@ -100,7 +98,6 @@ const shuffle = (answers) => {
         temp = answers[i];
         answers[i] = answers[j];
         answers[j] = temp;
-
     }
 }
 
